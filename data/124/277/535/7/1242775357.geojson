@@ -1,0 +1,73 @@
+{
+  "id": 1242775357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.34905,25.32565,51.34905,25.32565",
+    "geom:latitude":25.32565,
+    "geom:longitude":51.34905,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Zar` al `Atiyah",
+    "gn:country_code":"QA",
+    "gn:dem":38,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":393291,
+    "gn:latitude":25.32565,
+    "gn:longitude":51.34905,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Zar\u2018 al \u2018At\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0632\u064e\u0631\u0652\u0639 \u0627\u064e\u0644\u0652\u0639\u064e\u062a\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Zar\u2018 al \u2018At\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149573,
+        1108758057
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":393291
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"74c49e66ee0422b43d114663d6dda729",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758057,
+            "locality_id":1242775357,
+            "region_id":1377149573
+        }
+    ],
+    "wof:id":1242775357,
+    "wof:lastmodified":1552502640,
+    "wof:name":"Zar` al `Atiyah",
+    "wof:parent_id":1108758057,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.34905,
+    25.32565,
+    51.34905,
+    25.32565
+],
+  "geometry": {"coordinates":[51.34905,25.32565],"type":"Point"}
+}

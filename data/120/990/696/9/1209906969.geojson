@@ -1,0 +1,80 @@
+{
+  "id": 1209906969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3283,25.98513,51.3283,25.98513",
+    "geom:latitude":25.98513,
+    "geom:longitude":51.3283,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Ghashshamiyah",
+    "gn:country_code":"QA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289995,
+    "gn:latitude":25.98513,
+    "gn:longitude":51.3283,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Al Ghashsh\u0101m\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u063a\u064e\u0634\u064e\u0651\u0627\u0645\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u063a\u0634\u0627\u0645\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Ghashamiyah",
+        "Ghash\u0101m\u012byah",
+        "Al Ghashamiya",
+        "Al Ghashsh\u0101m\u012byah",
+        "Al Ghash\u0101m\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108758103
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289995
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"66c8eafa9d178891e67ad3f6ae7d75de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758103,
+            "locality_id":1209906969,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1209906969,
+    "wof:lastmodified":1537683247,
+    "wof:name":"Al Ghashshamiyah",
+    "wof:parent_id":1108758103,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3283,
+    25.98513,
+    51.3283,
+    25.98513
+],
+  "geometry": {"coordinates":[51.3283,25.98513],"type":"Point"}
+}

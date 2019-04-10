@@ -1,0 +1,100 @@
+{
+  "id": 421192963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.42444,25.29194,51.42444,25.29194",
+    "geom:latitude":25.29194,
+    "geom:longitude":51.42444,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0627\u0646"
+    ],
+    "name:deu_x_preferred":[
+        "ar-Rayyan"
+    ],
+    "name:eng_x_preferred":[
+        "Ar Rayyan"
+    ],
+    "name:eng_x_variant":[
+        "Al Rayyan"
+    ],
+    "name:fra_x_preferred":[
+        "Al Rayyan"
+    ],
+    "name:nor_x_preferred":[
+        "Ar Rayyan"
+    ],
+    "name:unk_x_variant":[
+        "Al Raiyan"
+    ],
+    "qs:gn_country":"QA",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":289888,
+    "qs:gn_pop":272465,
+    "qs:name":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "qs:photos":2391,
+    "qs:photos_1k":484,
+    "qs:photos_9k":11,
+    "qs:photos_9r":10,
+    "qs:photos_all":2391,
+    "qs:photos_sr":17,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"10",
+    "qs:qs_id":1221269,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":1940512,
+    "src:geom":"quattroshapes",
+    "src:population":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149573,
+        1108758063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289888,
+        "gp:id":1940512,
+        "qs:id":1221269
+    },
+    "wof:country":"QA",
+    "wof:created":1459009755,
+    "wof:geomhash":"4848fc5363cb4c48651a9c5cb4d81a54",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758063,
+            "locality_id":421192963,
+            "region_id":1377149573
+        }
+    ],
+    "wof:id":421192963,
+    "wof:lastmodified":1552502640,
+    "wof:name":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "wof:parent_id":1108758063,
+    "wof:placetype":"locality",
+    "wof:population":272465,
+    "wof:population_rank":10,
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.42444,
+    25.29194,
+    51.42444,
+    25.29194
+],
+  "geometry": {"coordinates":[51.42444,25.29194],"type":"Point"}
+}

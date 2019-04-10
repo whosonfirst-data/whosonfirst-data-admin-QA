@@ -1,0 +1,73 @@
+{
+  "id": 1343954623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.4137,25.4184,51.4137,25.4184",
+    "geom:latitude":25.4184,
+    "geom:longitude":51.4137,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Thu`aylib",
+    "gn:country_code":"QA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11207584,
+    "gn:latitude":25.4184,
+    "gn:longitude":51.4137,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Thu\u2018aylib",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062b\u0639\u064a\u0644\u0628"
+    ],
+    "name:und_x_variant":[
+        "Thu\u2018aylib"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676777,
+        1108758101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11207584
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"fefab0626c62d55ceacfe24624ab4fa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758101,
+            "locality_id":1343954623,
+            "region_id":85676777
+        }
+    ],
+    "wof:id":1343954623,
+    "wof:lastmodified":1537683254,
+    "wof:name":"Thu`aylib",
+    "wof:parent_id":1108758101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.4137,
+    25.4184,
+    51.4137,
+    25.4184
+],
+  "geometry": {"coordinates":[51.4137,25.4184],"type":"Point"}
+}

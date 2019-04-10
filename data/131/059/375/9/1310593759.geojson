@@ -1,0 +1,73 @@
+{
+  "id": 1310593759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24923,25.33097,51.24923,25.33097",
+    "geom:latitude":25.33097,
+    "geom:longitude":51.24923,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"`Ayn ar Rukhaysah",
+    "gn:country_code":"QA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11207868,
+    "gn:latitude":25.33097,
+    "gn:longitude":51.24923,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"\u2018Ayn ar Rukhay\u015fah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0631\u062e\u064a\u0635\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Ayn ar Rukhay\u015fah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11207868
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"62eef54074a3865d03cb5f7cfe826e26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758115,
+            "locality_id":1310593759,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1310593759,
+    "wof:lastmodified":1537683255,
+    "wof:name":"`Ayn ar Rukhaysah",
+    "wof:parent_id":1108758115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24923,
+    25.33097,
+    51.24923,
+    25.33097
+],
+  "geometry": {"coordinates":[51.24923,25.33097],"type":"Point"}
+}

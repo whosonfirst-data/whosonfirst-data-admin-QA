@@ -1,0 +1,76 @@
+{
+  "id": 1276972237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.20467,25.23306,51.20467,25.23306",
+    "geom:latitude":25.23306,
+    "geom:longitude":51.20467,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rawdat Rashid",
+    "gn:country_code":"QA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442550,
+    "gn:latitude":25.23306,
+    "gn:longitude":51.20467,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Raw\u1e11at R\u0101shid",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0631\u064e\u0648\u0652\u0636\u064e\u0629 \u0631\u064e\u0627\u0634\u0650\u062f"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0636\u0629 \u0631\u0627\u0634\u062f"
+    ],
+    "name:und_x_variant":[
+        "Raw\u1e11at R\u0101shid"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442550
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"acfb54b77352ccd078c9304a3e8a5655",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758117,
+            "locality_id":1276972237,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1276972237,
+    "wof:lastmodified":1537683252,
+    "wof:name":"Rawdat Rashid",
+    "wof:parent_id":1108758117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.20467,
+    25.23306,
+    51.20467,
+    25.23306
+],
+  "geometry": {"coordinates":[51.20467,25.23306],"type":"Point"}
+}

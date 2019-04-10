@@ -1,0 +1,77 @@
+{
+  "id": 1309828139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.17608,25.22661,51.17608,25.22661",
+    "geom:latitude":25.22661,
+    "geom:longitude":51.17608,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Rawdat Shamim",
+    "gn:country_code":"QA",
+    "gn:dem":33,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289520,
+    "gn:latitude":25.22661,
+    "gn:longitude":51.17608,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Raw\u1e11at Sham\u012bm",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645\u0651 \u0634\u064e\u0645\u0650\u064a\u0645"
+    ],
+    "name:ara_x_variant":[
+        "\u0631\u0648\u0636\u0629 \u0634\u0645\u064a\u0645"
+    ],
+    "name:und_x_variant":[
+        "Umm Sham\u012bm",
+        "Raw\u1e11at Sham\u012bm"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289520
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"074654b78a82b055fd176aeea00956a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758117,
+            "locality_id":1309828139,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1309828139,
+    "wof:lastmodified":1537683238,
+    "wof:name":"Rawdat Shamim",
+    "wof:parent_id":1108758117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.17608,
+    25.22661,
+    51.17608,
+    25.22661
+],
+  "geometry": {"coordinates":[51.17608,25.22661],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 1209887475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.47233,25.61119,51.47233,25.61119",
+    "geom:latitude":25.61119,
+    "geom:longitude":51.47233,
+    "gn:admin1_code":"13",
+    "gn:asciiname":"Tinbak ash Sharqiyah al Qadimah",
+    "gn:country_code":"QA",
+    "gn:dem":6,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442541,
+    "gn:latitude":25.61119,
+    "gn:longitude":51.47233,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Tinbak ash Sharq\u012byah al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u062a\u0650\u0646\u0652\u0628\u064e\u0643"
+    ],
+    "name:ara_x_variant":[
+        "\u062a\u0646\u0628\u0643 \u0627\u0644\u0634\u0631\u0642\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Tinbak",
+        "Tinbak ash Sharq\u012byah al Qad\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676781,
+        1108758099
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442541
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"deac1ac2725c883f28a5a04c5e6bef31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758099,
+            "locality_id":1209887475,
+            "region_id":85676781
+        }
+    ],
+    "wof:id":1209887475,
+    "wof:lastmodified":1537683251,
+    "wof:name":"Tinbak ash Sharqiyah al Qadimah",
+    "wof:parent_id":1108758099,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.47233,
+    25.61119,
+    51.47233,
+    25.61119
+],
+  "geometry": {"coordinates":[51.47233,25.61119],"type":"Point"}
+}

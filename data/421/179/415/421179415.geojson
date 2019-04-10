@@ -1,0 +1,76 @@
+{
+  "id": 421179415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.504034,25.373791,51.504034,25.373791",
+    "geom:latitude":25.373791,
+    "geom:longitude":51.504034,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u062e\u064a\u0633\u0629",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0636\u0639\u0627\u064a\u0646",
+    "qs:photos":828,
+    "qs:photos_1k":168,
+    "qs:photos_9k":4,
+    "qs:photos_9r":6,
+    "qs:photos_all":828,
+    "qs:photos_sr":9,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":383407,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":55922566,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676749,
+        1377149699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55922566,
+        "qs:id":383407
+    },
+    "wof:country":"QA",
+    "wof:created":1459009220,
+    "wof:geomhash":"f0f627a750f26d8df22e06d1b7875013",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1377149699,
+            "locality_id":421179415,
+            "region_id":85676749
+        }
+    ],
+    "wof:id":421179415,
+    "wof:lastmodified":1552506367,
+    "wof:name":"\u0627\u0644\u062e\u064a\u0633\u0629",
+    "wof:parent_id":1377149699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.504034,
+    25.373791,
+    51.504034,
+    25.373791
+],
+  "geometry": {"coordinates":[51.504034,25.373791],"type":"Point"}
+}

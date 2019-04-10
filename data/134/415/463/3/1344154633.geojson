@@ -1,0 +1,78 @@
+{
+  "id": 1344154633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.27824,25.17493,51.27824,25.17493",
+    "geom:latitude":25.17493,
+    "geom:longitude":51.27824,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Umm az Zubar ash Sharqiyah",
+    "gn:country_code":"QA",
+    "gn:dem":42,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289550,
+    "gn:latitude":25.17493,
+    "gn:longitude":51.27824,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Umm az Zub\u0101r ash Sharq\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645\u0651 \u0627\u064e\u0644\u0632\u064f\u0651\u0628\u064e\u0627\u0631"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0627\u0644\u0632\u0628\u0627\u0631 \u0627\u0644\u0634\u0631\u0642\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm az Zabar",
+        "Umm az Zub\u0101r",
+        "Umm az Zub\u0101r ash Sharq\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289550
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"2db7a2f1cd4a64c43730bb4d8f20e0ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758117,
+            "locality_id":1344154633,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1344154633,
+    "wof:lastmodified":1537683239,
+    "wof:name":"Umm az Zubar ash Sharqiyah",
+    "wof:parent_id":1108758117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.27824,
+    25.17493,
+    51.27824,
+    25.17493
+],
+  "geometry": {"coordinates":[51.27824,25.17493],"type":"Point"}
+}

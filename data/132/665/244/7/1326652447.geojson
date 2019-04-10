@@ -1,0 +1,73 @@
+{
+  "id": 1326652447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.18966,26.11094,51.18966,26.11094",
+    "geom:latitude":26.11094,
+    "geom:longitude":51.18966,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Umm Sabbah",
+    "gn:country_code":"QA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406682,
+    "gn:latitude":26.11094,
+    "gn:longitude":51.18966,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Umm \u015eabb\u0101\u1e29",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645\u0651 \u0635\u064e\u0628\u064e\u0651\u0627\u062d"
+    ],
+    "name:und_x_variant":[
+        "Umm \u015eabb\u0101\u1e29"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108757947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406682
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"45efd577fb58dd82d57859002aa4a0c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757947,
+            "locality_id":1326652447,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1326652447,
+    "wof:lastmodified":1537683249,
+    "wof:name":"Umm Sabbah",
+    "wof:parent_id":1108757947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.18966,
+    26.11094,
+    51.18966,
+    26.11094
+],
+  "geometry": {"coordinates":[51.18966,26.11094],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1260072861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.22239,25.49131,51.22239,25.49131",
+    "geom:latitude":25.49131,
+    "geom:longitude":51.22239,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"As Samiriyah",
+    "gn:country_code":"QA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442536,
+    "gn:latitude":25.49131,
+    "gn:longitude":51.22239,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"As S\u0101mir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0633\u064e\u0651\u0627\u0645\u0650\u0631\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "As S\u0101mir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108757941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442536
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"65886fda83a4804027100f8056cfc64c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757941,
+            "locality_id":1260072861,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1260072861,
+    "wof:lastmodified":1537683251,
+    "wof:name":"As Samiriyah",
+    "wof:parent_id":1108757941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.22239,
+    25.49131,
+    51.22239,
+    25.49131
+],
+  "geometry": {"coordinates":[51.22239,25.49131],"type":"Point"}
+}

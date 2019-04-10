@@ -1,0 +1,79 @@
+{
+  "id": 1327020567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.08388,25.85959,51.08388,25.85959",
+    "geom:latitude":25.85959,
+    "geom:longitude":51.08388,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Ayn an Nu`man",
+    "gn:country_code":"QA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289899,
+    "gn:latitude":25.85959,
+    "gn:longitude":51.08388,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"\u2018Ayn an Nu\u2018m\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "An Nu\u2018m\u0101n"
+    ],
+    "name:ara_x_variant":[
+        "\u0639\u064a\u0646 \u0627\u0644\u0646\u0639\u0645\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Nu\u2018m\u0101n",
+        "Al Na\u2019man",
+        "Na\u2019am\u0101n",
+        "\u2018Ayn an Nu\u2018m\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108757947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289899
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"5d387bd420961647e219b6a905d307ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757947,
+            "locality_id":1327020567,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1327020567,
+    "wof:lastmodified":1537683244,
+    "wof:name":"`Ayn an Nu`man",
+    "wof:parent_id":1108757947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.08388,
+    25.85959,
+    51.08388,
+    25.85959
+],
+  "geometry": {"coordinates":[51.08388,25.85959],"type":"Point"}
+}

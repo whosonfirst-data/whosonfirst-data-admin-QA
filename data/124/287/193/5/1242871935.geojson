@@ -1,0 +1,76 @@
+{
+  "id": 1242871935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.17245,25.66834,51.17245,25.66834",
+    "geom:latitude":25.66834,
+    "geom:longitude":51.17245,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Qa`iyah",
+    "gn:country_code":"QA",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442535,
+    "gn:latitude":25.66834,
+    "gn:longitude":51.17245,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Al Q\u0101\u2018\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0642\u064e\u0627\u0639\u0650\u064a\u064e\u0651\u0629"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u0644\u0642\u0627\u0639\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Q\u0101\u2018\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442535
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"16ec05e96e3d0d9d5933edc2072f2b16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758107,
+            "locality_id":1242871935,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1242871935,
+    "wof:lastmodified":1537683251,
+    "wof:name":"Al Qa`iyah",
+    "wof:parent_id":1108758107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.17245,
+    25.66834,
+    51.17245,
+    25.66834
+],
+  "geometry": {"coordinates":[51.17245,25.66834],"type":"Point"}
+}

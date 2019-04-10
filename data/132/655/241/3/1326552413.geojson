@@ -1,0 +1,73 @@
+{
+  "id": 1326552413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.05597,25.71651,51.05597,25.71651",
+    "geom:latitude":25.71651,
+    "geom:longitude":51.05597,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Busayyir",
+    "gn:country_code":"QA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":290006,
+    "gn:latitude":25.71651,
+    "gn:longitude":51.05597,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Al Bu\u015fayyir",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0628\u064f\u0635\u064e\u064a\u0650\u0651\u0631"
+    ],
+    "name:und_x_variant":[
+        "Al Bu\u015fayyir"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":290006
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"9eb8c5f642a19c79970605bc03e3e1d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758107,
+            "locality_id":1326552413,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1326552413,
+    "wof:lastmodified":1537683247,
+    "wof:name":"Al Busayyir",
+    "wof:parent_id":1108758107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.05597,
+    25.71651,
+    51.05597,
+    25.71651
+],
+  "geometry": {"coordinates":[51.05597,25.71651],"type":"Point"}
+}

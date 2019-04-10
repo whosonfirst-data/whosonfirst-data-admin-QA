@@ -1,0 +1,75 @@
+{
+  "id": 1226056783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.61764,25.20401,51.61764,25.20401",
+    "geom:latitude":25.20401,
+    "geom:longitude":51.61764,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ra's Abu Fintas",
+    "gn:country_code":"QA",
+    "gn:dem":11,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289682,
+    "gn:latitude":25.20401,
+    "gn:longitude":51.61764,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Ra\u2019s Ab\u016b Fin\u0163\u0101s",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0631\u064e\u0623\u0652\u0633 \u0623\u064e\u0628\u064f\u0648 \u0641\u0650\u0646\u0652\u0637\u064e\u0627\u0633"
+    ],
+    "name:und_x_variant":[
+        "Ra\u2019s Ab\u016b Fin\u0163\u0101s"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676749,
+        1377149699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289682,
+        "wk:page":"Ra%27s_Abu_Fintas"
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"a10204a85f330e256f2de94217b67dbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1377149699,
+            "locality_id":1226056783,
+            "region_id":85676749
+        }
+    ],
+    "wof:id":1226056783,
+    "wof:lastmodified":1552506299,
+    "wof:name":"Ra's Abu Fintas",
+    "wof:parent_id":1377149699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.61764,
+    25.20401,
+    51.61764,
+    25.20401
+],
+  "geometry": {"coordinates":[51.61764,25.20401],"type":"Point"}
+}

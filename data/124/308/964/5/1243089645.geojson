@@ -1,0 +1,74 @@
+{
+  "id": 1243089645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.14986,25.58716,51.14986,25.58716",
+    "geom:latitude":25.58716,
+    "geom:longitude":51.14986,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Umm Ghuwaylinah",
+    "gn:country_code":"QA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289545,
+    "gn:latitude":25.58716,
+    "gn:longitude":51.14986,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Umm Ghuwayl\u012bnah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645\u0651 \u063a\u064f\u0648\u064e\u064a\u0652\u0644\u0650\u064a\u0646\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm Ghuwayl\u012bn\u0101",
+        "Umm Ghuwayl\u012bnah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289545
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"787b0d70de9defd9898f77cd6bd581e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758107,
+            "locality_id":1243089645,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1243089645,
+    "wof:lastmodified":1537683239,
+    "wof:name":"Umm Ghuwaylinah",
+    "wof:parent_id":1108758107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.14986,
+    25.58716,
+    51.14986,
+    25.58716
+],
+  "geometry": {"coordinates":[51.14986,25.58716],"type":"Point"}
+}

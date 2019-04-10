@@ -1,0 +1,75 @@
+{
+  "id": 421188791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.0785,25.617381,51.0785,25.617381",
+    "geom:latitude":25.617381,
+    "geom:longitude":51.0785,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u062c\u0645\u064a\u0644\u064a\u0629",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "qs:photos":23,
+    "qs:photos_1k":5,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":23,
+    "qs:photos_sr":1,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":31162,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":1940401,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149569,
+        1108758107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":1940401,
+        "qs:id":31162
+    },
+    "wof:country":"QA",
+    "wof:created":1459009578,
+    "wof:geomhash":"f672affe45ed6c953fd23ca104467e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758107,
+            "locality_id":421188791,
+            "region_id":1377149569
+        }
+    ],
+    "wof:id":421188791,
+    "wof:lastmodified":1552502631,
+    "wof:name":"\u0627\u0644\u062c\u0645\u064a\u0644\u064a\u0629",
+    "wof:parent_id":1108758107,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.0785,
+    25.617381,
+    51.0785,
+    25.617381
+],
+  "geometry": {"coordinates":[51.0785,25.617381],"type":"Point"}
+}

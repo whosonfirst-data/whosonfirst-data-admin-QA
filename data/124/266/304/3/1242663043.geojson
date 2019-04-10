@@ -1,0 +1,73 @@
+{
+  "id": 1242663043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.22603,26.11561,51.22603,26.11561",
+    "geom:latitude":26.11561,
+    "geom:longitude":51.22603,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Al Wa`b",
+    "gn:country_code":"QA",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406674,
+    "gn:latitude":26.11561,
+    "gn:longitude":51.22603,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Al Wa\u2018b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0652\u0648\u064e\u0639\u0652\u0628"
+    ],
+    "name:und_x_variant":[
+        "Al Wa\u2018b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108758109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406674
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"95603ad00fdea13928d8a8a0d07c575a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758109,
+            "locality_id":1242663043,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1242663043,
+    "wof:lastmodified":1537683249,
+    "wof:name":"Al Wa`b",
+    "wof:parent_id":1108758109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.22603,
+    26.11561,
+    51.22603,
+    26.11561
+],
+  "geometry": {"coordinates":[51.22603,26.11561],"type":"Point"}
+}

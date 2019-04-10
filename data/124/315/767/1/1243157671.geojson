@@ -1,0 +1,74 @@
+{
+  "id": 1243157671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.16389,26.03361,51.16389,26.03361",
+    "geom:latitude":26.03361,
+    "geom:longitude":51.16389,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Sidriyat Makin",
+    "gn:country_code":"QA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":406733,
+    "gn:latitude":26.03361,
+    "gn:longitude":51.16389,
+    "gn:modification_date":"2012-01-19",
+    "gn:name":"Sidr\u012byat Mak\u012bn",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0633\u0650\u062f\u0652\u0631\u0650\u064a\u064e\u0651\u0629 \u0645\u064e\u0643\u0650\u064a\u0646"
+    ],
+    "name:und_x_variant":[
+        "Sidr\u012byat Mak\u012bn"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108757947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":406733,
+        "wk:page":"Sidriyat_Makin"
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"445f5f8760adc6d2aabfe3d18ce1dc3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757947,
+            "locality_id":1243157671,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1243157671,
+    "wof:lastmodified":1537683250,
+    "wof:name":"Sidriyat Makin",
+    "wof:parent_id":1108757947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.16389,
+    26.03361,
+    51.16389,
+    26.03361
+],
+  "geometry": {"coordinates":[51.16389,26.03361],"type":"Point"}
+}

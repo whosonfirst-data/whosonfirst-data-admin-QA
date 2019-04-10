@@ -1,0 +1,73 @@
+{
+  "id": 1327027439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.93687,25.21264,50.93687,25.21264",
+    "geom:latitude":25.21264,
+    "geom:longitude":50.93687,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Ash Shabhanah",
+    "gn:country_code":"QA",
+    "gn:dem":37,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11205936,
+    "gn:latitude":25.21264,
+    "gn:longitude":50.93687,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Ash Shabh\u0101nah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u0628\u0647\u0627\u0646\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ash Shabh\u0101nah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108757949
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11205936
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"86f5b9a009f5bb19d9a0e0a0459efbce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757949,
+            "locality_id":1327027439,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1327027439,
+    "wof:lastmodified":1537683253,
+    "wof:name":"Ash Shabhanah",
+    "wof:parent_id":1108757949,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.93687,
+    25.21264,
+    50.93687,
+    25.21264
+],
+  "geometry": {"coordinates":[50.93687,25.21264],"type":"Point"}
+}

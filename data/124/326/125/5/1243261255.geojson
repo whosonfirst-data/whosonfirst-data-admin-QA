@@ -1,0 +1,73 @@
+{
+  "id": 1243261255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.24617,25.23835,51.24617,25.23835",
+    "geom:latitude":25.23835,
+    "geom:longitude":51.24617,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Gharafat ar Rayyan",
+    "gn:country_code":"QA",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11207875,
+    "gn:latitude":25.23835,
+    "gn:longitude":51.24617,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Ghar\u0101fat ar Rayy\u0101n",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u063a\u0631\u0627\u0641\u0629 \u0627\u0644\u0631\u064a\u0627\u0646"
+    ],
+    "name:und_x_variant":[
+        "Ghar\u0101fat ar Rayy\u0101n"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149569,
+        1108758117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11207875
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"c1a5e1c40d097dc55728b39ca4e66d17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758117,
+            "locality_id":1243261255,
+            "region_id":1377149569
+        }
+    ],
+    "wof:id":1243261255,
+    "wof:lastmodified":1552502631,
+    "wof:name":"Gharafat ar Rayyan",
+    "wof:parent_id":1108758117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.24617,
+    25.23835,
+    51.24617,
+    25.23835
+],
+  "geometry": {"coordinates":[51.24617,25.23835],"type":"Point"}
+}

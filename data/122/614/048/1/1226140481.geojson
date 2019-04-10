@@ -1,0 +1,77 @@
+{
+  "id": 1226140481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.97955,25.5006,50.97955,25.5006",
+    "geom:latitude":25.5006,
+    "geom:longitude":50.97955,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Umm al Quhab al Qadimah",
+    "gn:country_code":"QA",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":443259,
+    "gn:latitude":25.5006,
+    "gn:longitude":50.97955,
+    "gn:modification_date":"2017-12-08",
+    "gn:name":"Umm al Quh\u0101b al Qad\u012bmah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064f\u0645\u0651 \u0627\u0644\u0642\u064f\u0647\u064e\u0627\u0628 \u0627\u0644\u0639\u064e\u062a\u0650\u064a\u0642"
+    ],
+    "name:ara_x_variant":[
+        "\u0623\u0645 \u0627\u0644\u0642\u0647\u0627\u0628 \u0627\u0644\u0642\u062f\u064a\u0645\u0629"
+    ],
+    "name:und_x_variant":[
+        "Umm al Quh\u0101b al \u2018At\u012bq",
+        "Umm al Quh\u0101b al Qad\u012bmah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149569,
+        1108757941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":443259
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"318e092dcbec185e35676cc2171a4f26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757941,
+            "locality_id":1226140481,
+            "region_id":1377149569
+        }
+    ],
+    "wof:id":1226140481,
+    "wof:lastmodified":1552502631,
+    "wof:name":"Umm al Quhab al Qadimah",
+    "wof:parent_id":1108757941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.97955,
+    25.5006,
+    50.97955,
+    25.5006
+],
+  "geometry": {"coordinates":[50.97955,25.5006],"type":"Point"}
+}

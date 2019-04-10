@@ -1,0 +1,73 @@
+{
+  "id": 1260281353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.10868,25.1906,51.10868,25.1906",
+    "geom:latitude":25.1906,
+    "geom:longitude":51.10868,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Wadi al Jamal ash Shamali",
+    "gn:country_code":"QA",
+    "gn:dem":35,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11206141,
+    "gn:latitude":25.1906,
+    "gn:longitude":51.10868,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"W\u0101d\u012b al Jam\u0101l ash Sham\u0101l\u012b",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u0645\u0627\u0644 \u0627\u0644\u0634\u0645\u0627\u0644\u064a"
+    ],
+    "name:und_x_variant":[
+        "W\u0101d\u012b al Jam\u0101l ash Sham\u0101l\u012b"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108758117
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11206141
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"f08dc4a2b987d2f9054d16677b03d03c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758117,
+            "locality_id":1260281353,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1260281353,
+    "wof:lastmodified":1537683253,
+    "wof:name":"Wadi al Jamal ash Shamali",
+    "wof:parent_id":1108758117,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.10868,
+    25.1906,
+    51.10868,
+    25.1906
+],
+  "geometry": {"coordinates":[51.10868,25.1906],"type":"Point"}
+}

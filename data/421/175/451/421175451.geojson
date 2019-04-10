@@ -1,0 +1,83 @@
+{
+  "id": 421175451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.2009,26.12933,51.2009,26.12933",
+    "geom:latitude":26.12933,
+    "geom:longitude":51.2009,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644"
+    ],
+    "name:unk_x_variant":[
+        "Mad\u012bnat ash Sham\u0101l"
+    ],
+    "qs:gn_country":"QA",
+    "qs:gn_fcode":"PPLA",
+    "qs:gn_id":289739,
+    "qs:gn_pop":0,
+    "qs:name":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+    "qs:photos":51,
+    "qs:photos_1k":10,
+    "qs:photos_9k":1,
+    "qs:photos_9r":2,
+    "qs:photos_all":51,
+    "qs:photos_sr":2,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"7",
+    "qs:qs_id":371052,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":1940456,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108758109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289739,
+        "gp:id":1940456,
+        "qs:id":371052,
+        "wd:id":"Q310872",
+        "wk:page":"Madinat ash Shamal"
+    },
+    "wof:country":"QA",
+    "wof:created":1459009067,
+    "wof:geomhash":"dd1e0b84bf573374c10e66460d97b280",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758109,
+            "locality_id":421175451,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":421175451,
+    "wof:lastmodified":1501213528,
+    "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
+    "wof:parent_id":1108758109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.2009,
+    26.12933,
+    51.2009,
+    26.12933
+],
+  "geometry": {"coordinates":[51.2009,26.12933],"type":"Point"}
+}

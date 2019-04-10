@@ -1,0 +1,78 @@
+{
+  "id": 1259781163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.16059,25.5601,51.16059,25.5601",
+    "geom:latitude":25.5601,
+    "geom:longitude":51.16059,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Mazra`at as Sin`",
+    "gn:country_code":"QA",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289860,
+    "gn:latitude":25.5601,
+    "gn:longitude":51.16059,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Mazra\u2018at a\u015f \u015ein\u2018",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0635\u064f\u0651\u0646\u0652\u0639"
+    ],
+    "name:ara_x_variant":[
+        "A\u015f \u015eun\u2018",
+        "\u0645\u0632\u0631\u0639\u0629 \u0627\u0644\u0635\u0646\u0639"
+    ],
+    "name:und_x_variant":[
+        "A\u015f \u015eunu\u2018",
+        "Mazra\u2018at a\u015f \u015ein\u2018"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108757941
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289860
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"fe65908fed4bc0b9489445b19885049b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757941,
+            "locality_id":1259781163,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1259781163,
+    "wof:lastmodified":1537683243,
+    "wof:name":"Mazra`at as Sin`",
+    "wof:parent_id":1108757941,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.16059,
+    25.5601,
+    51.16059,
+    25.5601
+],
+  "geometry": {"coordinates":[51.16059,25.5601],"type":"Point"}
+}

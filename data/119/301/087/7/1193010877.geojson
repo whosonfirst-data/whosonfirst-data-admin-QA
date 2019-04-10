@@ -1,0 +1,73 @@
+{
+  "id": 1193010877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.3099,25.3413,51.3099,25.3413",
+    "geom:latitude":25.3413,
+    "geom:longitude":51.3099,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Laqtah",
+    "gn:country_code":"QA",
+    "gn:dem":29,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11207887,
+    "gn:latitude":25.3413,
+    "gn:longitude":51.3099,
+    "gn:modification_date":"2017-12-10",
+    "gn:name":"Laq\u0163ah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0644\u0642\u0637\u0629"
+    ],
+    "name:und_x_variant":[
+        "Laq\u0163ah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149569,
+        1108758115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11207887
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"d32488a137774ff458711acba7f4f794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758115,
+            "locality_id":1193010877,
+            "region_id":1377149569
+        }
+    ],
+    "wof:id":1193010877,
+    "wof:lastmodified":1552502630,
+    "wof:name":"Laqtah",
+    "wof:parent_id":1108758115,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.3099,
+    25.3413,
+    51.3099,
+    25.3413
+],
+  "geometry": {"coordinates":[51.3099,25.3413],"type":"Point"}
+}

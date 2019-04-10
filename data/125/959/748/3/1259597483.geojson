@@ -1,0 +1,83 @@
+{
+  "id": 1259597483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2019-03-12",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.53227,25.24617,51.53227,25.24617",
+    "geom:latitude":25.24617,
+    "geom:longitude":51.53227,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Nu`ayjah",
+    "gn:country_code":"QA",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289698,
+    "gn:latitude":25.24617,
+    "gn:longitude":51.53227,
+    "gn:modification_date":"2016-08-03",
+    "gn:name":"Nu\u2018ayjah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "name:ara_x_preferred":[
+        "\u0646\u064f\u0639\u064e\u064a\u0652\u062c\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Naeeja",
+        "Naeejeh",
+        "Nu\u2018auah",
+        "An Nu\u2018ayiah",
+        "Na\u2019aijah",
+        "Nu\u2018aija",
+        "Nu\u2018ayjah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676749,
+        1377149699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289698,
+        "wk:page":"Nu%60ayjah"
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"984bb4c6f296c7fed034bbe3f8209d6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1377149699,
+            "locality_id":1259597483,
+            "region_id":85676749
+        }
+    ],
+    "wof:id":1259597483,
+    "wof:lastmodified":1552506300,
+    "wof:name":"Nu`ayjah",
+    "wof:parent_id":1377149699,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[
+        1108758041
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.53227,
+    25.24617000000001,
+    51.53227,
+    25.24617000000001
+],
+  "geometry": {"coordinates":[51.53227,25.24617000000001],"type":"Point"}
+}

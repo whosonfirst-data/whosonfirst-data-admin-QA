@@ -1,0 +1,74 @@
+{
+  "id": 1309791345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.30453,26.07098,51.30453,26.07098",
+    "geom:latitude":26.07098,
+    "geom:longitude":51.30453,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"`Adhbah ash Shamaliyah",
+    "gn:country_code":"QA",
+    "gn:dem":9,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11208399,
+    "gn:latitude":26.07098,
+    "gn:longitude":51.30453,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"\u2018Adhbah ash Sham\u0101l\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0639\u0630\u0628\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "\u2018Adhbah ash Sham\u0101l\u012byah",
+        "\u2018Adhbah al Jad\u012bdah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108758109
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11208399
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"c2a981be245863b217b3205cc2b37fca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758109,
+            "locality_id":1309791345,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1309791345,
+    "wof:lastmodified":1537683255,
+    "wof:name":"`Adhbah ash Shamaliyah",
+    "wof:parent_id":1108758109,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.30453,
+    26.07098,
+    51.30453,
+    26.07098
+],
+  "geometry": {"coordinates":[51.30453,26.07098],"type":"Point"}
+}

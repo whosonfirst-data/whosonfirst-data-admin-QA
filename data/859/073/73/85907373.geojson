@@ -1,0 +1,110 @@
+{
+  "id": 85907373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":382129.717568,
+    "geom:bbox":"50.594476,26.233563,50.594476,26.233563",
+    "geom:latitude":26.233563,
+    "geom:longitude":50.594476,
+    "gn:latitude":25.8575,
+    "gn:longitude":51.44139,
+    "iso:country":"QA",
+    "lbl:latitude":26.233563,
+    "lbl:longitude":50.594476,
+    "mps:latitude":26.234223,
+    "mps:longitude":50.59562,
+    "mz:hierarchy_label":0,
+    "mz:is_current":-1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":15.0,
+    "mz:tier_locality":2,
+    "name:ara_x_preferred":[
+        "Al Hura"
+    ],
+    "name:ara_x_variant":[
+        "\u0627\u064e\u0644\u0652\u062e\u064f\u0631\u064e\u064a\u0652\u0635",
+        "\u0627\u0644\u062e\u0631\u064a\u0635"
+    ],
+    "name:unk_x_variant":[
+        "Al Khuray\u015f",
+        "Al Hura"
+    ],
+    "qs:gn_adm0_cc":"BH",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_local":290340,
+    "qs:gn_namadm1":"04",
+    "qs:gn_name":"Al Khuray\u015f",
+    "qs:local_max":1563,
+    "qs:local_sum":7156,
+    "qs:localhoods":22,
+    "qs:name":"Al Hura",
+    "qs:name_adm0":"\u0627\u0644\u0628\u062d\u0631\u064a\u0646",
+    "qs:name_adm1":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:name_adm2":"\u062d\u0648\u0631\u0627",
+    "qs:name_local":"\u0627\u0644\u0645\u0646\u0627\u0645\u0629",
+    "qs:photo_max":40,
+    "qs:photo_sum":67,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":4,
+    "qs:woe_adm0":23424753,
+    "qs:woe_adm1":2344720,
+    "qs:woe_adm2":56438052,
+    "qs:woe_lau":0,
+    "qs:woe_local":1967057,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191569,
+        85632167,
+        85669053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442528,
+        "gp:id":22725914,
+        "qs:id":1086008
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"49edc0c2c58b03d95faca5a02639de3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632167,
+            "locality_id":-1,
+            "neighbourhood_id":85907373,
+            "region_id":85669053
+        }
+    ],
+    "wof:id":85907373,
+    "wof:lang":[
+        "ara"
+    ],
+    "wof:lastmodified":1531936551,
+    "wof:name":"Al Hura",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.594476,
+    26.233563,
+    50.594476,
+    26.233563
+],
+  "geometry": {"coordinates":[50.594476,26.233563],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 1293122959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.07673,24.82163,51.07673,24.82163",
+    "geom:latitude":24.82163,
+    "geom:longitude":51.07673,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al `Amiriyah",
+    "gn:country_code":"QA",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11206340,
+    "gn:latitude":24.82163,
+    "gn:longitude":51.07673,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Al \u2018\u0100mir\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0639\u0627\u0645\u0631\u064a\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al \u2018\u0100mir\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108757959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11206340
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"54cfd90256a537f34f2f4969a12067c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757959,
+            "locality_id":1293122959,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1293122959,
+    "wof:lastmodified":1537683253,
+    "wof:name":"Al `Amiriyah",
+    "wof:parent_id":1108757959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.07673,
+    24.82163,
+    51.07673,
+    24.82163
+],
+  "geometry": {"coordinates":[51.07673,24.82163],"type":"Point"}
+}

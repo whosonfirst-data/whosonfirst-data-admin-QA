@@ -1,0 +1,66 @@
+{
+  "id": 890429539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.45951,25.25527,51.45951,25.25527",
+    "geom:latitude":25.25527,
+    "geom:longitude":51.45951,
+    "gn:country":"QA",
+    "gn:fcode":"EST",
+    "gn:pop":110,
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Al Waab Compound",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"1",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149573,
+        1108758067
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":6269547,
+        "gp:id":55922529,
+        "qs:id":103113
+    },
+    "wof:country":"QA",
+    "wof:created":1469051819,
+    "wof:geomhash":"ec3c665ba6189c6777eed114bebbc1ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758067,
+            "locality_id":890429539,
+            "region_id":1377149573
+        }
+    ],
+    "wof:id":890429539,
+    "wof:lastmodified":1552502639,
+    "wof:name":"Al Waab Compound",
+    "wof:parent_id":1108758067,
+    "wof:placetype":"locality",
+    "wof:population":110,
+    "wof:population_rank":1,
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.45951,
+    25.25527,
+    51.45951,
+    25.25527
+],
+  "geometry": {"coordinates":[51.45951,25.25527],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1209128315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.78758,25.41867,50.78758,25.41867",
+    "geom:latitude":25.41867,
+    "geom:longitude":50.78758,
+    "gn:admin1_code":"14",
+    "gn:asciiname":"Al Khattiyah",
+    "gn:country_code":"QA",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":289963,
+    "gn:latitude":25.41867,
+    "gn:longitude":50.78758,
+    "gn:modification_date":"2017-12-07",
+    "gn:name":"Al Kha\u0163\u0163\u012byah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062e\u064e\u0637\u0650\u0651\u064a\u064e\u0651\u0629"
+    ],
+    "name:und_x_variant":[
+        "Al Kha\u0163\u012byah",
+        "Al Kha\u0163\u0163\u012byah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        1377149569,
+        1108757951
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289963
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"ea93828d257df2839e9deb9b86d2cdfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757951,
+            "locality_id":1209128315,
+            "region_id":1377149569
+        }
+    ],
+    "wof:id":1209128315,
+    "wof:lastmodified":1552502631,
+    "wof:name":"Al Khattiyah",
+    "wof:parent_id":1108757951,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.78758,
+    25.41867,
+    50.78758,
+    25.41867
+],
+  "geometry": {"coordinates":[50.78758,25.41867],"type":"Point"}
+}

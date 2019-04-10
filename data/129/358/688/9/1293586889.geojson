@@ -1,0 +1,70 @@
+{
+  "id": 1293586889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"50.98623,24.97221,50.98623,24.97221",
+    "geom:latitude":24.97221,
+    "geom:longitude":50.98623,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Al Wusayl",
+    "gn:country_code":"QA",
+    "gn:dem":47,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11206491,
+    "gn:latitude":24.97221,
+    "gn:longitude":50.98623,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Al Wusayl",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0648\u0633\u064a\u0644"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676755,
+        1108757959
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11206491
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"17900d00cd7054203b41ee01dcfa2914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757959,
+            "locality_id":1293586889,
+            "region_id":85676755
+        }
+    ],
+    "wof:id":1293586889,
+    "wof:lastmodified":1537683253,
+    "wof:name":"Al Wusayl",
+    "wof:parent_id":1108757959,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    50.98623,
+    24.97221,
+    50.98623,
+    24.97221
+],
+  "geometry": {"coordinates":[50.98623,24.97221],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 1276317607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.30479,25.53383,51.30479,25.53383",
+    "geom:latitude":25.53383,
+    "geom:longitude":51.30479,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Abu Thaylah",
+    "gn:country_code":"QA",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442542,
+    "gn:latitude":25.53383,
+    "gn:longitude":51.30479,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"Ab\u016b Thaylah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u064e\u0628\u064f\u0648 \u062b\u064e\u064a\u0652\u0644\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "Ab\u016b Thaylah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676777,
+        1108758101
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442542,
+        "wk:page":"Abu_Thaylah"
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"e12d95b544fa1ba01c90e51b9eb44df1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758101,
+            "locality_id":1276317607,
+            "region_id":85676777
+        }
+    ],
+    "wof:id":1276317607,
+    "wof:lastmodified":1537683251,
+    "wof:name":"Abu Thaylah",
+    "wof:parent_id":1108758101,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.30479,
+    25.53383,
+    51.30479,
+    25.53383
+],
+  "geometry": {"coordinates":[51.30479,25.53383],"type":"Point"}
+}

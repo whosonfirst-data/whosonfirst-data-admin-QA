@@ -1,0 +1,73 @@
+{
+  "id": 1293589939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.20583,25.84778,51.20583,25.84778",
+    "geom:latitude":25.84778,
+    "geom:longitude":51.20583,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"As Sulaymi `Abd al `Aziz Bin Khalifah",
+    "gn:country_code":"QA",
+    "gn:dem":27,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":442522,
+    "gn:latitude":25.84778,
+    "gn:longitude":51.20583,
+    "gn:modification_date":"2016-08-04",
+    "gn:name":"As Sulaym\u012b \u2018Abd al \u2018Az\u012bz Bin Khal\u012bfah",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0627\u064e\u0644\u0633\u064f\u0651\u0644\u064e\u064a\u0652\u0645\u0650\u064a \u0639\u064e\u0628\u0652\u062f \u0627\u064e\u0644\u0639\u0632\u0650\u064a\u0632 \u0628\u0650\u0646 \u062e\u064e\u0644\u0650\u064a\u0641\u064e\u0629"
+    ],
+    "name:und_x_variant":[
+        "As Sulaym\u012b \u2018Abd al \u2018Az\u012bz Bin Khal\u012bfah"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676767,
+        1108758083
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":442522
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"31c0dada76272c5fef24d5ed2efd1c1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758083,
+            "locality_id":1293589939,
+            "region_id":85676767
+        }
+    ],
+    "wof:id":1293589939,
+    "wof:lastmodified":1537683250,
+    "wof:name":"As Sulaymi `Abd al `Aziz Bin Khalifah",
+    "wof:parent_id":1108758083,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.20583,
+    25.84778,
+    51.20583,
+    25.84778
+],
+  "geometry": {"coordinates":[51.20583,25.84778],"type":"Point"}
+}

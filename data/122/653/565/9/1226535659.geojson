@@ -1,0 +1,73 @@
+{
+  "id": 1226535659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.15312,26.06693,51.15312,26.06693",
+    "geom:latitude":26.06693,
+    "geom:longitude":51.15312,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Umm Jasim",
+    "gn:country_code":"QA",
+    "gn:dem":7,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11208370,
+    "gn:latitude":26.06693,
+    "gn:longitude":51.15312,
+    "gn:modification_date":"2016-08-05",
+    "gn:name":"Umm J\u0101sim",
+    "gn:population":0,
+    "gn:timezone":"Asia/Qatar",
+    "iso:country":"QA",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:ara_x_preferred":[
+        "\u0623\u0645 \u062c\u0627\u0633\u0645"
+    ],
+    "name:und_x_variant":[
+        "Umm J\u0101sim"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        85676773,
+        1108757947
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11208370
+    },
+    "wof:country":"QA",
+    "wof:geomhash":"21476cf8d858a0001aa52a0743dc0d61",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108757947,
+            "locality_id":1226535659,
+            "region_id":85676773
+        }
+    ],
+    "wof:id":1226535659,
+    "wof:lastmodified":1537683255,
+    "wof:name":"Umm Jasim",
+    "wof:parent_id":1108757947,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.15312,
+    26.06693,
+    51.15312,
+    26.06693
+],
+  "geometry": {"coordinates":[51.15312,26.06693],"type":"Point"}
+}
