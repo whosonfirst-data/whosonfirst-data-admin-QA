@@ -21,11 +21,11 @@
     "name:ara_x_variant":[
         "\u0641\u0648\u064a\u0631\u0637"
     ],
-    "name:dut_x_preferred":[
-        "Fuwayrit"
-    ],
     "name:eng_x_preferred":[
         "Fuwayrit"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0648\u06cc\u0631\u0637"
     ],
     "name:lit_x_preferred":[
         "Fuvajritas"
@@ -33,8 +33,8 @@
     "name:mzn_x_preferred":[
         "\u0641\u0648\u06cc\u0631\u0637"
     ],
-    "name:per_x_preferred":[
-        "\u0641\u0648\u06cc\u0631\u0637"
+    "name:nld_x_preferred":[
+        "Fuwayrit"
     ],
     "name:tur_x_preferred":[
         "Fuveyrit"
@@ -72,7 +72,7 @@
         }
     ],
     "wof:id":890441699,
-    "wof:lastmodified":1527727233,
+    "wof:lastmodified":1561830372,
     "wof:name":"Fuwayri\u0163",
     "wof:parent_id":1108758103,
     "wof:placetype":"locality",

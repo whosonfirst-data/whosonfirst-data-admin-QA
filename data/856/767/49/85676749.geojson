@@ -31,9 +31,6 @@
     "name:afr_x_preferred":[
         "Doha"
     ],
-    "name:alb_x_preferred":[
-        "Doha"
-    ],
     "name:amh_x_preferred":[
         "\u12f6\u1203"
     ],
@@ -43,9 +40,6 @@
     "name:ara_x_variant":[
         "\u0628\u064e\u0644\u064e\u062f\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u062f\u064e\u0651\u0648\u0652\u062d\u064e\u0629",
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062f\u0648\u062d\u0629"
-    ],
-    "name:arm_x_preferred":[
-        "\u0534\u0578\u0570\u0561"
     ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062f\u0648\u062d\u0647"
@@ -62,14 +56,14 @@
     "name:bak_x_preferred":[
         "\u0414\u043e\u04bb\u0430"
     ],
-    "name:baq_x_preferred":[
-        "Doha"
-    ],
     "name:bel_x_preferred":[
         "\u0414\u043e\u0445\u0430"
     ],
     "name:ben_x_preferred":[
         "\u09a6\u09cb\u09b9\u09be"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f51\u0fb7\u0f7c\u0f0b\u0f67\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Doha"
@@ -80,35 +74,35 @@
     "name:bul_x_preferred":[
         "\u0414\u043e\u0445\u0430"
     ],
-    "name:bur_x_preferred":[
-        "\u1012\u102d\u102f\u101f\u102c\u1019\u103c\u102d\u102f\u1037"
-    ],
     "name:bxr_x_preferred":[
         "\u0414\u043e\u0445\u0430"
     ],
     "name:cat_x_preferred":[
         "Doha"
     ],
+    "name:ces_x_preferred":[
+        "Dauh\u00e1"
+    ],
     "name:che_x_preferred":[
         "\u0414\u043e\u0445\u0430"
-    ],
-    "name:chi_x_preferred":[
-        "\u591a\u54c8"
     ],
     "name:ckb_x_preferred":[
         "\u062f\u06d5\u0648\u062d\u06d5"
     ],
-    "name:cze_x_preferred":[
-        "Dauh\u00e1"
+    "name:cym_x_preferred":[
+        "Doha"
     ],
     "name:dan_x_preferred":[
+        "Doha"
+    ],
+    "name:deu_x_preferred":[
         "Doha"
     ],
     "name:diq_x_preferred":[
         "Dewhe"
     ],
-    "name:dut_x_preferred":[
-        "Doha"
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03cc\u03c7\u03b1"
     ],
     "name:eng_x_preferred":[
         "Doha"
@@ -122,8 +116,14 @@
     "name:est_x_preferred":[
         "Doha"
     ],
+    "name:eus_x_preferred":[
+        "Doha"
+    ],
     "name:ext_x_preferred":[
         "Doha"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0648\u062d\u0647"
     ],
     "name:fin_x_preferred":[
         "Doha"
@@ -131,19 +131,13 @@
     "name:fra_x_preferred":[
         "Ad Dawhah"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_variant":[
         "Doha"
     ],
     "name:frp_x_preferred":[
         "Doha"
     ],
     "name:fry_x_preferred":[
-        "Doha"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d3\u10dd\u10f0\u10d0"
-    ],
-    "name:ger_x_preferred":[
         "Doha"
     ],
     "name:gla_x_preferred":[
@@ -154,9 +148,6 @@
     ],
     "name:glg_x_preferred":[
         "Doha"
-    ],
-    "name:gre_x_preferred":[
-        "\u039d\u03c4\u03cc\u03c7\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0aa6\u0acb\u0ab9\u0abe"
@@ -185,8 +176,8 @@
     "name:hun_x_preferred":[
         "Doha"
     ],
-    "name:ice_x_preferred":[
-        "Doha"
+    "name:hye_x_preferred":[
+        "\u0534\u0578\u0570\u0561"
     ],
     "name:ido_x_preferred":[
         "Doha"
@@ -198,6 +189,9 @@
         "Doha"
     ],
     "name:ind_x_preferred":[
+        "Doha"
+    ],
+    "name:isl_x_preferred":[
         "Doha"
     ],
     "name:ita_x_preferred":[
@@ -220,6 +214,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0ca6\u0cca\u0cb9\u0cbe"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d3\u10dd\u10f0\u10d0"
     ],
     "name:kaz_x_preferred":[
         "\u0414\u043e\u0445\u0430"
@@ -254,26 +251,29 @@
     "name:ltz_x_preferred":[
         "Doha"
     ],
-    "name:mac_x_preferred":[
-        "\u0414\u043e\u0445\u0430"
-    ],
     "name:mal_x_preferred":[
         "\u0d26\u0d4b\u0d39"
     ],
     "name:mar_x_preferred":[
         "\u0926\u094b\u0939\u093e"
     ],
-    "name:may_x_preferred":[
-        "Doha"
-    ],
     "name:mhr_x_preferred":[
         "\u0414\u043e\u0445\u043e"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0414\u043e\u0445\u0430"
     ],
     "name:mlg_x_preferred":[
         "Doha"
     ],
     "name:mon_x_preferred":[
         "\u0414\u043e\u0445\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Doha"
+    ],
+    "name:mya_x_preferred":[
+        "\u1012\u102d\u102f\u101f\u102c\u1019\u103c\u102d\u102f\u1037"
     ],
     "name:mzn_x_preferred":[
         "\u062f\u0648\u062d\u0647"
@@ -286,6 +286,9 @@
     ],
     "name:nep_x_preferred":[
         "\u0926\u094b\u0939\u093e"
+    ],
+    "name:nld_x_preferred":[
+        "Doha"
     ],
     "name:nno_x_preferred":[
         "Doha"
@@ -308,9 +311,6 @@
     "name:pan_x_preferred":[
         "\u0a26\u0a4b\u0a39\u0a3e"
     ],
-    "name:per_x_preferred":[
-        "\u062f\u0648\u062d\u0647"
-    ],
     "name:pms_x_preferred":[
         "Doha"
     ],
@@ -326,7 +326,7 @@
     "name:pus_x_preferred":[
         "\u062f\u0648\u0647\u0627"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Doha"
     ],
     "name:rus_x_preferred":[
@@ -344,7 +344,7 @@
     "name:sin_x_preferred":[
         "\u0daf\u0ddd\u0dc4\u0dcf"
     ],
-    "name:slo_x_preferred":[
+    "name:slk_x_preferred":[
         "Dauha"
     ],
     "name:slv_x_preferred":[
@@ -357,6 +357,9 @@
         "Dooxa"
     ],
     "name:spa_x_preferred":[
+        "Doha"
+    ],
+    "name:sqi_x_preferred":[
         "Doha"
     ],
     "name:srp_x_preferred":[
@@ -385,9 +388,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e42\u0e14\u0e2e\u0e32"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f51\u0fb7\u0f7c\u0f0b\u0f67\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Doha"
@@ -428,9 +428,6 @@
     "name:war_x_preferred":[
         "Doha"
     ],
-    "name:wel_x_preferred":[
-        "Doha"
-    ],
     "name:xmf_x_preferred":[
         "\u10d3\u10dd\u10f0\u10d0"
     ],
@@ -441,6 +438,9 @@
         "Doha"
     ],
     "name:yue_x_preferred":[
+        "\u591a\u54c8"
+    ],
+    "name:zho_x_preferred":[
         "\u591a\u54c8"
     ],
     "ne:abbrev":"",
@@ -572,7 +572,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550490,
+    "wof:lastmodified":1561830370,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
