@@ -22,11 +22,11 @@
         "Umm B\u0101b",
         "\u0623\u0645 \u0628\u0627\u0628"
     ],
-    "name:dut_x_preferred":[
-        "Umm Bab"
-    ],
     "name:eng_x_preferred":[
         "Umm Bab"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0628\u0627\u0628"
     ],
     "name:gle_x_preferred":[
         "Umm Bab"
@@ -37,8 +37,8 @@
     "name:mzn_x_preferred":[
         "\u0627\u0645 \u0628\u0627\u0628"
     ],
-    "name:per_x_preferred":[
-        "\u0627\u0645 \u0628\u0627\u0628"
+    "name:nld_x_preferred":[
+        "Umm Bab"
     ],
     "name:pol_x_preferred":[
         "Umm Bab"
@@ -85,7 +85,7 @@
         }
     ],
     "wof:id":890435895,
-    "wof:lastmodified":1552502630,
+    "wof:lastmodified":1561830372,
     "wof:name":"Umm B\u0101b",
     "wof:parent_id":1108757949,
     "wof:placetype":"locality",

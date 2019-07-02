@@ -35,14 +35,14 @@
     "name:cat_x_preferred":[
         "Ar Rayyan"
     ],
-    "name:chi_x_preferred":[
-        "\u963f\u723e\u62c9\u63da\u9ad4\u80b2\u6703"
-    ],
     "name:dan_x_preferred":[
         "Al-Rayyan"
     ],
-    "name:dut_x_preferred":[
-        "Ar Rayyan"
+    "name:deu_x_preferred":[
+        "Ar-Rayyan"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u03a1\u03b1\u03b3\u03b9\u03ac\u03bd"
     ],
     "name:eng_x_preferred":[
         "Al Rayyan"
@@ -60,17 +60,8 @@
     "name:fra_x_preferred":[
         "Al Rayyan"
     ],
-    "name:fre_x_preferred":[
-        "Al Rayyan"
-    ],
-    "name:ger_x_preferred":[
-        "Ar-Rayyan"
-    ],
     "name:gle_x_preferred":[
         "Al Rayyan"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03bb \u03a1\u03b1\u03b3\u03b9\u03ac\u03bd"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0ab0\u0ac7\u0aaf\u0abe\u0aa8 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -105,14 +96,8 @@
     "name:lit_x_preferred":[
         "Rajanas"
     ],
-    "name:mac_x_preferred":[
-        "\u0420\u0430\u0458\u0430\u043d"
-    ],
     "name:mar_x_preferred":[
         "\u0905\u0932 \u0930\u0947\u092f\u093e\u0928 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
-    ],
-    "name:may_x_preferred":[
-        "Ar Rayyan"
     ],
     "name:mkd_x_preferred":[
         "\u0420\u0430\u0458\u0430\u043d"
@@ -131,9 +116,6 @@
     ],
     "name:nob_x_preferred":[
         "Al Rayyan kommune"
-    ],
-    "name:per_x_preferred":[
-        "\u0631\u06cc\u0627\u0646"
     ],
     "name:pol_x_preferred":[
         "Ar-Rajjan"
@@ -182,6 +164,9 @@
     ],
     "name:vie_x_preferred":[
         "Al Rayyan"
+    ],
+    "name:zho_x_preferred":[
+        "\u963f\u723e\u62c9\u63da\u9ad4\u80b2\u6703"
     ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[],
@@ -233,7 +218,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1552506364,
+    "wof:lastmodified":1561830371,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

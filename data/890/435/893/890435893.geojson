@@ -22,14 +22,11 @@
         "\u0623\u0645 \u0635\u0644\u0627\u0644 \u0645\u062d\u0645\u062f",
         "\u0623\u0645 \u0635\u0644\u0627\u0644"
     ],
-    "name:dut_x_preferred":[
-        "Umm Salal Mohammed"
+    "name:deu_x_preferred":[
+        "Umm Salal"
     ],
     "name:eng_x_preferred":[
         "Umm Salal Mohammed"
-    ],
-    "name:ger_x_preferred":[
-        "Umm Salal"
     ],
     "name:gle_x_preferred":[
         "Umm Salal Mohammed"
@@ -42,6 +39,9 @@
     ],
     "name:lit_x_preferred":[
         "Um Salal Muhamadas"
+    ],
+    "name:nld_x_preferred":[
+        "Umm Salal Mohammed"
     ],
     "name:pol_x_preferred":[
         "Umm Salal Muhammad"
@@ -92,7 +92,7 @@
         }
     ],
     "wof:id":890435893,
-    "wof:lastmodified":1514499727,
+    "wof:lastmodified":1561830372,
     "wof:name":"Umm \u015eal\u0101l Mu\u1e29ammad",
     "wof:parent_id":1108758101,
     "wof:placetype":"locality",

@@ -167,9 +167,6 @@
     "name:cym_x_preferred":[
         "Qatar"
     ],
-    "name:cze_x_preferred":[
-        "Katar"
-    ],
     "name:dan_x_preferred":[
         "Qatar"
     ],
@@ -774,7 +771,6 @@
         "\u5361\u5854\u5c14"
     ],
     "name:zho_x_variant":[
-        "\u5361\u5854\u5c14",
         "\u5361\u9054\u570b",
         "\u5361\u9054"
     ],
@@ -934,7 +930,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1552506707,
+    "wof:lastmodified":1561830369,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

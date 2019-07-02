@@ -39,8 +39,11 @@
     "name:dan_x_preferred":[
         "Umm Salal"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Umm Salal"
+    ],
+    "name:ell_x_preferred":[
+        "\u039f\u03c5\u03bc \u03a3\u03b1\u03bb\u03ac\u03bb"
     ],
     "name:eng_x_preferred":[
         "Umm Slal"
@@ -57,15 +60,6 @@
     ],
     "name:fra_x_preferred":[
         "Umm Salal"
-    ],
-    "name:fre_x_preferred":[
-        "Umm Salal"
-    ],
-    "name:ger_x_preferred":[
-        "Umm Salal"
-    ],
-    "name:gre_x_preferred":[
-        "\u039f\u03c5\u03bc \u03a3\u03b1\u03bb\u03ac\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0a89\u0aae \u0ab8\u0ab2\u0abe\u0ab2 \u0aae\u0acd\u0aaf\u0ac1\u0aa8\u0abf\u0ab8\u0abf\u0aaa\u0abe\u0ab2\u0abf\u0a9f\u0ac0"
@@ -97,17 +91,14 @@
     "name:lmo_x_preferred":[
         "Umm Salal"
     ],
-    "name:mac_x_preferred":[
-        "\u0423\u043c \u0421\u0430\u043b\u0430\u043b"
-    ],
     "name:mar_x_preferred":[
         "\u0909\u092e\u094d\u092e \u0938\u0932\u093e\u0932 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
     ],
-    "name:may_x_preferred":[
-        "Umm Salal Municipality"
-    ],
     "name:mkd_x_preferred":[
         "\u0423\u043c \u0421\u0430\u043b\u0430\u043b"
+    ],
+    "name:msa_x_preferred":[
+        "Umm Salal Municipality"
     ],
     "name:mzn_x_preferred":[
         "\u0627\u0645 \u0635\u0644\u0627\u0644"
@@ -117,9 +108,6 @@
     ],
     "name:nob_x_preferred":[
         "Umm Salal Kommune"
-    ],
-    "name:per_x_preferred":[
-        "\u0627\u0645 \u0635\u0644\u0627\u0644"
     ],
     "name:pol_x_preferred":[
         "Umm Salal"
@@ -290,7 +278,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550481,
+    "wof:lastmodified":1561830370,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
