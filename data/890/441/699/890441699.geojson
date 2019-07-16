@@ -21,6 +21,9 @@
     "name:ara_x_variant":[
         "\u0641\u0648\u064a\u0631\u0637"
     ],
+    "name:ceb_x_preferred":[
+        "Fuwayri\u0163"
+    ],
     "name:eng_x_preferred":[
         "Fuwayrit"
     ],
@@ -34,6 +37,9 @@
         "\u0641\u0648\u06cc\u0631\u0637"
     ],
     "name:nld_x_preferred":[
+        "Fuwayrit"
+    ],
+    "name:nno_x_preferred":[
         "Fuwayrit"
     ],
     "name:tur_x_preferred":[
@@ -72,7 +78,7 @@
         }
     ],
     "wof:id":890441699,
-    "wof:lastmodified":1561830372,
+    "wof:lastmodified":1563284974,
     "wof:name":"Fuwayri\u0163",
     "wof:parent_id":1108758103,
     "wof:placetype":"locality",

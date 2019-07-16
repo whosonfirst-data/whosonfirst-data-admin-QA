@@ -21,11 +21,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0648\u064a\u0633"
     ],
+    "name:ceb_x_preferred":[
+        "Ar Ru'ays"
+    ],
     "name:eng_x_preferred":[
         "Ar Ru'ays"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u0631\u0648\u06cc\u0633"
+    ],
+    "name:fra_x_preferred":[
+        "Al Rouwa\u00efs"
     ],
     "name:gle_x_preferred":[
         "Ar Ru'ays"
@@ -42,6 +48,9 @@
     "name:nld_x_preferred":[
         "Ar Ru'ays"
     ],
+    "name:nno_x_preferred":[
+        "Ar Ru'ays"
+    ],
     "name:pol_x_preferred":[
         "Ar-Ruwajs"
     ],
@@ -53,6 +62,9 @@
     ],
     "name:unk_x_variant":[
         "Ar Ruwais"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e0-\u10e0\u10e3\u10d4\u10d8\u10e1\u10d8"
     ],
     "qs:name":"Ar Ru\u2019ays",
     "qs:photos_9r":0,
@@ -85,7 +97,7 @@
         }
     ],
     "wof:id":890430391,
-    "wof:lastmodified":1561830372,
+    "wof:lastmodified":1563284975,
     "wof:name":"Ar Ru\u2019ays",
     "wof:parent_id":1108758109,
     "wof:placetype":"locality",

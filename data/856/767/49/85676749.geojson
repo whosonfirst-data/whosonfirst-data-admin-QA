@@ -41,6 +41,9 @@
         "\u0628\u064e\u0644\u064e\u062f\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u062f\u064e\u0651\u0648\u0652\u062d\u064e\u0629",
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u062f\u0648\u062d\u0629"
     ],
+    "name:arg_x_preferred":[
+        "Doha"
+    ],
     "name:arz_x_preferred":[
         "\u0627\u0644\u062f\u0648\u062d\u0647"
     ],
@@ -55,6 +58,9 @@
     ],
     "name:bak_x_preferred":[
         "\u0414\u043e\u04bb\u0430"
+    ],
+    "name:bcl_x_preferred":[
+        "Doha"
     ],
     "name:bel_x_preferred":[
         "\u0414\u043e\u0445\u0430"
@@ -80,6 +86,12 @@
     "name:cat_x_preferred":[
         "Doha"
     ],
+    "name:cdo_x_preferred":[
+        "Doha"
+    ],
+    "name:ceb_x_preferred":[
+        "Doha"
+    ],
     "name:ces_x_preferred":[
         "Dauh\u00e1"
     ],
@@ -100,6 +112,9 @@
     ],
     "name:diq_x_preferred":[
         "Dewhe"
+    ],
+    "name:dty_x_preferred":[
+        "\u0926\u094b\u0939\u093e"
     ],
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03cc\u03c7\u03b1"
@@ -149,6 +164,9 @@
     "name:glg_x_preferred":[
         "Doha"
     ],
+    "name:grn_x_preferred":[
+        "Doha"
+    ],
     "name:guj_x_preferred":[
         "\u0aa6\u0acb\u0ab9\u0abe"
     ],
@@ -156,6 +174,9 @@
         "Doha"
     ],
     "name:hat_x_preferred":[
+        "Doha"
+    ],
+    "name:hau_x_preferred":[
         "Doha"
     ],
     "name:heb_x_preferred":[
@@ -186,6 +207,9 @@
         "Doha"
     ],
     "name:ilo_x_preferred":[
+        "Doha"
+    ],
+    "name:ina_x_preferred":[
         "Doha"
     ],
     "name:ind_x_preferred":[
@@ -239,6 +263,9 @@
     "name:lav_x_preferred":[
         "Doha"
     ],
+    "name:lij_x_preferred":[
+        "Doha"
+    ],
     "name:lit_x_preferred":[
         "Doha"
     ],
@@ -250,6 +277,9 @@
     ],
     "name:ltz_x_preferred":[
         "Doha"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u094b\u0939\u093e"
     ],
     "name:mal_x_preferred":[
         "\u0d26\u0d4b\u0d39"
@@ -302,6 +332,9 @@
     "name:oci_x_preferred":[
         "Doha"
     ],
+    "name:olo_x_preferred":[
+        "Doha"
+    ],
     "name:ori_x_preferred":[
         "\u0b26\u0b4b\u0b39\u0b3e"
     ],
@@ -310,6 +343,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a26\u0a4b\u0a39\u0a3e"
+    ],
+    "name:pap_x_preferred":[
+        "Doha"
     ],
     "name:pms_x_preferred":[
         "Doha"
@@ -331,6 +367,9 @@
     ],
     "name:rus_x_preferred":[
         "\u0414\u043e\u0445\u0430"
+    ],
+    "name:sat_x_preferred":[
+        "\u1c6b\u1c5a\u1c66\u1c5f"
     ],
     "name:scn_x_preferred":[
         "Doha"
@@ -369,6 +408,9 @@
         "Doha"
     ],
     "name:swe_x_preferred":[
+        "Doha"
+    ],
+    "name:szl_x_preferred":[
         "Doha"
     ],
     "name:tam_x_preferred":[
@@ -427,6 +469,9 @@
     ],
     "name:war_x_preferred":[
         "Doha"
+    ],
+    "name:wuu_x_preferred":[
+        "\u591a\u54c8"
     ],
     "name:xmf_x_preferred":[
         "\u10d3\u10dd\u10f0\u10d0"
@@ -572,7 +617,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561830370,
+    "wof:lastmodified":1563284938,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

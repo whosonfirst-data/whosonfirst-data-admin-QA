@@ -50,6 +50,9 @@
     "name:ang_x_preferred":[
         "Qatar"
     ],
+    "name:ang_x_variant":[
+        "Catar"
+    ],
     "name:ara_x_preferred":[
         "\u0642\u0637\u0631"
     ],
@@ -67,6 +70,9 @@
     ],
     "name:arz_x_preferred":[
         "\u0645\u0634\u064a\u062e\u0629 \u0642\u0637\u0631"
+    ],
+    "name:arz_x_variant":[
+        "\u0642\u0637\u0631"
     ],
     "name:asm_x_preferred":[
         "\u0995\u09be\u099f\u09be\u09f0"
@@ -101,11 +107,14 @@
     "name:bel_x_preferred":[
         "\u041a\u0430\u0442\u0430\u0440"
     ],
-    "name:bel_x_variant":[
-        "\u041a\u0430\u0442\u0430\u0440"
-    ],
     "name:ben_x_preferred":[
         "\u0995\u09be\u09a4\u09be\u09b0"
+    ],
+    "name:bgn_x_preferred":[
+        "\u06a9\u062a\u0631"
+    ],
+    "name:bho_x_preferred":[
+        "\u0915\u093c\u0924\u0930"
     ],
     "name:bod_x_preferred":[
         "\u0f41\u0f0b\u0f4f\u0f62\u0f0d"
@@ -125,6 +134,9 @@
     "name:bre_x_variant":[
         "Qatar"
     ],
+    "name:brh_x_preferred":[
+        "Katar"
+    ],
     "name:bug_x_preferred":[
         "Qatar"
     ],
@@ -142,6 +154,9 @@
     ],
     "name:ceb_x_preferred":[
         "Katar"
+    ],
+    "name:ceb_x_variant":[
+        "Qatar"
     ],
     "name:ces_x_preferred":[
         "Katar"
@@ -184,6 +199,9 @@
     ],
     "name:dsb_x_preferred":[
         "Katar"
+    ],
+    "name:dty_x_preferred":[
+        "\u0915\u0924\u093e\u0930"
     ],
     "name:dzo_x_preferred":[
         "\u0f40\u0f0b\u0f4f\u0f62\u0f0b"
@@ -241,6 +259,9 @@
     "name:frp_x_preferred":[
         "Qatar"
     ],
+    "name:frr_x_preferred":[
+        "Kataar"
+    ],
     "name:fry_x_preferred":[
         "Katar"
     ],
@@ -267,6 +288,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0915\u0924\u093e\u0930"
+    ],
+    "name:grn_x_preferred":[
+        "Kat\u00e1ra"
+    ],
+    "name:gsw_x_preferred":[
+        "Katar"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0aa4\u0abe\u0ab0 (\u0a85\u0ab0\u0aac\u0ab8\u0acd\u0aa4\u0abe\u0aa8)",
@@ -319,11 +346,17 @@
     "name:hye_x_preferred":[
         "\u053f\u0561\u057f\u0561\u0580"
     ],
+    "name:hyw_x_preferred":[
+        "\u0554\u0561\u0569\u0561\u0580"
+    ],
     "name:ido_x_preferred":[
         "Katar"
     ],
     "name:ile_x_preferred":[
         "Quatar"
+    ],
+    "name:ile_x_variant":[
+        "Katar"
     ],
     "name:ilo_x_preferred":[
         "Katar"
@@ -376,6 +409,9 @@
     "name:kbd_x_preferred":[
         "\u041a\u044a\u0430\u0442\u0430\u0440"
     ],
+    "name:kbd_x_variant":[
+        "\u041a\u0430\u0442\u0430\u0440"
+    ],
     "name:khm_x_preferred":[
         "\u1780\u17b6\u178f\u17b6\u179a"
     ],
@@ -400,6 +436,9 @@
     "name:kor_x_preferred":[
         "\uce74\ud0c0\ub974"
     ],
+    "name:ksh_x_preferred":[
+        "Kataa"
+    ],
     "name:kur_x_preferred":[
         "Qeter"
     ],
@@ -420,6 +459,9 @@
     ],
     "name:lez_x_preferred":[
         "\u041a\u044a\u0430\u0442\u0430\u0440"
+    ],
+    "name:lfn_x_preferred":[
+        "Catar"
     ],
     "name:lij_x_preferred":[
         "Qatar"
@@ -442,6 +484,9 @@
     "name:lrc_x_preferred":[
         "\u0642\u0623\u0637\u0623\u0631"
     ],
+    "name:lrc_x_variant":[
+        "\u0642\u0637\u0631"
+    ],
     "name:ltz_x_preferred":[
         "Katar"
     ],
@@ -451,6 +496,12 @@
     "name:lug_x_preferred":[
         "Kataa"
     ],
+    "name:lzh_x_preferred":[
+        "\u5361\u9054\u570b"
+    ],
+    "name:mai_x_preferred":[
+        "\u0915\u0924\u093e\u0930"
+    ],
     "name:mal_x_preferred":[
         "\u0d16\u0d24\u0d4d\u0d24\u0d7c"
     ],
@@ -459,6 +510,9 @@
     ],
     "name:mar_x_preferred":[
         "\u0915\u0924\u093e\u0930"
+    ],
+    "name:min_x_preferred":[
+        "Qatar"
     ],
     "name:mkd_x_preferred":[
         "\u041a\u0430\u0442\u0430\u0440"
@@ -489,6 +543,12 @@
     ],
     "name:mzn_x_preferred":[
         "\u0642\u0637\u0631"
+    ],
+    "name:nah_x_preferred":[
+        "Catar"
+    ],
+    "name:nan_x_preferred":[
+        "Qatar"
     ],
     "name:nau_x_preferred":[
         "Qatar"
@@ -532,6 +592,9 @@
     "name:oci_x_preferred":[
         "Qatar"
     ],
+    "name:olo_x_preferred":[
+        "Katar"
+    ],
     "name:ori_x_preferred":[
         "\u0b15\u0b24\u0b30"
     ],
@@ -552,6 +615,9 @@
     ],
     "name:pan_x_preferred":[
         "\u0a15\u0a24\u0a30"
+    ],
+    "name:pap_x_preferred":[
+        "Catar"
     ],
     "name:pih_x_preferred":[
         "Kataa"
@@ -601,17 +667,24 @@
     "name:san_x_preferred":[
         "\u0915\u0924\u093e\u0930"
     ],
+    "name:sat_x_preferred":[
+        "\u1c60\u1c5f\u1c5b\u1c5f\u1c68"
+    ],
     "name:scn_x_preferred":[
         "Qatar"
     ],
     "name:sco_x_preferred":[
         "Qatar"
     ],
+    "name:sgs_x_preferred":[
+        "Katars"
+    ],
     "name:sin_x_preferred":[
         "\u0d9a\u0dcf\u0da7\u0dcf\u0dbb\u0dca"
     ],
     "name:sin_x_variant":[
-        "\u0d9a\u0da7\u0dcf\u0dbb\u0dca\u0dba"
+        "\u0d9a\u0da7\u0dcf\u0dbb\u0dca\u0dba",
+        "\u0d9a\u0da7\u0dcf\u0dbb\u0dca"
     ],
     "name:slk_x_preferred":[
         "Katar (\u0161t\u00e1t)",
@@ -625,6 +698,9 @@
     ],
     "name:sna_x_preferred":[
         "Qatar"
+    ],
+    "name:snd_x_preferred":[
+        "\u0642\u0637\u0631"
     ],
     "name:som_x_preferred":[
         "Qatar"
@@ -698,6 +774,9 @@
     "name:ton_x_preferred":[
         "Kat\u0101"
     ],
+    "name:tpi_x_preferred":[
+        "Qatar"
+    ],
     "name:tuk_x_preferred":[
         "Katar"
     ],
@@ -725,6 +804,9 @@
     "name:uzb_x_preferred":[
         "Qatar"
     ],
+    "name:vec_x_preferred":[
+        "Qatar"
+    ],
     "name:vep_x_preferred":[
         "Katar"
     ],
@@ -734,8 +816,14 @@
     "name:vie_x_variant":[
         "Ca-ta"
     ],
+    "name:vls_x_preferred":[
+        "Qatar"
+    ],
     "name:vol_x_preferred":[
         "Katar\u00e4n"
+    ],
+    "name:vro_x_preferred":[
+        "Katar"
     ],
     "name:war_x_preferred":[
         "Catar"
@@ -761,7 +849,13 @@
     "name:yor_x_variant":[
         "Or\u00edl\u1eb9\u0301\u00e8de Kota"
     ],
+    "name:yue_x_preferred":[
+        "\u5361\u5854\u723e"
+    ],
     "name:zea_x_preferred":[
+        "Qatar"
+    ],
+    "name:zha_x_preferred":[
         "Qatar"
     ],
     "name:zho_min_nan_x_preferred":[
@@ -930,7 +1024,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561830369,
+    "wof:lastmodified":1563284934,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

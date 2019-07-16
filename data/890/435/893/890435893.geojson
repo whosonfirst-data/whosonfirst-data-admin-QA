@@ -22,11 +22,17 @@
         "\u0623\u0645 \u0635\u0644\u0627\u0644 \u0645\u062d\u0645\u062f",
         "\u0623\u0645 \u0635\u0644\u0627\u0644"
     ],
+    "name:ceb_x_preferred":[
+        "Umm \u015eal\u0101l Mu\u1e29ammad"
+    ],
     "name:deu_x_preferred":[
         "Umm Salal"
     ],
     "name:eng_x_preferred":[
         "Umm Salal Mohammed"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0635\u0644\u0627\u0644"
     ],
     "name:gle_x_preferred":[
         "Umm Salal Mohammed"
@@ -43,6 +49,9 @@
     "name:nld_x_preferred":[
         "Umm Salal Mohammed"
     ],
+    "name:nno_x_preferred":[
+        "Umm Salal Muhammed"
+    ],
     "name:pol_x_preferred":[
         "Umm Salal Muhammad"
     ],
@@ -58,8 +67,14 @@
     "name:tur_x_preferred":[
         "Umm Selal Muhammed"
     ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
+    ],
     "name:unk_x_variant":[
         "Umm Salal Mohammad"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10db-\u10e1\u10d0\u10da\u10d0\u10da \u10db\u10e3\u10f0\u10d0\u10db\u10d4\u10d3\u10d8"
     ],
     "qs:name":"Umm \u015eal\u0101l Mu\u1e29ammad",
     "qs:photos_9r":0,
@@ -92,7 +107,7 @@
         }
     ],
     "wof:id":890435893,
-    "wof:lastmodified":1561830372,
+    "wof:lastmodified":1563284977,
     "wof:name":"Umm \u015eal\u0101l Mu\u1e29ammad",
     "wof:parent_id":1108758101,
     "wof:placetype":"locality",

@@ -40,6 +40,9 @@
     "name:cat_x_preferred":[
         "Dukhan"
     ],
+    "name:ceb_x_preferred":[
+        "Dukh\u0101n"
+    ],
     "name:ces_x_preferred":[
         "Dukhan"
     ],
@@ -211,6 +214,9 @@
     "name:tam_x_preferred":[
         "\u0ba4\u0bc1\u0b95\u0bcd\u0b95\u0bbe\u0ba9\u0bcd"
     ],
+    "name:tgl_x_preferred":[
+        "Dukhan"
+    ],
     "name:tur_x_preferred":[
         "Duhan"
     ],
@@ -272,7 +278,7 @@
         }
     ],
     "wof:id":890430389,
-    "wof:lastmodified":1561830372,
+    "wof:lastmodified":1563284975,
     "wof:name":"Dukh\u0101n",
     "wof:parent_id":1108757951,
     "wof:placetype":"locality",

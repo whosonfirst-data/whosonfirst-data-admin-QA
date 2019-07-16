@@ -26,6 +26,12 @@
         "\u0628\u064e\u0644\u064e\u062f\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0631\u064e\u0651\u064a\u064e\u0651\u0627\u0646",
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0631\u064a\u0627\u0646"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0627\u0646"
+    ],
+    "name:ast_x_preferred":[
+        "Conceyu d'Al Rayy\u00e1n"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u09b0\u09be\u09af\u09bc\u09af\u09bc\u09be\u09a8 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
@@ -34,6 +40,9 @@
     ],
     "name:cat_x_preferred":[
         "Ar Rayyan"
+    ],
+    "name:ceb_x_preferred":[
+        "Balad\u012byat ar Rayy\u0101n"
     ],
     "name:dan_x_preferred":[
         "Al-Rayyan"
@@ -51,6 +60,9 @@
         "Ar Rayyan",
         "Al Rayyan Municipality"
     ],
+    "name:epo_x_preferred":[
+        "Rajan"
+    ],
     "name:fas_x_preferred":[
         "\u0631\u06cc\u0627\u0646"
     ],
@@ -61,6 +73,12 @@
         "Al Rayyan"
     ],
     "name:gle_x_preferred":[
+        "Al Rayyan"
+    ],
+    "name:glg_x_preferred":[
+        "Ar Rayyan"
+    ],
+    "name:grn_x_preferred":[
         "Al Rayyan"
     ],
     "name:guj_x_preferred":[
@@ -95,6 +113,9 @@
     ],
     "name:lit_x_preferred":[
         "Rajanas"
+    ],
+    "name:lmo_x_preferred":[
+        "Ar Rayyan"
     ],
     "name:mar_x_preferred":[
         "\u0905\u0932 \u0930\u0947\u092f\u093e\u0928 \u092e\u094d\u092f\u0941\u0928\u094d\u0938\u093f\u092a\u093e\u0932\u094d\u091f\u0940"
@@ -132,6 +153,9 @@
     "name:spa_x_preferred":[
         "Municipio de Ray\u00e1n"
     ],
+    "name:spa_x_variant":[
+        "Ray\u00e1n"
+    ],
     "name:swe_x_preferred":[
         "Al Rayyan"
     ],
@@ -162,8 +186,14 @@
     "name:urd_x_preferred":[
         "\u0627\u0644\u0631\u06cc\u0627\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0631\u06cc\u0627\u0646"
+    ],
     "name:vie_x_preferred":[
         "Al Rayyan"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10e0-\u10e0\u10d0\u10d8\u10d0\u10dc\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u963f\u723e\u62c9\u63da\u9ad4\u80b2\u6703"
@@ -218,7 +248,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561830371,
+    "wof:lastmodified":1563284956,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
