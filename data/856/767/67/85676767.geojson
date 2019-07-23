@@ -36,6 +36,9 @@
         "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u0630\u062e\u064a\u0631\u0629",
         "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u064a\u0631\u0629"
     ],
+    "name:ast_x_preferred":[
+        "Conceyu d'Al Khor"
+    ],
     "name:ben_x_preferred":[
         "\u0986\u09b2 \u0996\u09cb\u09b0"
     ],
@@ -62,6 +65,9 @@
     ],
     "name:fra_x_preferred":[
         "Al Khawr"
+    ],
+    "name:grn_x_preferred":[
+        "Al Khor"
     ],
     "name:guj_x_preferred":[
         "\u0a85\u0ab2 \u0a96\u0acb\u0ab0"
@@ -161,6 +167,9 @@
     ],
     "name:vie_x_preferred":[
         "Al Khor"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10da-\u10ee\u10dd\u10e0\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
     ],
     "name:zho_x_preferred":[
         "\u827e\u79d1\u723e"
@@ -289,7 +298,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561830369,
+    "wof:lastmodified":1563284936,
     "wof:name":"Al Khor",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

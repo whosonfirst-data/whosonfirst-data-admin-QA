@@ -16,6 +16,12 @@
     "name:ara_x_preferred":[
         "\u0627\u0644\u0648\u0643\u0631\u0629"
     ],
+    "name:eng_x_preferred":[
+        "Wakra"
+    ],
+    "name:nld_x_preferred":[
+        "Wakra"
+    ],
     "name:unk_x_variant":[
         "Wakra"
     ],
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":421178945,
-    "wof:lastmodified":1505340639,
+    "wof:lastmodified":1563284973,
     "wof:name":"\u0627\u0644\u0648\u0643\u0631\u0629",
     "wof:parent_id":1108757953,
     "wof:placetype":"locality",

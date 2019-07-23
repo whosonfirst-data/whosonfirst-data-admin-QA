@@ -87,11 +87,17 @@
     "name:jpn_x_preferred":[
         "\u30a2\u30c3\uff1d\u30b6\u30a2\u30fc\u30a4\u30f3"
     ],
+    "name:jpn_x_variant":[
+        "\u30a6\u30f3\u30e0\u30fb\u30b5\u30e9\u30fc\u30eb"
+    ],
     "name:kan_x_preferred":[
         "\u0c89\u0cae\u0ccd \u0cb8\u0cb2\u0cbe\u0cb2\u0ccd \u0caa\u0cc1\u0cb0\u0cb8\u0cad\u0cc6"
     ],
     "name:kor_x_preferred":[
         "\uc54c\ub2e4\uc60c"
+    ],
+    "name:kor_x_variant":[
+        "\uc6c0\uc0b4\ub784"
     ],
     "name:lav_x_preferred":[
         "Umm-Sal\u0101las pa\u0161vald\u012bba"
@@ -120,11 +126,17 @@
     "name:nld_x_preferred":[
         "Umm Salal"
     ],
+    "name:nno_x_preferred":[
+        "Umm Salal"
+    ],
     "name:nob_x_preferred":[
         "Umm Salal Kommune"
     ],
     "name:pol_x_preferred":[
         "Ad-Da\u2019ajin"
+    ],
+    "name:pol_x_variant":[
+        "Umm Salal"
     ],
     "name:por_x_preferred":[
         "Umm Salal"
@@ -137,6 +149,9 @@
     ],
     "name:spa_x_preferred":[
         "Municipio de Al Daayen"
+    ],
+    "name:spa_x_variant":[
+        "Umm Salal"
     ],
     "name:swe_x_preferred":[
         "Umm Salal Kommun"
@@ -153,8 +168,14 @@
     "name:tur_x_preferred":[
         "Ed Daayin"
     ],
+    "name:tur_x_variant":[
+        "Umm Selal"
+    ],
     "name:ukr_x_preferred":[
         "\u0410\u0434-\u0414\u0430\u0457\u044f\u043d"
+    ],
+    "name:ukr_x_variant":[
+        "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
         "\u0627\u0644\u0638\u0639\u0627\u064a\u0646"
@@ -165,8 +186,17 @@
     "name:urd_x_preferred":[
         "\u0628\u0644\u062f\u06cc\u06c1 \u0627\u0644\u0636\u0639\u0627\u06cc\u0646"
     ],
+    "name:urd_x_variant":[
+        "\u0627\u0645 \u0635\u0644\u0627\u0644"
+    ],
     "name:vie_x_preferred":[
         "\u0110\u00f4 th\u1ecb t\u1ef1 tr\u1ecb Umm Salal"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10e3\u10db-\u10e1\u10d0\u10da\u10d0\u10da\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u932b\u62c9\u52d2"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"QAT",
@@ -289,7 +319,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1561830370,
+    "wof:lastmodified":1563284937,
     "wof:name":"Al Daayen",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

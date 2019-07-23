@@ -13,6 +13,18 @@
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
     "mz:note":"quattroshapes points import (201603)",
+    "name:eng_x_preferred":[
+        "Umm Salal Ali"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0645 \u0635\u0644\u0627\u0644 \u0639\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Umm Salal Ali"
+    ],
+    "name:nno_x_preferred":[
+        "Umm Salal Ali"
+    ],
     "name:por_x_preferred":[
         "Umm Salal Ali"
     ],
@@ -64,7 +76,7 @@
         }
     ],
     "wof:id":421191725,
-    "wof:lastmodified":1527716378,
+    "wof:lastmodified":1563284968,
     "wof:name":"Umm Salal Ali",
     "wof:parent_id":1108758099,
     "wof:placetype":"locality",

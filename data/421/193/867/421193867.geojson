@@ -19,20 +19,86 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u064a\u0631\u0629"
     ],
+    "name:ben_x_preferred":[
+        "\u0986\u09b2 \u0996\u09cb\u09b0"
+    ],
+    "name:dan_x_preferred":[
+        "Al Khor"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Khor"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03bb \u039a\u03bf\u03c1"
+    ],
     "name:eng_x_preferred":[
         "Al Khor"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u06cc\u0631\u0647"
     ],
+    "name:fas_x_variant":[
+        "\u0627\u0644\u062e\u0648\u0631 \u0648\u0627\u0644\u062f\u062e\u06cc\u0631\u0629"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Khawr"
+    ],
+    "name:fra_x_preferred":[
+        "Al Khawr"
+    ],
+    "name:grn_x_preferred":[
+        "Al Khor"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a85\u0ab2 \u0a96\u0acb\u0ab0"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05dc-\u05d7'\u05d5\u05e8"
+    ],
+    "name:hin_x_preferred":[
+        "\u0905\u0932 \u0916\u094b\u0930"
+    ],
+    "name:ind_x_preferred":[
+        "Al Khor"
+    ],
+    "name:ita_x_preferred":[
+        "Al Khawr"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30a2\u30eb\uff1d\u30cf\u30a6\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c85\u0cb2\u0ccd \u0c96\u0ccb\u0cb0\u0ccd"
+    ],
     "name:kor_x_preferred":[
         "\uc54c\ucf54\ub974"
+    ],
+    "name:lav_x_preferred":[
+        "Haura"
     ],
     "name:lit_x_preferred":[
         "Chauras"
     ],
+    "name:lmo_x_preferred":[
+        "Al Khawr"
+    ],
+    "name:mar_x_preferred":[
+        "\u0905\u0932 \u0916\u0941\u0930"
+    ],
     "name:mkd_x_preferred":[
         "\u0425\u043e\u0440"
+    ],
+    "name:msa_x_preferred":[
+        "Al Khor"
+    ],
+    "name:nld_x_preferred":[
+        "Al Khawr"
+    ],
+    "name:nno_x_preferred":[
+        "Al Khor"
+    ],
+    "name:nob_x_preferred":[
+        "Al Khor"
     ],
     "name:pol_x_preferred":[
         "Al-Chaur"
@@ -40,8 +106,32 @@
     "name:por_x_preferred":[
         "Al Khor"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0425\u0430\u0443\u0440"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d85\u0dbd\u0dca \u0d9b\u0ddc\u0dbb\u0dca"
+    ],
     "name:spa_x_preferred":[
         "Municipio de Jor"
+    ],
+    "name:spa_x_variant":[
+        "Jor"
+    ],
+    "name:swe_x_preferred":[
+        "Al Khor"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c05\u0c32\u0c4d \u0c16\u0c4b\u0c30\u0c4d"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Khawr"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2d\u0e31\u0e25 \u0e04\u0e2d\u0e23\u0e4c"
+    ],
+    "name:tur_x_preferred":[
+        "Al Khor"
     ],
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c-\u0425\u043e\u0440"
@@ -54,6 +144,12 @@
     ],
     "name:vie_x_preferred":[
         "Al Khor"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10da-\u10ee\u10dd\u10e0\u10d8\u10e8 \u10db\u10e3\u10dc\u10d8\u10ea\u10d8\u10de\u10d0\u10da\u10d8\u10e2\u10d4\u10e2\u10d8"
+    ],
+    "name:zho_x_preferred":[
+        "\u827e\u79d1\u723e"
     ],
     "qs:gn_country":"QA",
     "qs:gn_fcode":"PPLA",
@@ -102,7 +198,7 @@
         }
     ],
     "wof:id":421193867,
-    "wof:lastmodified":1505340738,
+    "wof:lastmodified":1563284966,
     "wof:name":"\u0627\u0644\u062e\u0648\u0631",
     "wof:parent_id":1108758121,
     "wof:placetype":"locality",
