@@ -23,14 +23,17 @@
     "mps:longitude":51.501231,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:gle_x_preferred":[
+        "Wadi Al Sail"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85676749,
         102191569,
         85632299,
         421190363,
-        1377149699,
-        85676749
+        1377149699
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +51,7 @@
         }
     ],
     "wof:id":1377149627,
-    "wof:lastmodified":1552506267,
+    "wof:lastmodified":1564226212,
     "wof:name":"Wadi Al Sail",
     "wof:parent_id":421190363,
     "wof:placetype":"neighbourhood",

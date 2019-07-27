@@ -23,14 +23,92 @@
     "mps:longitude":51.603189,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ara_x_preferred":[
+        "\u0645\u0637\u0627\u0631 \u0627\u0644\u062f\u0648\u062d\u0629 \u0627\u0644\u062f\u0648\u0644\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09a6\u09cb\u09b9\u09be \u0986\u09a8\u09cd\u09a4\u09b0\u09cd\u099c\u09be\u09a4\u09bf\u0995 \u09ac\u09bf\u09ae\u09be\u09a8\u09ac\u09a8\u09cd\u09a6\u09b0"
+    ],
+    "name:ces_x_preferred":[
+        "Mezin\u00e1rodn\u00ed leti\u0161t\u011b Dauh\u00e1"
+    ],
+    "name:deu_x_preferred":[
+        "Flughafen Doha"
+    ],
+    "name:eus_x_preferred":[
+        "Dohako nazioarteko aireportua"
+    ],
+    "name:fas_x_preferred":[
+        "\u0641\u0631\u0648\u062f\u06af\u0627\u0647 \u0628\u06cc\u0646\u200c\u0627\u0644\u0645\u0644\u0644\u06cc \u062f\u0648\u062d\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Dohan kansainv\u00e4linen lentoasema"
+    ],
+    "name:hin_x_preferred":[
+        "\u0926\u094b\u0939\u093e \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:hun_x_preferred":[
+        "Dohai nemzetk\u00f6zi rep\u00fcl\u0151t\u00e9r"
+    ],
+    "name:ind_x_preferred":[
+        "Bandar Udara Internasional Doha"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30c9\u30fc\u30cf\u56fd\u969b\u7a7a\u6e2f"
+    ],
+    "name:kor_x_preferred":[
+        "\ub3c4\ud558 \uad6d\uc81c\uacf5\ud56d"
+    ],
+    "name:mai_x_preferred":[
+        "\u0926\u094b\u0939\u093e \u0905\u0928\u094d\u0924\u0930\u094d\u0930\u093e\u0937\u094d\u091f\u094d\u0930\u0940\u092f \u0935\u093f\u092e\u093e\u0928\u0915\u094d\u0937\u0947\u0924\u094d\u0930"
+    ],
+    "name:msa_x_preferred":[
+        "Lapangan Terbang Antarabangsa Doha"
+    ],
+    "name:nor_x_preferred":[
+        "Doha internasjonale lufthavn"
+    ],
+    "name:pol_x_preferred":[
+        "Port lotniczy Doha"
+    ],
+    "name:rus_x_preferred":[
+        "\u0414\u043e\u0445\u0430"
+    ],
+    "name:slk_x_preferred":[
+        "Medzin\u00e1rodn\u00e9 letisko Dauha"
+    ],
+    "name:srp_x_preferred":[
+        "\u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c \u0414\u043e\u0445\u0430"
+    ],
+    "name:swe_x_preferred":[
+        "Dohas internationella flygplats"
+    ],
+    "name:tgk_x_preferred":[
+        "\u0424\u0443\u0440\u0443\u0434\u0433\u043e\u04b3\u0438 \u0411\u0430\u0439\u043d\u200c\u0430\u043b\u043c\u0438\u043b\u043b\u0430\u043b\u0438\u0438 \u0414\u043e\u04b3\u0430"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e17\u0e48\u0e32\u0e2d\u0e32\u0e01\u0e32\u0e28\u0e22\u0e32\u0e19\u0e19\u0e32\u0e19\u0e32\u0e0a\u0e32\u0e15\u0e34\u0e42\u0e14\u0e2e\u0e32"
+    ],
+    "name:tur_x_preferred":[
+        "Doha Uluslararas\u0131 Havaliman\u0131"
+    ],
+    "name:urd_x_preferred":[
+        "\u062f\u0648\u062d\u06c1 \u0628\u06cc\u0646 \u0627\u0644\u0627\u0642\u0648\u0627\u0645\u06cc \u06c1\u0648\u0627\u0626\u06cc \u0627\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "S\u00e2n bay qu\u1ed1c t\u1ebf Doha"
+    ],
+    "name:zho_x_preferred":[
+        "\u591a\u54c8\u56fd\u9645\u673a\u573a"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
+        85676749,
         102191569,
         85632299,
         421190363,
-        1377149699,
-        85676749
+        1377149699
     ],
     "wof:breaches":[],
     "wof:concordances":{},
@@ -48,7 +126,7 @@
         }
     ],
     "wof:id":1377149693,
-    "wof:lastmodified":1552506294,
+    "wof:lastmodified":1564226222,
     "wof:name":"Doha International Airport",
     "wof:parent_id":421190363,
     "wof:placetype":"neighbourhood",

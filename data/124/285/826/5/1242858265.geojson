@@ -31,6 +31,57 @@
     "name:ara_x_variant":[
         "\u0645\u0633\u064a\u0639\u064a\u062f"
     ],
+    "name:ceb_x_preferred":[
+        "Umm Sa\u2018\u012bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0633\u06cc\u0639\u06cc\u062f"
+    ],
+    "name:fin_x_preferred":[
+        "Musai\u2019id"
+    ],
+    "name:fra_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:gle_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:ita_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:kor_x_preferred":[
+        "\uba54\uc0ac\uc774\ub4dc"
+    ],
+    "name:lit_x_preferred":[
+        "Mesaidas"
+    ],
+    "name:lmo_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:mkd_x_preferred":[
+        "\u041c\u0435\u0441\u0430\u0458\u0438\u0434"
+    ],
+    "name:nld_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:nno_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:pol_x_preferred":[
+        "Musajid"
+    ],
+    "name:por_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:spa_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:tgl_x_preferred":[
+        "Mesaieed"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0423\u043c\u043c-\u0421\u0430\u0457\u0434"
+    ],
     "name:und_x_variant":[
         "Musay\u2018\u012bd",
         "Umm Sa\u2018ad",
@@ -62,7 +113,7 @@
         }
     ],
     "wof:id":1242858265,
-    "wof:lastmodified":1537683238,
+    "wof:lastmodified":1564226231,
     "wof:name":"Musay`id",
     "wof:parent_id":1108757955,
     "wof:placetype":"locality",

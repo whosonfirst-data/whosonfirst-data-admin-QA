@@ -31,6 +31,21 @@
     "name:ara_x_variant":[
         "\u0623\u0628\u0648 \u0638\u0644\u0648\u0641"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0628\u0648 \u0627\u0632 \u0632\u0627\u0644\u0627\u0641"
+    ],
+    "name:gle_x_preferred":[
+        "Abu az Zuluf"
+    ],
+    "name:nno_x_preferred":[
+        "Abu Dhalouf"
+    ],
+    "name:pol_x_preferred":[
+        "Abu Zuluf"
+    ],
+    "name:rus_x_preferred":[
+        "\u0410\u0431\u0443-\u044d\u0437-\u0417\u0443\u043b\u0443\u0444"
+    ],
     "name:und_x_variant":[
         "Dhuluf",
         "Dhal\u016bf",
@@ -41,6 +56,9 @@
         "Abu Dhuluf",
         "Abu Dhaluf",
         "Ab\u016b az\u0327 Z\u0327ul\u016bf"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0628\u0648 \u0627\u0644\u0632\u0648\u0644\u0648\u0641"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -66,7 +84,7 @@
         }
     ],
     "wof:id":1226631721,
-    "wof:lastmodified":1537683249,
+    "wof:lastmodified":1564226234,
     "wof:name":"Abu Zuluf",
     "wof:parent_id":1108757947,
     "wof:placetype":"locality",

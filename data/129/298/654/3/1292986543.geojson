@@ -28,6 +28,9 @@
     "name:ara_x_preferred":[
         "\u0623\u064f\u0645\u0651 \u0627\u064e\u0644\u0652\u0642\u064f\u0628\u064f\u0648\u0631"
     ],
+    "name:nno_x_preferred":[
+        "Umm al Qubur"
+    ],
     "name:und_x_variant":[
         "Umm al Qub\u016br"
     ],
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1292986543,
-    "wof:lastmodified":1537683250,
+    "wof:lastmodified":1564226195,
     "wof:name":"Umm al Qubur",
     "wof:parent_id":1108757947,
     "wof:placetype":"locality",

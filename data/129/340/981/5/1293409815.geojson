@@ -31,6 +31,15 @@
     "name:ara_x_variant":[
         "\u0639\u0630\u0628\u0629"
     ],
+    "name:gle_x_preferred":[
+        "Al `Adhbah"
+    ],
+    "name:nno_x_preferred":[
+        "Al `Adhbah"
+    ],
+    "name:pol_x_preferred":[
+        "Azba"
+    ],
     "name:und_x_variant":[
         "Adhbah",
         "Al \u2018Adhbah",
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1293409815,
-    "wof:lastmodified":1537683248,
+    "wof:lastmodified":1564226193,
     "wof:name":"`Adhbah",
     "wof:parent_id":1108758109,
     "wof:placetype":"locality",

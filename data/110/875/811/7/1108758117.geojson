@@ -23,6 +23,9 @@
     "mps:longitude":51.189968,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:nno_x_preferred":[
+        "Rawdat Rashed"
+    ],
     "src:geom":"meso",
     "src:lbl:centroid":"mapshaper",
     "wof:belongsto":[
@@ -44,7 +47,7 @@
         }
     ],
     "wof:id":1108758117,
-    "wof:lastmodified":1552502629,
+    "wof:lastmodified":1564226203,
     "wof:name":"Rawdat Rashed",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",
