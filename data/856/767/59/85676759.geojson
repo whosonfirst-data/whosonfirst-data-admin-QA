@@ -33,20 +33,110 @@
         "\u0628\u064e\u0644\u064e\u062f\u0650\u064a\u064e\u0651\u0629 \u0627\u064e\u0644\u0652\u0648\u064e\u0643\u0652\u0631\u064e\u0629",
         "\u0628\u0644\u062f\u064a\u0629 \u0627\u0644\u0648\u0643\u0631\u0629"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0648\u0643\u0631\u0647"
+    ],
+    "name:bul_x_preferred":[
+        "\u0423\u0430\u043a\u0440\u0430"
+    ],
+    "name:cat_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:ceb_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:deu_x_preferred":[
+        "Al-Wakra"
+    ],
     "name:eng_x_preferred":[
         "Al Wakra"
     ],
     "name:eng_x_variant":[
         "Al Wakrah"
     ],
+    "name:fas_x_preferred":[
+        "\u0627\u0644\u0648\u06a9\u0631\u0647"
+    ],
+    "name:fin_x_preferred":[
+        "Al-Wakra"
+    ],
     "name:fra_x_preferred":[
         "Al Wakrah"
+    ],
+    "name:gle_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:ind_x_preferred":[
+        "Al-Wakrah"
+    ],
+    "name:ita_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:kor_x_preferred":[
+        "\uc54c\uc640\ud06c\ub77c"
+    ],
+    "name:lit_x_preferred":[
+        "Vakra"
+    ],
+    "name:lmo_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0412\u0430\u043a\u0440\u0430"
+    ],
+    "name:msa_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:mzn_x_preferred":[
+        "\u0627\u0644\u0648\u06a9\u0631\u0647"
+    ],
+    "name:nld_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:nno_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:pol_x_preferred":[
+        "Al-Wakra"
+    ],
+    "name:por_x_preferred":[
+        "Al-Wakrah"
+    ],
+    "name:rus_x_preferred":[
+        "\u042d\u043b\u044c-\u0412\u0430\u043a\u0440\u0430"
+    ],
+    "name:spa_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:swe_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:tgl_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:tur_x_preferred":[
+        "El-Vakra"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0415\u043b\u044c-\u0412\u0430\u043a\u0440\u0430"
     ],
     "name:und_x_variant":[
         "\u0627\u0644\u0648\u0643\u0631\u0629"
     ],
     "name:unk_x_variant":[
         "Al Wakra"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0644\u0648\u06a9\u0631\u06c1"
+    ],
+    "name:vie_x_preferred":[
+        "Al Wakrah"
+    ],
+    "name:xmf_x_preferred":[
+        "\u10d4\u10da-\u10d5\u10d0\u10d9\u10e0\u10d0"
+    ],
+    "name:zho_x_preferred":[
+        "\u6c83\u514b\u62c9"
     ],
     "ne:abbrev":"",
     "ne:adm0_a3":"QAT",
@@ -172,7 +262,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1553550490,
+    "wof:lastmodified":1564226192,
     "wof:name":"Al Wakrah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
