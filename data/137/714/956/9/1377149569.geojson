@@ -12,6 +12,9 @@
     "geom:latitude":25.405512,
     "geom:longitude":51.031963,
     "iso:country":"QA",
+    "label:eng_x_preferred_shortcode":[
+        "AS"
+    ],
     "lbl:latitude":25.376814,
     "lbl:longitude":51.060294,
     "mps:latitude":25.376814,
@@ -80,13 +83,14 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564226220,
+    "wof:lastmodified":1565891653,
     "wof:name":"Al-Shahaniya",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
     "wof:population":187571,
     "wof:population_rank":9,
     "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:shortcode":"AS",
     "wof:superseded_by":[],
     "wof:supersedes":[
         85676755

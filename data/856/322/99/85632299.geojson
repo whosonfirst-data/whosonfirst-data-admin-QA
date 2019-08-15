@@ -15,6 +15,9 @@
     "itu:country_code":[
         "974"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "QA"
+    ],
     "lbl:latitude":25.208492,
     "lbl:longitude":51.155983,
     "mps:latitude":25.208492,
@@ -1015,16 +1018,13 @@
         }
     ],
     "wof:id":85632299,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563284934,
+    "wof:lastmodified":1565733788,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

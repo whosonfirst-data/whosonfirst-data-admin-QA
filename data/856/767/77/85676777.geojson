@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "SL"
+    ],
     "lbl:latitude":25.469128,
     "lbl:longitude":51.336371,
     "meso:name_loc":"\u0627\u0645 \u0635\u0644\u0627\u0644",
@@ -281,16 +284,13 @@
         }
     ],
     "wof:id":85676777,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563284937,
+    "wof:lastmodified":1565733789,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

@@ -10,6 +10,9 @@
     "geom:latitude":24.92767,
     "geom:longitude":51.08136,
     "iso:country":"QA",
+    "label:eng_x_preferred_shortcode":[
+        "RY"
+    ],
     "lbl:latitude":24.948797,
     "lbl:longitude":50.982794,
     "meso:name_loc":"\u0627\u0644\u0631\u064a\u0627\u0646",
@@ -248,7 +251,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563284956,
+    "wof:lastmodified":1565733791,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

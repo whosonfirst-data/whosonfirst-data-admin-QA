@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "WA"
+    ],
     "lbl:latitude":24.872214,
     "lbl:longitude":51.333591,
     "meso:name_loc":"\u0627\u0644\u0648\u0643\u0631\u0629",
@@ -253,16 +256,13 @@
         }
     ],
     "wof:id":85676759,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1564226192,
+    "wof:lastmodified":1565733789,
     "wof:name":"Al Wakrah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

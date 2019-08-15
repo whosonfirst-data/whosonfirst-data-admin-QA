@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "municipality"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "KR"
+    ],
     "lbl:latitude":25.766741,
     "lbl:longitude":51.385164,
     "meso:name_loc":"\u0627\u0644\u062e\u0648\u0631 \u0648 \u0627\u0644\u0630\u062e\u064a\u0631\u0629",
@@ -289,16 +292,13 @@
         }
     ],
     "wof:id":85676767,
-    "wof:lang":[
-        "ara"
-    ],
     "wof:lang_x_official":[
         "ara"
     ],
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1563284936,
+    "wof:lastmodified":1565733789,
     "wof:name":"Al Khor",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
