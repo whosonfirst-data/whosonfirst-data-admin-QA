@@ -15,6 +15,7 @@
     ],
     "lbl:latitude":24.948797,
     "lbl:longitude":50.982794,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0631\u064a\u0627\u0646",
     "mps:latitude":24.948797,
     "mps:longitude":50.982794,
@@ -163,7 +164,7 @@
         "Al Rayyan"
     ],
     "name:tam_x_preferred":[
-        "\u0b86\u0bb3\u0bcd \u0bb0\u0bc7\u0baf\u0bbe\u0ba9\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b86\u0bb3\u0bcd \u0bb0\u0bc7\u0baf\u0bbe\u0ba9\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c05\u0c32\u0c4d \u0c30\u0c2f\u0c3e\u0c28\u0c4d \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -179,12 +180,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0410\u0440-\u0420\u0430\u044f\u043d"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0631\u064a\u0627\u0646"
-    ],
-    "name:unk_x_variant":[
-        "Al Rayyan"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0631\u06cc\u0627\u0646"
@@ -205,7 +200,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-21",
+    "src:population_date":"2010-04-21",
     "statoids:area_km":"5,818",
     "statoids:area_mi":"2,246",
     "statoids:as_of_date":"2010-04-21",
@@ -231,7 +226,7 @@
         "gp:id":20070010,
         "hasc:id":"QA.RY",
         "iso:id":"QA-RA",
-        "qs:id":355519,
+        "qs_pg:id":355519,
         "unlc:id":"QA-RA",
         "wd:id":"Q311272"
     },
@@ -251,11 +246,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733791,
+    "wof:lastmodified":1566609698,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":455623,
     "wof:population_rank":10,

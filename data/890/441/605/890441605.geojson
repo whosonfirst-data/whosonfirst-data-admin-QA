@@ -11,10 +11,14 @@
     "geom:longitude":51.24528,
     "gn:country":"QA",
     "gn:fcode":"PPL",
-    "gn:pop":2332,
+    "gn:population":2332,
     "iso:country":"QA",
+    "lbl:bbox":"51.22528,25.80972,51.26528,25.84972",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0627\u064e\u0644\u0652\u063a\u064f\u0648\u064e\u064a\u0652\u0631\u0650\u064a\u064e\u0651\u0629"
     ],
@@ -75,7 +79,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u043b\u044c-\u0413\u0443\u0432\u0430\u0440\u0456\u044f"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Al Ghuwairiyah"
     ],
     "name:urd_x_preferred":[
@@ -100,7 +104,7 @@
     "wof:concordances":{
         "gn:id":289993,
         "gp:id":1940508,
-        "qs:id":124059,
+        "qs_pg:id":124059,
         "wd:id":"Q623609",
         "wk:page":"Al Ghuwariyah"
     },
@@ -117,7 +121,7 @@
         }
     ],
     "wof:id":890441605,
-    "wof:lastmodified":1563284974,
+    "wof:lastmodified":1566609710,
     "wof:name":"Al Ghuwayr\u012byah",
     "wof:parent_id":1108758083,
     "wof:placetype":"locality",

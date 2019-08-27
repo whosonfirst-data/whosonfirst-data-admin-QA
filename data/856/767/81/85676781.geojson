@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":25.481691,
     "lbl:longitude":51.447039,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0638\u0639\u0627\u064a\u0646",
     "mps:latitude":25.481691,
     "mps:longitude":51.447039,
@@ -160,7 +161,7 @@
         "Umm Salal Kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0b89\u0bb3\u0bcd\u0bb3\u0bae\u0bcd  \u0b9a\u0bb2\u0bbe\u0bb2\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b89\u0bb3\u0bcd\u0bb3\u0bae\u0bcd \u0b9a\u0bb2\u0bbe\u0bb2\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c2e\u0c4d \u0c38\u0c32\u0c3e\u0c2f\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -181,9 +182,6 @@
         "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0638\u0639\u0627\u064a\u0646"
-    ],
-    "name:unk_x_variant":[
         "Balad\u012byat az\u0327 Z\u0327a\u2018\u0101yin"
     ],
     "name:urd_x_preferred":[
@@ -276,10 +274,9 @@
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-21",
+    "src:population_date":"2010-04-21",
     "statoids:area_km":"236",
     "statoids:area_mi":"91",
     "statoids:as_of_date":"2010-04-21",
@@ -322,11 +319,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733789,
+    "wof:lastmodified":1566609676,
     "wof:name":"Al Daayen",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":43176,
     "wof:population_rank":7,

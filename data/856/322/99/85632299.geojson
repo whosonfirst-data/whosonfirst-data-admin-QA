@@ -20,6 +20,8 @@
     ],
     "lbl:latitude":25.208492,
     "lbl:longitude":51.155983,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":25.208492,
     "mps:longitude":51.155983,
     "mz:hierarchy_label":1,
@@ -798,7 +800,7 @@
     "name:ukr_x_preferred":[
         "\u041a\u0430\u0442\u0430\u0440"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Dawlat Qa\u0163ar"
     ],
     "name:urd_x_preferred":[
@@ -956,7 +958,6 @@
         "quattroshapes"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"974",
@@ -1002,7 +1003,7 @@
         "mzb:id":"qatar",
         "ne:adm0_a3":"QAT",
         "nyt:id":"47726804785545871361",
-        "qs:id":79974,
+        "qs_pg:id":79974,
         "uncrt:id":"Q",
         "wd:id":"Q846",
         "wk:page":"Qatar",
@@ -1024,7 +1025,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733788,
+    "wof:lastmodified":1566609673,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

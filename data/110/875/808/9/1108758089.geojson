@@ -12,6 +12,8 @@
     "iso:country":"QA",
     "lbl:latitude":25.074999,
     "lbl:longitude":51.090896,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Al Rayyan",
     "meso:adm1_loc":"\u0627\u0644\u0631\u064a\u0627\u0646",
     "meso:local_id":"83",
@@ -23,6 +25,7 @@
     "mps:longitude":51.090896,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "name:nno_x_preferred":[
         "Al Karaana"
     ],
@@ -31,7 +34,6 @@
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
@@ -52,7 +54,7 @@
         }
     ],
     "wof:id":1108758089,
-    "wof:lastmodified":1564226208,
+    "wof:lastmodified":1566609692,
     "wof:name":"Al Karaana",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

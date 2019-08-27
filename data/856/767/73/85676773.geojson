@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":26.041084,
     "lbl:longitude":51.24567,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0634\u0645\u0627\u0644",
     "mps:latitude":26.041084,
     "mps:longitude":51.24567,
@@ -50,9 +51,6 @@
         "Ash Shamal"
     ],
     "name:und_x_variant":[
-        "\u0627\u0644\u0634\u0645\u0627\u0644"
-    ],
-    "name:unk_x_variant":[
         "Madinat al Shamal"
     ],
     "ne:abbrev":"",
@@ -129,10 +127,9 @@
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-21",
+    "src:population_date":"2010-04-21",
     "statoids:area_km":"902",
     "statoids:area_mi":"348",
     "statoids:as_of_date":"2010-04-21",
@@ -157,7 +154,7 @@
         "gp:id":20070005,
         "hasc:id":"QA.MS",
         "iso:id":"QA-MS",
-        "qs:id":220139,
+        "qs_pg:id":220139,
         "unlc:id":"QA-MS"
     },
     "wof:country":"QA",
@@ -176,11 +173,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733789,
+    "wof:lastmodified":1566609675,
     "wof:name":"Madinat ach Shamal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":7975,
     "wof:population_rank":5,

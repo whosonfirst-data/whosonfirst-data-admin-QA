@@ -23,8 +23,12 @@
     "gn:population":5769,
     "gn:timezone":"Asia/Qatar",
     "iso:country":"QA",
+    "lbl:bbox":"51.53067,24.97226,51.57067,25.01226",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.0,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u0645 \u0633\u0639\u064a\u062f"
     ],
@@ -84,9 +88,7 @@
     ],
     "name:und_x_variant":[
         "Musay\u2018\u012bd",
-        "Umm Sa\u2018ad",
-        "Umm Sa\u2018\u012bd",
-        "Mesaieed"
+        "Umm Sa\u2018ad"
     ],
     "src:geom":"geonames",
     "src:population":"geonames",
@@ -113,7 +115,7 @@
         }
     ],
     "wof:id":1242858265,
-    "wof:lastmodified":1564226231,
+    "wof:lastmodified":1566609713,
     "wof:name":"Musay`id",
     "wof:parent_id":1108757955,
     "wof:placetype":"locality",
