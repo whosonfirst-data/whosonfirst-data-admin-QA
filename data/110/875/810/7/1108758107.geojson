@@ -12,6 +12,8 @@
     "iso:country":"QA",
     "lbl:latitude":25.662844,
     "lbl:longitude":51.063165,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "meso:adm1_en":"Al Sheehaniya",
     "meso:adm1_loc":"\u0627\u0644\u0634\u064a\u062d\u0627\u0646\u064a\u0629",
     "meso:local_id":"73",
@@ -23,12 +25,12 @@
     "mps:longitude":51.063165,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":6.0,
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "wof:belongsto":[
         102191569,
@@ -49,7 +51,7 @@
         }
     ],
     "wof:id":1108758107,
-    "wof:lastmodified":1552506434,
+    "wof:lastmodified":1566609685,
     "wof:name":"Lijmiliya",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

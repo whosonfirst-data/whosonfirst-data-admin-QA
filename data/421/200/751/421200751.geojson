@@ -10,7 +10,12 @@
     "geom:latitude":26.027555,
     "geom:longitude":51.370413,
     "iso:country":"QA",
+    "lbl:bbox":"51.3504125,26.007555,51.3904125,26.047555",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -40,7 +45,7 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":1940450,
-        "qs:id":894277
+        "qs_pg:id":894277
     },
     "wof:country":"QA",
     "wof:created":1459010037,
@@ -55,7 +60,7 @@
         }
     ],
     "wof:id":421200751,
-    "wof:lastmodified":1494646420,
+    "wof:lastmodified":1566609709,
     "wof:name":"\u0641\u0648\u064a\u0631\u0637",
     "wof:parent_id":1108758103,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":50.80722,
     "gn:country":"QA",
     "gn:fcode":"PPL",
-    "gn:pop":2500,
+    "gn:population":2500,
     "iso:country":"QA",
+    "lbl:bbox":"50.78722,25.19417,50.82722,25.23417",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0623\u064f\u0645\u0651 \u0628\u064e\u0627\u0628"
     ],
@@ -80,7 +84,7 @@
     "wof:concordances":{
         "gn:id":289548,
         "gp:id":1940516,
-        "qs:id":124051,
+        "qs_pg:id":124051,
         "wd:id":"Q3296219",
         "wk:page":"Umm Bab"
     },
@@ -97,7 +101,7 @@
         }
     ],
     "wof:id":890435895,
-    "wof:lastmodified":1563284977,
+    "wof:lastmodified":1566609711,
     "wof:name":"Umm B\u0101b",
     "wof:parent_id":1108757949,
     "wof:placetype":"locality",

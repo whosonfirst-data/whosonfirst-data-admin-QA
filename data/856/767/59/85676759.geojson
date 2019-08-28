@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":24.872214,
     "lbl:longitude":51.333591,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0644\u0648\u0643\u0631\u0629",
     "mps:latitude":24.872214,
     "mps:longitude":51.333591,
@@ -123,12 +124,6 @@
     "name:ukr_x_preferred":[
         "\u0415\u043b\u044c-\u0412\u0430\u043a\u0440\u0430"
     ],
-    "name:und_x_variant":[
-        "\u0627\u0644\u0648\u0643\u0631\u0629"
-    ],
-    "name:unk_x_variant":[
-        "Al Wakra"
-    ],
     "name:urd_x_preferred":[
         "\u0627\u0644\u0648\u06a9\u0631\u06c1"
     ],
@@ -215,10 +210,9 @@
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-21",
+    "src:population_date":"2010-04-21",
     "statoids:area_km":"2,520",
     "statoids:area_mi":"973",
     "statoids:as_of_date":"2010-04-21",
@@ -243,7 +237,7 @@
         "gp:id":20070012,
         "hasc:id":"QA.WA",
         "iso:id":"QA-WA",
-        "qs:id":425211,
+        "qs_pg:id":425211,
         "unlc:id":"QA-WA"
     },
     "wof:country":"QA",
@@ -262,11 +256,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733789,
+    "wof:lastmodified":1566609674,
     "wof:name":"Al Wakrah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":141222,
     "wof:population_rank":9,

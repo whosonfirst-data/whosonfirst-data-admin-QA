@@ -10,8 +10,12 @@
     "geom:latitude":26.12933,
     "geom:longitude":51.2009,
     "iso:country":"QA",
+    "lbl:bbox":"51.1809,26.10933,51.2209,26.14933",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
         "\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644"
@@ -130,7 +134,7 @@
     "name:ukr_x_preferred":[
         "\u0410\u0448-\u0428\u0430\u043c\u0430\u043b\u044c"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Mad\u012bnat ash Sham\u0101l"
     ],
     "name:urd_x_preferred":[
@@ -174,7 +178,7 @@
     "wof:concordances":{
         "gn:id":289739,
         "gp:id":1940456,
-        "qs:id":371052,
+        "qs_pg:id":371052,
         "wd:id":"Q310872",
         "wk:page":"Madinat ash Shamal"
     },
@@ -191,7 +195,7 @@
         }
     ],
     "wof:id":421175451,
-    "wof:lastmodified":1563284968,
+    "wof:lastmodified":1566609707,
     "wof:name":"\u0645\u062f\u064a\u0646\u0629 \u0627\u0644\u0634\u0645\u0627\u0644",
     "wof:parent_id":1108758109,
     "wof:placetype":"locality",

@@ -22,6 +22,7 @@
     ],
     "lbl:latitude":25.469128,
     "lbl:longitude":51.336371,
+    "lbl:min_zoom":8.0,
     "meso:name_loc":"\u0627\u0645 \u0635\u0644\u0627\u0644",
     "mps:latitude":25.469128,
     "mps:longitude":51.336371,
@@ -137,7 +138,7 @@
         "Umm Salal Kommun"
     ],
     "name:tam_x_preferred":[
-        "\u0b89\u0bb3\u0bcd\u0bb3\u0bae\u0bcd  \u0b9a\u0bb2\u0bbe\u0bb2\u0bcd  \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
+        "\u0b89\u0bb3\u0bcd\u0bb3\u0bae\u0bcd \u0b9a\u0bb2\u0bbe\u0bb2\u0bcd \u0ba8\u0b95\u0bb0\u0bbe\u0b9f\u0bcd\u0b9a\u0bbf"
     ],
     "name:tel_x_preferred":[
         "\u0c09\u0c2e\u0c4d \u0c38\u0c32\u0c3e\u0c2f\u0c3f \u0c2e\u0c41\u0c28\u0c4d\u0c38\u0c3f\u0c2a\u0c3e\u0c32\u0c3f\u0c1f\u0c40"
@@ -150,12 +151,6 @@
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
-    ],
-    "name:und_x_variant":[
-        "\u0627\u0645 \u0635\u0644\u0627\u0644"
-    ],
-    "name:unk_x_variant":[
-        "Umm Slal"
     ],
     "name:urd_x_preferred":[
         "\u0627\u0645 \u0635\u0644\u0627\u0644"
@@ -243,10 +238,9 @@
         "meso"
     ],
     "src:geom_via":"us-dshiu",
-    "src:lbl:centroid":"mapshaper",
     "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2010-04-21",
+    "src:population_date":"2010-04-21",
     "statoids:area_km":"310",
     "statoids:area_mi":"120",
     "statoids:as_of_date":"2010-04-21",
@@ -271,7 +265,7 @@
         "gp:id":20070007,
         "hasc:id":"QA.SL",
         "iso:id":"QA-US",
-        "qs:id":364434,
+        "qs_pg:id":364434,
         "wd:id":"Q990414"
     },
     "wof:country":"QA",
@@ -290,11 +284,10 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565733789,
+    "wof:lastmodified":1566609676,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"municipality",
     "wof:population":60509,
     "wof:population_rank":8,

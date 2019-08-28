@@ -11,10 +11,12 @@
     "geom:longitude":51.520838,
     "gn:country":"QA",
     "gn:fcode":"PPLC",
-    "gn:pop":344939,
+    "gn:population":344939,
     "iso:country":"QA",
     "lbl:latitude":25.251557,
     "lbl:longitude":51.564826,
+    "lbl:max_zoom":10.0,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.251557,
     "mps:longitude":51.564826,
     "mz:hierarchy_label":1,
@@ -456,7 +458,7 @@
     "name:ukr_x_preferred":[
         "\u0414\u043e\u0445\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Ad Daw\u1e29ah"
     ],
     "name:urd_x_preferred":[
@@ -627,12 +629,12 @@
     "wof:concordances":{
         "gn:id":290030,
         "gp:id":1940517,
-        "qs:id":1119517,
+        "qs_pg:id":1119517,
         "wd:id":"Q3861",
         "wk:page":"Doha"
     },
     "wof:concordances_alt":{
-        "qs:id":124079
+        "qs_pg:id":124079
     },
     "wof:coterminous":[
         85676749,
@@ -650,7 +652,7 @@
         }
     ],
     "wof:id":1377149699,
-    "wof:lastmodified":1563284963,
+    "wof:lastmodified":1566609703,
     "wof:name":"Doha",
     "wof:parent_id":85676749,
     "wof:placetype":"county",

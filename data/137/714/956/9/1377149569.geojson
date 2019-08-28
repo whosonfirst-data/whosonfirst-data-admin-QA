@@ -17,6 +17,7 @@
     ],
     "lbl:latitude":25.376814,
     "lbl:longitude":51.060294,
+    "lbl:min_zoom":8.0,
     "mps:latitude":25.376814,
     "mps:longitude":51.060294,
     "mz:hierarchy_label":1,
@@ -47,7 +48,7 @@
     "name:nno_x_preferred":[
         "Al-Shahaniya"
     ],
-    "name:und_x_preferred":[
+    "name:und_x_variant":[
         "Al Shahaniyah",
         "Ash Sha\u1e29\u0101n\u012byah",
         "Ash Shay\u1e29\u0101n\u012byah",
@@ -57,7 +58,7 @@
     "src:geom_alt":[],
     "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
-    "src:population:date":"2015",
+    "src:population_date":"2015",
     "wof:belongsto":[
         102191569,
         85632299
@@ -83,7 +84,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1565891653,
+    "wof:lastmodified":1566609703,
     "wof:name":"Al-Shahaniya",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

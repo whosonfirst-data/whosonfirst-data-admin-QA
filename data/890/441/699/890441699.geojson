@@ -11,10 +11,14 @@
     "geom:longitude":51.36694,
     "gn:country":"QA",
     "gn:fcode":"PPL",
-    "gn:pop":1333,
+    "gn:population":1333,
     "iso:country":"QA",
+    "lbl:bbox":"51.34694,26.00167,51.38694,26.04167",
+    "lbl:max_zoom":16.0,
+    "lbl:min_zoom":12.0,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ara_x_preferred":[
         "\u0641\u064f\u0648\u064e\u064a\u0652\u0631\u0650\u0637"
     ],
@@ -61,7 +65,7 @@
     "wof:concordances":{
         "gn:id":406787,
         "gp:id":1940450,
-        "qs:id":124567,
+        "qs_pg:id":124567,
         "wd:id":"Q5510945",
         "wk:page":"Fuwayrit"
     },
@@ -78,7 +82,7 @@
         }
     ],
     "wof:id":890441699,
-    "wof:lastmodified":1563284974,
+    "wof:lastmodified":1566609710,
     "wof:name":"Fuwayri\u0163",
     "wof:parent_id":1108758103,
     "wof:placetype":"locality",
