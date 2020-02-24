@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308730,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"cefe0dc7712cdb0f4d1ef7f0bdaed7b3",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758103,
-    "wof:lastmodified":1566609685,
+    "wof:lastmodified":1582360331,
     "wof:name":"Fuwairit/Ain Sinan/Madinat Al Kaaban",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

@@ -304,6 +304,10 @@
         "wd:id":"Q990414"
     },
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"4b496b080234008e6a00e278000180fe",
     "wof:hierarchy":[
         {
@@ -319,7 +323,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609676,
+    "wof:lastmodified":1582360330,
     "wof:name":"Al Daayen",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

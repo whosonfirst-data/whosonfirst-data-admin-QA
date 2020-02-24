@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308728,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"0ccf271099dd155477045b6ab1a56062",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758099,
-    "wof:lastmodified":1566609691,
+    "wof:lastmodified":1582360332,
     "wof:name":"Al Ebaib/Al Ebb/Al Kheesa/Lusail/Umm Qarn",
     "wof:parent_id":85676781,
     "wof:placetype":"county",

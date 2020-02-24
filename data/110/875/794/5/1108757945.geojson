@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308638,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"c865c97f8617841f6a7750a13a2fb3db",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108757945,
-    "wof:lastmodified":1566609688,
+    "wof:lastmodified":1582360331,
     "wof:name":"Al Thakhira/Rass Laffan/Umm Birka",
     "wof:parent_id":85676767,
     "wof:placetype":"county",

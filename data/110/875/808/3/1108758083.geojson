@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308719,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"931a87922b107b222a4370080b0b15d0",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758083,
-    "wof:lastmodified":1566609692,
+    "wof:lastmodified":1582360332,
     "wof:name":"Al Ghuwairiya",
     "wof:parent_id":85676767,
     "wof:placetype":"county",

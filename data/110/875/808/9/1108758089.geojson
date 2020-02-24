@@ -44,6 +44,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308722,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"71b0c858ae04f394b59f39669015683a",
     "wof:hierarchy":[
         {
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108758089,
-    "wof:lastmodified":1566609692,
+    "wof:lastmodified":1582360332,
     "wof:name":"Al Karaana",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

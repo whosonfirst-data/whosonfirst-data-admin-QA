@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308640,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"2909654953fb457f11d839d0984a75eb",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108757947,
-    "wof:lastmodified":1566609688,
+    "wof:lastmodified":1582360331,
     "wof:name":"Abu Dhalouf/Al Zubara",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

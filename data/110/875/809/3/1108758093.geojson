@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308724,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"6632031df8d166b26ec65f3a447e22a7",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758093,
-    "wof:lastmodified":1566609691,
+    "wof:lastmodified":1582360332,
     "wof:name":"Shagra",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

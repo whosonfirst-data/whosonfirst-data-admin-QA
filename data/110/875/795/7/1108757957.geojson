@@ -44,6 +44,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308647,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"b710e03dafb29f81003639d1f108c094",
     "wof:hierarchy":[
         {
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108757957,
-    "wof:lastmodified":1566609688,
+    "wof:lastmodified":1582360331,
     "wof:name":"Mesaieed Industrial Area",
     "wof:parent_id":85676759,
     "wof:placetype":"county",
