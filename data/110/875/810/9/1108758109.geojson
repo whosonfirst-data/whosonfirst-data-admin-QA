@@ -44,6 +44,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308732,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"f7d7eae6ef6fb88248ae416ed8c2ca19",
     "wof:hierarchy":[
         {
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108758109,
-    "wof:lastmodified":1566609684,
+    "wof:lastmodified":1582360331,
     "wof:name":"Al Ruwais / Madinat Al Shamal",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

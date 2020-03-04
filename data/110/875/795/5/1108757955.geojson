@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308645,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"0bd16372d79876af727e8ed2c5bbd533",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108757955,
-    "wof:lastmodified":1566609689,
+    "wof:lastmodified":1582360332,
     "wof:name":"Messaid",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

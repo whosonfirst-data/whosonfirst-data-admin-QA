@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308733,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"203bb7b0fb71613299c14e0864a4ccde",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758111,
-    "wof:lastmodified":1566609684,
+    "wof:lastmodified":1582360331,
     "wof:name":"Al Adaid",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

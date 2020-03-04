@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308731,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"9eb4111878201349ec5ec1920c8b99bc",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758107,
-    "wof:lastmodified":1566609685,
+    "wof:lastmodified":1582360331,
     "wof:name":"Lijmiliya",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

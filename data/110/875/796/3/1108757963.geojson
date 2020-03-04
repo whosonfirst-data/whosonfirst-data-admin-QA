@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308649,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"18aa548edd38d6f6b7bdccd1b83fa18d",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108757963,
-    "wof:lastmodified":1566609683,
+    "wof:lastmodified":1582360330,
     "wof:name":"Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat",
     "wof:parent_id":85676781,
     "wof:placetype":"county",

@@ -599,6 +599,10 @@
         1377149699
     ],
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"e5194997cdf00c789c90c2bc2afc7394",
     "wof:hierarchy":[
         {
@@ -614,7 +618,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609676,
+    "wof:lastmodified":1582360330,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

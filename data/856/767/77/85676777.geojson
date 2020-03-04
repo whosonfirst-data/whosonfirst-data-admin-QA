@@ -269,6 +269,10 @@
         "wd:id":"Q990414"
     },
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"561288b78c67c402dbb948599b1b1ea4",
     "wof:hierarchy":[
         {
@@ -284,7 +288,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609676,
+    "wof:lastmodified":1582360330,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

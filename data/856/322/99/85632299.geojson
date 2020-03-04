@@ -1011,6 +1011,12 @@
     },
     "wof:country":"QA",
     "wof:country_alpha3":"QAT",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso",
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"10d42697c8e75b9d67886ae72a90ba4b",
     "wof:hierarchy":[
         {
@@ -1025,7 +1031,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609673,
+    "wof:lastmodified":1582360329,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

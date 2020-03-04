@@ -158,6 +158,10 @@
         "unlc:id":"QA-MS"
     },
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "meso",
+        "quattroshapes"
+    ],
     "wof:geomhash":"7e90f2aa3a1fa47793f2cf81c85e795e",
     "wof:hierarchy":[
         {
@@ -173,7 +177,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609675,
+    "wof:lastmodified":1582360329,
     "wof:name":"Madinat ach Shamal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

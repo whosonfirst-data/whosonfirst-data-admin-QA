@@ -41,6 +41,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308739,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"d09889b1867d9fd5070088462804873d",
     "wof:hierarchy":[
         {
@@ -51,7 +54,7 @@
         }
     ],
     "wof:id":1108758121,
-    "wof:lastmodified":1566609689,
+    "wof:lastmodified":1582360332,
     "wof:name":"Al Khor/Al Daayen/Simaisma/Al Jeryan/Al Sunay",
     "wof:parent_id":85676767,
     "wof:placetype":"county",

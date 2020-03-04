@@ -44,6 +44,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308727,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"88ec548ca27ad65ebe46e8c11f081c24",
     "wof:hierarchy":[
         {
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108758097,
-    "wof:lastmodified":1566609691,
+    "wof:lastmodified":1582360332,
     "wof:name":"Sawda Natheel",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

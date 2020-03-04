@@ -77,6 +77,9 @@
         "qs_pg:id":1086008
     },
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"49edc0c2c58b03d95faca5a02639de3e",
     "wof:hierarchy":[
         {
@@ -91,7 +94,7 @@
     "wof:lang":[
         "ara"
     ],
-    "wof:lastmodified":1566609673,
+    "wof:lastmodified":1582360328,
     "wof:name":"Al Hura",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

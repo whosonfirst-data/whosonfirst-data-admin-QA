@@ -80,6 +80,9 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308643,
+    "wof:geom_alt":[
+        "meso"
+    ],
     "wof:geomhash":"e4f5813a1c01aa4b42455fc04b7e4ed8",
     "wof:hierarchy":[
         {
@@ -90,7 +93,7 @@
         }
     ],
     "wof:id":1108757951,
-    "wof:lastmodified":1566609688,
+    "wof:lastmodified":1582360331,
     "wof:name":"Dukhan",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

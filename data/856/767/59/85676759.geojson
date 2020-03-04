@@ -241,6 +241,10 @@
         "unlc:id":"QA-WA"
     },
     "wof:country":"QA",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "meso"
+    ],
     "wof:geomhash":"d848d2e75378bf00cbd786750f8b8b34",
     "wof:hierarchy":[
         {
@@ -256,7 +260,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609674,
+    "wof:lastmodified":1582360329,
     "wof:name":"Al Wakrah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
