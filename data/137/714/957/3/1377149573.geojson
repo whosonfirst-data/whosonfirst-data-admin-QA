@@ -221,9 +221,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            30062
-        ],
+        "digitalenvoy:region_code":30062,
         "fips:code":"QA06",
         "gn:id":389469,
         "gp:id":20070010,
@@ -249,7 +247,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538453,
+    "wof:lastmodified":1583882930,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

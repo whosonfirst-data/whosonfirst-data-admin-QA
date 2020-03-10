@@ -585,9 +585,7 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "digitalenvoy:region_code":[
-            25911
-        ],
+        "digitalenvoy:region_code":25911,
         "fips:code":"QA01",
         "gn:id":389470,
         "gp:id":20070008,
@@ -621,7 +619,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583538452,
+    "wof:lastmodified":1583882930,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
