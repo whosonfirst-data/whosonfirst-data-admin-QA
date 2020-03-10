@@ -987,9 +987,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Qatar",
-        "digitalenvoy:country_code":[
-            634
-        ],
+        "digitalenvoy:country_code":634,
         "fb:id":"en.qatar",
         "fifa:id":"QAT",
         "fips:code":"QA",
@@ -1034,7 +1032,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1583529216,
+    "wof:lastmodified":1583797424,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
