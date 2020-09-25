@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u062d\u0648\u064a\u0644\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Huwaila"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421184513,
-    "wof:lastmodified":1566609709,
-    "wof:name":"\u0627\u0644\u062d\u0648\u064a\u0644\u0629",
+    "wof:lastmodified":1601068389,
+    "wof:name":"Al Huwaila",
     "wof:parent_id":1108757945,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",
