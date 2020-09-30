@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676781,
-        1108758099
+        1108758099,
+        85676781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421184433,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Simaisma",
     "wof:parent_id":1108758099,
     "wof:placetype":"locality",

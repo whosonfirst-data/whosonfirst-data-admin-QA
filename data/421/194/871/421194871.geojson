@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676781,
-        1108758099
+        1108758099,
+        85676781
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421194871,
-    "wof:lastmodified":1601068393,
+    "wof:lastmodified":1601423094,
     "wof:name":"Umm Qarn",
     "wof:parent_id":1108758099,
     "wof:placetype":"locality",

@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.442065,25.2585085,51.442065,25.2585085",
+    "geom:bbox":"51.442065,25.258509,51.442065,25.258509",
     "geom:latitude":25.258509,
     "geom:longitude":51.442065,
     "iso:country":"QA",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149573,
-        1108758065
+        1108758065,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"QA",
     "wof:created":1459010011,
-    "wof:geomhash":"f4f0b7630a6dd56265b5a4b648dab0cd",
+    "wof:geomhash":"b6d6fa04007a770e0ef6747e0b12d55f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421200111,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sudan",
     "wof:parent_id":1108758065,
     "wof:placetype":"locality",
@@ -77,9 +77,9 @@
 },
   "bbox": [
     51.442065,
-    25.2585085,
+    25.258509,
     51.442065,
-    25.2585085
+    25.258509
 ],
-  "geometry": {"coordinates":[51.442065,25.2585085],"type":"Point"}
+  "geometry": {"coordinates":[51.442065,25.258509],"type":"Point"}
 }

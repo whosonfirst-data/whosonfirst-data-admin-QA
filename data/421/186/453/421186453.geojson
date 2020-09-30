@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149573,
-        1108757959
+        1108757959,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421186453,
-    "wof:lastmodified":1601068397,
+    "wof:lastmodified":1601423092,
     "wof:name":"Sawda Natheel",
     "wof:parent_id":1108757959,
     "wof:placetype":"locality",

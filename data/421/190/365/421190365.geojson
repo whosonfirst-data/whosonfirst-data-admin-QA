@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676773,
-        1108758109
+        1108758109,
+        85676773
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190365,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Ghariyah",
     "wof:parent_id":1108758109,
     "wof:placetype":"locality",

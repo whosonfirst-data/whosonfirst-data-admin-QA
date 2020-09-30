@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.4124105,25.0506905,51.4124105,25.0506905",
+    "geom:bbox":"51.412411,25.050691,51.412411,25.050691",
     "geom:latitude":25.050691,
     "geom:longitude":51.412411,
     "iso:country":"QA",
@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676759,
-        1108758095
+        1108758095,
+        85676759
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -55,7 +55,7 @@
     },
     "wof:country":"QA",
     "wof:created":1459009396,
-    "wof:geomhash":"2e09fd181f8705023aafa46d4be34950",
+    "wof:geomhash":"ef6855a79fc3381e2c123c2b264010fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421183955,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Kharrara",
     "wof:parent_id":1108758095,
     "wof:placetype":"locality",
@@ -76,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.4124105,
-    25.0506905,
-    51.4124105,
-    25.0506905
+    51.412411,
+    25.050691,
+    51.412411,
+    25.050691
 ],
-  "geometry": {"coordinates":[51.4124105,25.0506905],"type":"Point"}
+  "geometry": {"coordinates":[51.412411,25.050691],"type":"Point"}
 }

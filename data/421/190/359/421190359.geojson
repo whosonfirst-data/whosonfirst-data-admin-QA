@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676767,
-        1108758121
+        1108758121,
+        85676767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421190359,
-    "wof:lastmodified":1601068390,
+    "wof:lastmodified":1601423083,
     "wof:name":"Al Dakhira",
     "wof:parent_id":1108758121,
     "wof:placetype":"locality",

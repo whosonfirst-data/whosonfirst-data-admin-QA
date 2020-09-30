@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149569,
-        1108758115
+        1108758115,
+        1377149569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421203603,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Khubayb",
     "wof:parent_id":1108758115,
     "wof:placetype":"locality",

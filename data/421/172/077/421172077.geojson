@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149573,
-        1108758085
+        1108758085,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421172077,
-    "wof:lastmodified":1601068391,
+    "wof:lastmodified":1601423085,
     "wof:name":"Al Sailiya South",
     "wof:parent_id":1108758085,
     "wof:placetype":"locality",

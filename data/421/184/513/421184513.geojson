@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676767,
-        1108757945
+        1108757945,
+        85676767
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +66,7 @@
         }
     ],
     "wof:id":421184513,
-    "wof:lastmodified":1601068389,
+    "wof:lastmodified":1601423084,
     "wof:name":"Al Huwaila",
     "wof:parent_id":1108757945,
     "wof:placetype":"locality",
