@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u0635\u0644\u0627\u0644"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Salal"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676777,
-        1108758101
+        1108758101,
+        85676777
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421172071,
-    "wof:lastmodified":1566609706,
-    "wof:name":"\u0627\u0645 \u0635\u0644\u0627\u0644",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Umm Salal",
     "wof:parent_id":1108758101,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",

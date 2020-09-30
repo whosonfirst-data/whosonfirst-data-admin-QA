@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.0354525,24.8821795,51.0354525,24.8821795",
+    "geom:bbox":"51.035452,24.882179,51.035452,24.882179",
     "geom:latitude":24.882179,
     "geom:longitude":51.035452,
     "iso:country":"QA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0645 \u062d\u0648\u0637\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Hawta"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149573,
-        1108757959
+        1108757959,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"QA",
     "wof:created":1459009403,
-    "wof:geomhash":"8534493c5b87238c42aae617ba9d3a3e",
+    "wof:geomhash":"84257b34a211b009eb731b7e8f7f92ff",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421184213,
-    "wof:lastmodified":1566609709,
-    "wof:name":"\u0627\u0645 \u062d\u0648\u0637\u0629",
+    "wof:lastmodified":1601423094,
+    "wof:name":"Umm Hawta",
     "wof:parent_id":1108757959,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",
@@ -70,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.0354525,
-    24.8821795,
-    51.0354525,
-    24.8821795
+    51.035452,
+    24.882179,
+    51.035452,
+    24.882179
 ],
-  "geometry": {"coordinates":[51.0354525,24.8821795],"type":"Point"}
+  "geometry": {"coordinates":[51.035452,24.882179],"type":"Point"}
 }

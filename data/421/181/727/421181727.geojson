@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0634\u062d\u0627\u0646\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Al Shahania"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149569,
-        1108758115
+        1108758115,
+        1377149569
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421181727,
-    "wof:lastmodified":1566609707,
-    "wof:name":"\u0627\u0644\u0634\u062d\u0627\u0646\u064a\u0629",
+    "wof:lastmodified":1601423086,
+    "wof:name":"Al Shahania",
     "wof:parent_id":1108758115,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",

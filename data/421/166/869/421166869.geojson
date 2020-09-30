@@ -7,13 +7,19 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.4357275,25.192996,51.4357275,25.192996",
+    "geom:bbox":"51.435727,25.192996,51.435727,25.192996",
     "geom:latitude":25.192996,
     "geom:longitude":51.435727,
     "iso:country":"QA",
     "mz:hierarchy_label":1,
     "mz:is_current":0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629"
+    ],
+    "name:eng_x_preferred":[
+        "Industrial Zone"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -36,8 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        85676749,
-        1377149699
+        1377149699,
+        85676749
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,7 +52,7 @@
     },
     "wof:country":"QA",
     "wof:created":1459008705,
-    "wof:geomhash":"3a22b8037e057d521bc6d8d389b1cca1",
+    "wof:geomhash":"c7de8a372e93401e8702c4caf3cc365e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,8 +63,8 @@
         }
     ],
     "wof:id":421166869,
-    "wof:lastmodified":1552506365,
-    "wof:name":"\u0627\u0644\u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u0635\u0646\u0627\u0639\u064a\u0629",
+    "wof:lastmodified":1601423089,
+    "wof:name":"Industrial Zone",
     "wof:parent_id":1377149699,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",
@@ -69,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.4357275,
+    51.435727,
     25.192996,
-    51.4357275,
+    51.435727,
     25.192996
 ],
-  "geometry": {"coordinates":[51.4357275,25.192996],"type":"Point"}
+  "geometry": {"coordinates":[51.435727,25.192996],"type":"Point"}
 }

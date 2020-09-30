@@ -6,7 +6,7 @@
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.442065,25.2585085,51.442065,25.2585085",
+    "geom:bbox":"51.442065,25.258509,51.442065,25.258509",
     "geom:latitude":25.258509,
     "geom:longitude":51.442065,
     "iso:country":"QA",
@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+    ],
+    "name:eng_x_preferred":[
+        "Sudan"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -39,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149573,
-        1108758065
+        1108758065,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,7 +55,7 @@
     },
     "wof:country":"QA",
     "wof:created":1459010011,
-    "wof:geomhash":"f4f0b7630a6dd56265b5a4b648dab0cd",
+    "wof:geomhash":"b6d6fa04007a770e0ef6747e0b12d55f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,8 +66,8 @@
         }
     ],
     "wof:id":421200111,
-    "wof:lastmodified":1566609708,
-    "wof:name":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "wof:lastmodified":1601423092,
+    "wof:name":"Sudan",
     "wof:parent_id":1108758065,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",
@@ -71,9 +77,9 @@
 },
   "bbox": [
     51.442065,
-    25.2585085,
+    25.258509,
     51.442065,
-    25.2585085
+    25.258509
 ],
-  "geometry": {"coordinates":[51.442065,25.2585085],"type":"Point"}
+  "geometry": {"coordinates":[51.442065,25.258509],"type":"Point"}
 }
