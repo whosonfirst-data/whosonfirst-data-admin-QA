@@ -9,7 +9,6 @@
     "geom:bbox":"50.750031,24.471111,51.647362,26.184029",
     "geom:latitude":25.284675,
     "geom:longitude":51.192573,
-    "gn:id":"",
     "gn:population":840926,
     "iso:country":"QA",
     "itu:country_code":[
@@ -1080,7 +1079,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1587587525,
+    "wof:lastmodified":1603260483,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

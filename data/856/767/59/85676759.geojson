@@ -9,7 +9,6 @@
     "geom:bbox":"51.086810362,24.4736679464,51.63155375,25.2158656974",
     "geom:latitude":24.862594,
     "geom:longitude":51.337592,
-    "gn:id":"",
     "iso:country":"QA",
     "label:eng_x_preferred_longname":[
         "Al Wakrah Municipality"
@@ -260,7 +259,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582360329,
+    "wof:lastmodified":1603260484,
     "wof:name":"Al Wakrah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

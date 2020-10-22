@@ -9,7 +9,6 @@
     "geom:bbox":"51.2603226074,25.3521754248,51.4464444507,25.5898736379",
     "geom:latitude":25.469499,
     "geom:longitude":51.343868,
-    "gn:id":"",
     "iso:country":"QA",
     "label:eng_x_preferred_longname":[
         "Umm Salal Municipality"
@@ -288,7 +287,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582360330,
+    "wof:lastmodified":1603260484,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

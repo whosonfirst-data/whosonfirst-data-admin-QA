@@ -9,7 +9,6 @@
     "geom:bbox":"50.958843044,25.8446164434,51.4484464627,26.184028625",
     "geom:latitude":25.9952,
     "geom:longitude":51.20126,
-    "gn:id":"",
     "iso:country":"QA",
     "label:eng_x_preferred_longname":[
         "Madinat ach Shamal Municipality"
@@ -177,7 +176,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1582360329,
+    "wof:lastmodified":1603260484,
     "wof:name":"Madinat ach Shamal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

@@ -642,6 +642,9 @@
     ],
     "wof:country":"QA",
     "wof:created":1459009655,
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"5800acfadc5639d4988594b67e75b50c",
     "wof:hierarchy":[
         {
@@ -652,7 +655,7 @@
         }
     ],
     "wof:id":1377149699,
-    "wof:lastmodified":1566609703,
+    "wof:lastmodified":1603260486,
     "wof:name":"Doha",
     "wof:parent_id":85676749,
     "wof:placetype":"county",
