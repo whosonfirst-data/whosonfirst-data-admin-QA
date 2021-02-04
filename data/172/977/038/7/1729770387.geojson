@@ -1,88 +1,88 @@
 {
-  "id": 421200111,
+  "id": 1729770387,
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
-    "edtf:deprecated":"2021-01-22",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"51.442065,25.258509,51.442065,25.258509",
-    "geom:latitude":25.258509,
-    "geom:longitude":51.442065,
+    "geom:bbox":"51.370697,25.214803,51.370697,25.214803",
+    "geom:latitude":25.214803,
+    "geom:longitude":51.370697,
     "iso:country":"QA",
-    "lbl:bbox":"51.422065,25.2385085,51.462065,25.2785085",
+    "lbl:bbox":"51.350697,25.194803,51.390697,25.234803",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":0,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
-        "\u0627\u0644\u0633\u0648\u062f\u0627\u0646"
+        "\u0627\u0644\u0633\u064a\u0644\u064a\u0629"
     ],
     "name:eng_x_preferred":[
-        "Sudan"
+        "Al Sailiya"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
     "qs:gn_pop":0,
-    "qs:name":"\u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "qs:name":"\u0627\u0644\u0633\u064a\u0644\u064a\u0629",
     "qs:name_adm0":"\u0642\u0637\u0631",
     "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0646",
-    "qs:photos":1174,
-    "qs:photos_1k":238,
-    "qs:photos_9k":5,
-    "qs:photos_9r":7,
-    "qs:photos_all":1174,
-    "qs:photos_sr":11,
+    "qs:photos":15,
+    "qs:photos_1k":3,
+    "qs:photos_9k":1,
+    "qs:photos_9r":1,
+    "qs:photos_all":15,
+    "qs:photos_sr":1,
     "qs:placetype":"Town",
     "qs:pop_sr":"0",
-    "qs:qs_id":776612,
+    "qs:qs_id":522755,
     "qs:woe_adm0":23424930,
-    "qs:woe_id":55922529,
+    "qs:woe_id":55922568,
     "src:geom":"quattroshapes",
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758065,
+        1108758067,
         1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
-        "gp:id":55922529,
-        "qs_pg:id":776612
+        "gp:id":55922568,
+        "qs_pg:id":522755
     },
     "wof:country":"QA",
-    "wof:created":1459010011,
-    "wof:geomhash":"b6d6fa04007a770e0ef6747e0b12d55f",
+    "wof:created":1459008835,
+    "wof:geomhash":"dcc7b2e0f7106427c9de812d8ab8f01a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
             "country_id":85632299,
-            "county_id":1108758065,
-            "locality_id":421200111,
+            "county_id":1108758067,
+            "locality_id":-1,
+            "neighbourhood_id":1729770387,
             "region_id":1377149573
         }
     ],
-    "wof:id":421200111,
+    "wof:id":1729770387,
     "wof:lastmodified":1612479141,
-    "wof:name":"Sudan",
-    "wof:parent_id":1108758065,
-    "wof:placetype":"locality",
+    "wof:name":"Al Sailiya",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-qa",
-    "wof:superseded_by":[
-        1729770389
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421170063
     ],
-    "wof:supersedes":[],
     "wof:tags":[]
 },
   "bbox": [
-    51.442065,
-    25.258509,
-    51.442065,
-    25.258509
+    51.370697,
+    25.214803,
+    51.370697,
+    25.214803
 ],
-  "geometry": {"coordinates":[51.442065,25.258509],"type":"Point"}
+  "geometry": {"coordinates":[51.370697,25.214803],"type":"Point"}
 }

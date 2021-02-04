@@ -3,6 +3,7 @@
   "type": "Feature",
   "properties": {
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2021-01-22",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -14,7 +15,7 @@
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:ara_x_preferred":[
@@ -66,12 +67,14 @@
         }
     ],
     "wof:id":421170063,
-    "wof:lastmodified":1601423085,
+    "wof:lastmodified":1612479141,
     "wof:name":"Al Sailiya",
     "wof:parent_id":1108758067,
     "wof:placetype":"locality",
     "wof:repo":"whosonfirst-data-admin-qa",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        1729770387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },
