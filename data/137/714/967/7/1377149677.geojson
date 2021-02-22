@@ -34,8 +34,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149699,
         421190363,
+        1377149699,
         85676749
     ],
     "wof:breaches":[],
@@ -54,7 +54,7 @@
         }
     ],
     "wof:id":1377149677,
-    "wof:lastmodified":1611961211,
+    "wof:lastmodified":1614025455,
     "wof:name":"Al Khuwair",
     "wof:parent_id":421190363,
     "wof:placetype":"neighbourhood",

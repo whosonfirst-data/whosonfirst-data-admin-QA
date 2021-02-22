@@ -96,8 +96,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108757955,
-        85676759
+        85676759,
+        1108757955
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -116,7 +116,7 @@
         }
     ],
     "wof:id":1242858265,
-    "wof:lastmodified":1611964497,
+    "wof:lastmodified":1614025445,
     "wof:name":"Musay`id",
     "wof:parent_id":1108757955,
     "wof:placetype":"locality",

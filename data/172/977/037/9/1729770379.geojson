@@ -39,8 +39,9 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758057,
-        85676755
+        421192963,
+        1108758063,
+        1377149573
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,16 +53,16 @@
         {
             "continent_id":102191569,
             "country_id":85632299,
-            "county_id":1108758057,
-            "locality_id":-1,
+            "county_id":1108758063,
+            "locality_id":421192963,
             "neighbourhood_id":1729770379,
-            "region_id":85676755
+            "region_id":1377149573
         }
     ],
     "wof:id":1729770379,
-    "wof:lastmodified":1612479141,
+    "wof:lastmodified":1614025424,
     "wof:name":"Sin` al Humaydi",
-    "wof:parent_id":-1,
+    "wof:parent_id":421192963,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-qa",
     "wof:superseded_by":[],

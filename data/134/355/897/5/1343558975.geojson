@@ -45,8 +45,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758063,
-        85676755
+        1377149573,
+        1108758063
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,11 +60,11 @@
             "country_id":85632299,
             "county_id":1108758063,
             "locality_id":1343558975,
-            "region_id":85676755
+            "region_id":1377149573
         }
     ],
     "wof:id":1343558975,
-    "wof:lastmodified":1612479141,
+    "wof:lastmodified":1614025419,
     "wof:name":"Mu`aydhir Rawdat Rashid",
     "wof:parent_id":1108758063,
     "wof:placetype":"locality",

@@ -43,8 +43,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758057,
-        1377149573
+        1377149573,
+        1108758057
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -62,7 +62,7 @@
         }
     ],
     "wof:id":1243552189,
-    "wof:lastmodified":1612479142,
+    "wof:lastmodified":1614025415,
     "wof:name":"Umm al Afa`i",
     "wof:parent_id":1108758057,
     "wof:placetype":"locality",

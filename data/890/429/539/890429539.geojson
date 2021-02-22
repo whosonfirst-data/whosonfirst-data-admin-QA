@@ -28,8 +28,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758067,
-        1377149573
+        1377149573,
+        1108758067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,7 +50,7 @@
         }
     ],
     "wof:id":890429539,
-    "wof:lastmodified":1612479142,
+    "wof:lastmodified":1614025438,
     "wof:name":"Al Waab Compound",
     "wof:parent_id":1108758067,
     "wof:placetype":"locality",

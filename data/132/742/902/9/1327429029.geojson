@@ -44,8 +44,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758067,
-        85676755
+        1377149573,
+        1108758067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -59,11 +59,11 @@
             "country_id":85632299,
             "county_id":1108758067,
             "locality_id":1327429029,
-            "region_id":85676755
+            "region_id":1377149573
         }
     ],
     "wof:id":1327429029,
-    "wof:lastmodified":1612479141,
+    "wof:lastmodified":1614025418,
     "wof:name":"Umm Qurun",
     "wof:parent_id":1108758067,
     "wof:placetype":"locality",

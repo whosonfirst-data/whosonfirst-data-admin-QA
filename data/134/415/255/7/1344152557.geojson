@@ -41,8 +41,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758091,
-        85676759
+        85676759,
+        1108758091
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -60,7 +60,7 @@
         }
     ],
     "wof:id":1344152557,
-    "wof:lastmodified":1611964500,
+    "wof:lastmodified":1614025446,
     "wof:name":"Al Mashaf",
     "wof:parent_id":1108758091,
     "wof:placetype":"locality",
