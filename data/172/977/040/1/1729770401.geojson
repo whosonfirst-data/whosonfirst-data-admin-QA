@@ -42,7 +42,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758067,
+        421192963,
+        1108758063,
         1377149573
     ],
     "wof:breaches":[],
@@ -55,16 +56,16 @@
         {
             "continent_id":102191569,
             "country_id":85632299,
-            "county_id":1108758067,
-            "locality_id":-1,
+            "county_id":1108758063,
+            "locality_id":421192963,
             "neighbourhood_id":1729770401,
             "region_id":1377149573
         }
     ],
     "wof:id":1729770401,
-    "wof:lastmodified":1612479142,
+    "wof:lastmodified":1614025432,
     "wof:name":"As Sayliyah",
-    "wof:parent_id":-1,
+    "wof:parent_id":421192963,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-qa",
     "wof:superseded_by":[],

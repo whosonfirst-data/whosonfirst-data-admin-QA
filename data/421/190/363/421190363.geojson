@@ -623,8 +623,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1377149699,
-        85676749
+        85676749,
+        1377149699
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -657,7 +657,7 @@
         }
     ],
     "wof:id":421190363,
-    "wof:lastmodified":1612477838,
+    "wof:lastmodified":1614025442,
     "wof:name":"Doha",
     "wof:parent_id":1377149699,
     "wof:placetype":"locality",
