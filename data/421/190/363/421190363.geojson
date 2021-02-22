@@ -624,7 +624,12 @@
         102191569,
         85632299,
         1377149699,
-        85676749
+        85676749,
+        1108758057,
+        1108758061,
+        1108758065,
+        1108758071,
+        1108758067
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -637,6 +642,10 @@
     "wof:concordances_alt":{
         "qs_pg:id":124079
     },
+    "wof:controlled":[
+        "wof:hierarchy",
+        "wof:parent_id"
+    ],
     "wof:coterminous":[
         85676749,
         1377149699
@@ -654,12 +663,47 @@
             "county_id":1377149699,
             "locality_id":421190363,
             "region_id":85676749
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758057,
+            "locality_id":421190363,
+            "region_id":85676749
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758061,
+            "locality_id":421190363,
+            "region_id":85676749
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758065,
+            "locality_id":421190363,
+            "region_id":85676749
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758071,
+            "locality_id":421190363,
+            "region_id":85676749
+        },
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758067,
+            "locality_id":421190363,
+            "region_id":85676749
         }
     ],
     "wof:id":421190363,
-    "wof:lastmodified":1612477838,
+    "wof:lastmodified":1614032180,
     "wof:name":"Doha",
-    "wof:parent_id":1377149699,
+    "wof:parent_id":-4,
     "wof:placetype":"locality",
     "wof:population":344939,
     "wof:population_rank":10,
