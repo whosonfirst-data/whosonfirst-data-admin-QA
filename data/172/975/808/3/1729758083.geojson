@@ -27,8 +27,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        421190363,
         1377149699,
+        421190363,
         85676749
     ],
     "wof:breaches":[],
@@ -46,13 +46,15 @@
         }
     ],
     "wof:id":1729758083,
-    "wof:lastmodified":1614025463,
+    "wof:lastmodified":1614039658,
     "wof:name":"Ras Abu Fintas",
     "wof:parent_id":421190363,
     "wof:placetype":"neighbourhood",
     "wof:repo":"whosonfirst-data-admin-qa",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        1377149693
+    ],
     "wof:tags":[]
 },
   "bbox": [

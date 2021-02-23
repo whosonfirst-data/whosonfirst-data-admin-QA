@@ -1,0 +1,18 @@
+{
+  "id": 1729749565,
+  "type": "Feature",
+  "properties": {
+    "src:geom":"woedb",
+    "src:alt_label":"woedb",
+    "wof:geomhash":"9768fc89dda0aca60337fee537670054",
+    "wof:id":1729749565,
+    "wof:repo":"whosonfirst-data-admin-qa"
+},
+  "bbox": [
+    51.607761,
+    25.272796,
+    51.607761,
+    25.272796
+],
+  "geometry": {"coordinates":[51.607761,25.272796],"type":"Point"}
+}
