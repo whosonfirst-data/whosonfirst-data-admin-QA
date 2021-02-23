@@ -1,0 +1,90 @@
+{
+  "id": 1729770383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.44556,25.27917,51.44556,25.27917",
+    "geom:latitude":25.27917,
+    "geom:longitude":51.44556,
+    "iso:country":"QA",
+    "lbl:bbox":"51.42556,25.25917,51.46556,25.29917",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0645\u064f\u0631\u064e\u064a\u0652\u062e"
+    ],
+    "name:und_x_variant":[
+        "Muraikh"
+    ],
+    "qs:gn_country":"QA",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":289713,
+    "qs:gn_pop":0,
+    "qs:name":"\u0641\u0631\u064a\u062c \u0627\u0644\u0627\u0645\u064a\u0631",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "qs:photos":696,
+    "qs:photos_1k":141,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":696,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1083630,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":1940462,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        421190363,
+        1377149699,
+        85676749
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":289713,
+        "gp:id":1940462,
+        "qs_pg:id":1083630
+    },
+    "wof:country":"QA",
+    "wof:created":1459009516,
+    "wof:geomhash":"c97799c4a75a40d579542539fe1a0dd2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1377149699,
+            "locality_id":421190363,
+            "neighbourhood_id":1729770383,
+            "region_id":85676749
+        }
+    ],
+    "wof:id":1729770383,
+    "wof:lastmodified":1614025425,
+    "wof:name":"\u0641\u0631\u064a\u062c \u0627\u0644\u0627\u0645\u064a\u0631",
+    "wof:parent_id":421190363,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421187539
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.44556,
+    25.27917,
+    51.44556,
+    25.27917
+],
+  "geometry": {"coordinates":[51.44556,25.27917],"type":"Point"}
+}

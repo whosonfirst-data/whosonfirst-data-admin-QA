@@ -1,0 +1,89 @@
+{
+  "id": 1729770377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"51.427731,25.279625,51.427731,25.279625",
+    "geom:latitude":25.279625,
+    "geom:longitude":51.427731,
+    "iso:country":"QA",
+    "lbl:bbox":"51.407731,25.259625,51.447731,25.299625",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:min_zoom":12.0,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:ara_x_preferred":[
+        "\u0627\u0644\u0631\u064a\u0627\u0646 \u0627\u0644\u062c\u062f\u064a\u062f"
+    ],
+    "name:eng_x_preferred":[
+        "Al Rayyan Al Jadeed"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"\u0627\u0644\u0631\u064a\u0627\u0646 \u0627\u0644\u062c\u062f\u064a\u062f",
+    "qs:name_adm0":"\u0642\u0637\u0631",
+    "qs:name_adm1":"\u0627\u0644\u0631\u064a\u0627\u0646",
+    "qs:photos":114,
+    "qs:photos_1k":23,
+    "qs:photos_9k":1,
+    "qs:photos_9r":3,
+    "qs:photos_all":114,
+    "qs:photos_sr":3,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":230848,
+    "qs:woe_adm0":23424930,
+    "qs:woe_id":55922505,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191569,
+        85632299,
+        421192963,
+        1108758063,
+        1377149573
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":55922505,
+        "qs_pg:id":230848
+    },
+    "wof:country":"QA",
+    "wof:created":1459010146,
+    "wof:geomhash":"881d99604153387f55090fb2b984b394",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632299,
+            "county_id":1108758063,
+            "locality_id":421192963,
+            "neighbourhood_id":1729770377,
+            "region_id":1377149573
+        }
+    ],
+    "wof:id":1729770377,
+    "wof:lastmodified":1614025424,
+    "wof:name":"Al Rayyan Al Jadeed",
+    "wof:parent_id":421192963,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-qa",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        421203279
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    51.427731,
+    25.279625,
+    51.427731,
+    25.279625
+],
+  "geometry": {"coordinates":[51.427731,25.279625],"type":"Point"}
+}

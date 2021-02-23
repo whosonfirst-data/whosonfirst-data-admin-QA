@@ -4,11 +4,11 @@
   "properties": {
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
-    "geom:area":0.0,
-    "geom:area_square_m":0.0,
-    "geom:bbox":"51.56902,25.17528,51.56902,25.17528",
-    "geom:latitude":25.17528,
-    "geom:longitude":51.56902,
+    "geom:area":0.000932,
+    "geom:area_square_m":10423991.478464,
+    "geom:bbox":"51.547901,25.148413,51.587527,25.198743",
+    "geom:latitude":25.177194,
+    "geom:longitude":51.571281,
     "gn:admin1_code":"10",
     "gn:asciiname":"Al Mashaf",
     "gn:country_code":"QA",
@@ -23,11 +23,10 @@
     "gn:population":0,
     "gn:timezone":"Asia/Qatar",
     "iso:country":"QA",
-    "lbl:bbox":"51.54902,25.15528,51.58902,25.19528",
     "lbl:max_zoom":18.0,
     "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":1,
     "mz:min_zoom":12.0,
     "name:ara_x_preferred":[
         "\u0627\u0644\u0645\u0634\u0627\u0641"
@@ -35,7 +34,10 @@
     "name:und_x_variant":[
         "Al Mash\u0101f"
     ],
-    "src:geom":"geonames",
+    "src:geom":"whosonfirst",
+    "src:geom_alt":[
+        "geonames"
+    ],
     "wof:belongsto":[
         102191569,
         85632299,
@@ -47,7 +49,7 @@
         "gn:id":11207802
     },
     "wof:country":"QA",
-    "wof:geomhash":"a63c5dfcacc357b601a3e85b3a968801",
+    "wof:geomhash":"d36c6c0b614ab9ab9d3e525c98238e98",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -58,7 +60,7 @@
         }
     ],
     "wof:id":1344152557,
-    "wof:lastmodified":1566609671,
+    "wof:lastmodified":1614025446,
     "wof:name":"Al Mashaf",
     "wof:parent_id":1108758091,
     "wof:placetype":"locality",
@@ -68,10 +70,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    51.56902,
-    25.17528,
-    51.56902,
-    25.17528
+    51.547901,
+    25.148413,
+    51.587527,
+    25.198743
 ],
-  "geometry": {"coordinates":[51.56902,25.17528],"type":"Point"}
+  "geometry": {"coordinates":[[[[51.576732,25.148413],[51.566894,25.162512],[51.563205,25.166346],[51.556919,25.1729],[51.55159,25.178218],[51.547901,25.183906],[51.555143,25.186255],[51.557876,25.186873],[51.562112,25.186997],[51.562248,25.18947],[51.576322,25.193674],[51.575229,25.196394],[51.580285,25.198743],[51.582334,25.198001],[51.584384,25.196641],[51.585887,25.195281],[51.586844,25.19355],[51.587527,25.190583],[51.58657,25.188233],[51.582881,25.176115],[51.581515,25.172653],[51.580968,25.169685],[51.581925,25.167212],[51.582061,25.16313],[51.580421,25.159915],[51.576732,25.148413]]]],"type":"MultiPolygon"}
 }
