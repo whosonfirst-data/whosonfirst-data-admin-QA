@@ -29,6 +29,9 @@
     "name:eng_x_preferred":[
         "Al Ruwais / Madinat Al Shamal"
     ],
+    "name:fra_x_preferred":[
+        "Al Ruwais/Madinat Al Shamal"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -57,7 +60,7 @@
         }
     ],
     "wof:id":1108758109,
-    "wof:lastmodified":1617131234,
+    "wof:lastmodified":1627522525,
     "wof:name":"Al Ruwais / Madinat Al Shamal",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

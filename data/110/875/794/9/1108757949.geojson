@@ -35,6 +35,9 @@
     "name:fas_x_preferred":[
         "\u0627\u0645 \u0628\u0627\u0628"
     ],
+    "name:fra_x_preferred":[
+        "Umm Bab"
+    ],
     "name:gle_x_preferred":[
         "Umm Bab"
     ],
@@ -87,7 +90,7 @@
         }
     ],
     "wof:id":1108757949,
-    "wof:lastmodified":1617130725,
+    "wof:lastmodified":1627522525,
     "wof:name":"Umm Bab",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",
