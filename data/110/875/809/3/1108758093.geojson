@@ -26,6 +26,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:fra_x_preferred":[
+        "Ash Shaqra'"
+    ],
     "src:geom":"whosonfirst",
     "src:geom_alt":[
         "meso"
@@ -54,7 +57,7 @@
         }
     ],
     "wof:id":1108758093,
-    "wof:lastmodified":1617130318,
+    "wof:lastmodified":1628127643,
     "wof:name":"Shagra",
     "wof:parent_id":85676759,
     "wof:placetype":"county",
