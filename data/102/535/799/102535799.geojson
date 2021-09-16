@@ -36,6 +36,10 @@
     "name:eng_x_preferred":[
         "Doha International Airport"
     ],
+    "name:eng_x_variant":[
+        "DIA",
+        "OTBD"
+    ],
     "name:epo_x_preferred":[
         "Internacia Flughaveno Da\u016dho"
     ],
@@ -161,7 +165,7 @@
         }
     ],
     "wof:id":102535799,
-    "wof:lastmodified":1611605949,
+    "wof:lastmodified":1631753188,
     "wof:name":"Doha International Airport",
     "wof:parent_id":1377149611,
     "wof:placetype":"campus",
