@@ -23,6 +23,12 @@
     "name:eng_x_preferred":[
         "Umm Salal"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05e1\u05dc\u05d0\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Umm Salal"
+    ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
     "qs:gn_id":0,
@@ -45,8 +51,8 @@
     "wof:belongsto":[
         102191569,
         85632299,
-        1108758101,
-        85676777
+        85676777,
+        1108758101
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":421172071,
-    "wof:lastmodified":1601423094,
+    "wof:lastmodified":1636503124,
     "wof:name":"Umm Salal",
     "wof:parent_id":1108758101,
     "wof:placetype":"locality",

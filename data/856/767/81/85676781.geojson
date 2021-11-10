@@ -82,6 +82,9 @@
     "name:hin_x_preferred":[
         "\u0909\u092e\u094d\u092e \u0938\u0932\u093e\u0932 \u0928\u0917\u0930\u092a\u093e\u0932\u093f\u0915\u093e"
     ],
+    "name:hun_x_preferred":[
+        "Al-Daayen"
+    ],
     "name:ind_x_preferred":[
         "Kotamadya Umm Salal"
     ],
@@ -323,7 +326,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1614895751,
+    "wof:lastmodified":1636503123,
     "wof:name":"Al Daayen",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
