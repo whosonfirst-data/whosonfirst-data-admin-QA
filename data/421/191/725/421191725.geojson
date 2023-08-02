@@ -17,6 +17,9 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Umm Salal Ali"
+    ],
     "name:eng_x_preferred":[
         "Umm Salal Ali"
     ],
@@ -26,14 +29,23 @@
     "name:fra_x_preferred":[
         "Umm Salal Ali"
     ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05dd \u05e1\u05dc\u05d0\u05dc \u05e2\u05dc\u05d9"
+    ],
     "name:nno_x_preferred":[
         "Umm Salal Ali"
     ],
     "name:por_x_preferred":[
         "Umm Salal Ali"
     ],
+    "name:spa_x_preferred":[
+        "Umm Salal Ali"
+    ],
     "name:tgl_x_preferred":[
         "Umm Salal 'Ali"
+    ],
+    "name:zho_x_preferred":[
+        "\u70cf\u59c6\u85a9\u62c9\u963f\u91cc"
     ],
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -80,7 +92,7 @@
         }
     ],
     "wof:id":421191725,
-    "wof:lastmodified":1566609707,
+    "wof:lastmodified":1690857378,
     "wof:name":"Umm Salal Ali",
     "wof:parent_id":1108758099,
     "wof:placetype":"locality",

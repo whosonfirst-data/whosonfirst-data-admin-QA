@@ -40,6 +40,12 @@
     "name:ben_x_preferred":[
         "\u0989\u09ae\u09cd\u09ae \u09b8\u09be\u09b2\u09be\u09b2 \u09aa\u09cc\u09b0\u09b8\u09ad\u09be"
     ],
+    "name:cat_x_preferred":[
+        "Umm Salal"
+    ],
+    "name:cym_x_preferred":[
+        "Bwrdeistref Umm Salal"
+    ],
     "name:dan_x_preferred":[
         "Umm Salal"
     ],
@@ -55,6 +61,9 @@
     "name:eng_x_variant":[
         "Umm Salal",
         "Umm Salal Municipality"
+    ],
+    "name:eus_x_preferred":[
+        "Umm Salal"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645 \u0635\u0644\u0627\u0644"
@@ -76,6 +85,9 @@
     ],
     "name:hun_x_preferred":[
         "Umm Salal"
+    ],
+    "name:hyw_x_preferred":[
+        "\u0538\u0574 \u054d\u0561\u056c\u0561\u056c \u0584\u0561\u0572\u0561\u0584\u0561\u057a\u0565\u057f\u0561\u0580\u0561\u0576"
     ],
     "name:ind_x_preferred":[
         "Kotamadya Umm Salal"
@@ -128,11 +140,17 @@
     "name:por_x_preferred":[
         "Umm Salal"
     ],
+    "name:ron_x_preferred":[
+        "Umm Salal"
+    ],
     "name:rus_x_preferred":[
         "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
     ],
     "name:sin_x_preferred":[
         "\u0d8b\u0db8\u0dca \u0dc3\u0dbd\u0dbd\u0dca \u0db1\u0d9c\u0dbb \u0dc3\u0db7\u0dcf\u0dc0"
+    ],
+    "name:som_x_preferred":[
+        "Umm Salal"
     ],
     "name:spa_x_preferred":[
         "Municipio de Umm Salal"
@@ -154,6 +172,9 @@
     ],
     "name:tur_x_preferred":[
         "Umm Selal"
+    ],
+    "name:tur_x_variant":[
+        "\u00dcmm\u00fc Sal\u00e2l"
     ],
     "name:ukr_x_preferred":[
         "\u0423\u043c\u043c-\u0421\u0430\u043b\u0430\u043b\u044c"
@@ -294,7 +315,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636503124,
+    "wof:lastmodified":1690857375,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
