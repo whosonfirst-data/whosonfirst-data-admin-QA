@@ -25,8 +25,17 @@
     "name:ara_x_variant":[
         "\u0627\u0644\u0631\u0648\u064a\u0633"
     ],
+    "name:arz_x_preferred":[
+        "\u0627\u0644\u0631\u0648\u064a\u0633"
+    ],
+    "name:ast_x_preferred":[
+        "Ar Ru'ays"
+    ],
     "name:ceb_x_preferred":[
         "Ar Ru'ays"
+    ],
+    "name:deu_x_preferred":[
+        "Ar-Ruwais"
     ],
     "name:eng_x_preferred":[
         "Ar Ru'ays"
@@ -61,8 +70,14 @@
     "name:por_x_preferred":[
         "Ar Ru'ays"
     ],
+    "name:rus_x_preferred":[
+        "\u042d\u0440-\u0420\u0443\u0432\u0430\u0439\u0441"
+    ],
     "name:tgl_x_preferred":[
         "Ar Ru'ays"
+    ],
+    "name:tur_x_preferred":[
+        "Er R\u00fcveys"
     ],
     "name:und_x_variant":[
         "Ar Ruwais"
@@ -101,7 +116,7 @@
         }
     ],
     "wof:id":890430391,
-    "wof:lastmodified":1566609710,
+    "wof:lastmodified":1690857379,
     "wof:name":"Ar Ru\u2019ays",
     "wof:parent_id":1108758109,
     "wof:placetype":"locality",
