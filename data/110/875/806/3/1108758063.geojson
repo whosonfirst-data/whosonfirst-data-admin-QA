@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.009799,
-    "geom:area_square_m":109561270.897109,
+    "geom:area_square_m":109561324.035379,
     "geom:bbox":"51.274154,25.22094,51.43924,25.338202",
     "geom:latitude":25.280134,
     "geom:longitude":51.350602,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "New Al Rayyan/Muaither North/Al Wajba Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.281915,
     "lbl:longitude":51.342479,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "New Al Rayyan/Muaither North/Al Wajba"
+    ],
     "name:fra_x_preferred":[
         "Al Rayyan / Muaither N St / Al Wajba"
     ],
@@ -40,7 +49,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308709,
-    "wof:geomhash":"0e92596bc2e4f2c11c53af938c1288ca",
+    "wof:geomhash":"1763baec50f3e6dbfbf383cc33486d24",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1108758063,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694498074,
     "wof:name":"New Al Rayyan/Muaither North/Al Wajba",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

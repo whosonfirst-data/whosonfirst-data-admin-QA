@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":1.038818,
-    "geom:area_square_m":11614274402.286535,
+    "geom:area_square_m":11614274402.286669,
     "geom:bbox":"50.750031,24.471111,51.647362,26.184029",
     "geom:latitude":25.284675,
     "geom:longitude":51.192573,
@@ -14,6 +14,9 @@
     "iso:country":"QA",
     "itu:country_code":[
         "974"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "country"
     ],
     "label:eng_x_preferred_shortcode":[
         "QA"
@@ -1149,7 +1152,8 @@
     ],
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"974",
     "statoids:ds":"Q",
     "statoids:fifa":"QAT",
@@ -1209,7 +1213,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"c37c093f86c90ea117f7ba37d055678d",
+    "wof:geomhash":"62646e9d73bcd41b8c0286ff05a1fe9d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -1223,12 +1227,12 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857374,
+    "wof:lastmodified":1694492105,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
-    "wof:population":2168673,
-    "wof:population_rank":12,
+    "wof:population":2832067,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-qa",
     "wof:shortcode":"QA",
     "wof:superseded_by":[],

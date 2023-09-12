@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038033,
-    "geom:area_square_m":424985466.187198,
+    "geom:area_square_m":424985399.386581,
     "geom:bbox":"50.888714,25.261476,51.127775,25.464265",
     "geom:latitude":25.354466,
     "geom:longitude":51.015067,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Nasraniya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.347341,
     "lbl:longitude":51.015061,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Nasraniya"
+    ],
     "name:fra_x_preferred":[
         "Al Nasraniya"
     ],
@@ -46,7 +55,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308738,
-    "wof:geomhash":"b78214f3bc881ab3d61fe176cf6e5023",
+    "wof:geomhash":"ada2de6ac1353d60156ac57c41e5705b",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":1108758119,
-    "wof:lastmodified":1628266617,
+    "wof:lastmodified":1694498069,
     "wof:name":"Al Nasraniya",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

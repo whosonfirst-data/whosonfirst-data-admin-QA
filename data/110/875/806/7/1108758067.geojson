@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.007148,
-    "geom:area_square_m":79955722.816531,
+    "geom:area_square_m":79955712.743629,
     "geom:bbox":"51.307689,25.173784,51.493159,25.272247",
     "geom:latitude":25.226418,
     "geom:longitude":51.385925,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Soudan South/Al Waab/Al Aziziya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.229819,
     "lbl:longitude":51.392231,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Soudan South/Al Waab/Al Aziziya"
+    ],
     "name:fra_x_preferred":[
         "Al Soudan South/Al Waab/Al Aziziyah"
     ],
@@ -40,7 +49,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308711,
-    "wof:geomhash":"fc9fcad7683122ae6378f3a75e7dfc59",
+    "wof:geomhash":"2f43c2977736e804a722e98e055f5dd1",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1108758067,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694498070,
     "wof:name":"Al Soudan South/Al Waab/Al Aziziya",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

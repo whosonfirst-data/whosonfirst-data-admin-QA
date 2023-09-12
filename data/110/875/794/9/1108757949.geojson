@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.044296,
-    "geom:area_square_m":495706885.07514,
+    "geom:area_square_m":495706729.611766,
     "geom:bbox":"50.761214,25.07948,51.01926,25.264187",
     "geom:latitude":25.174183,
     "geom:longitude":50.894034,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Umm Bab Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.17264,
     "lbl:longitude":50.894034,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Umm B\u0101b"
+    ],
+    "name:eng_x_preferred":[
+        "Umm Bab"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0645 \u0628\u0627\u0628"
@@ -80,7 +89,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"724fae07016363c68d486f00e968adb2",
+    "wof:geomhash":"468eb97e20939acc1c8f00299a6b25fa",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -90,7 +99,7 @@
         }
     ],
     "wof:id":1108757949,
-    "wof:lastmodified":1627522525,
+    "wof:lastmodified":1694498067,
     "wof:name":"Umm Bab",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005654,
-    "geom:area_square_m":63304845.910898,
+    "geom:area_square_m":63304913.03832,
     "geom:bbox":"51.560976,25.050155,51.621172,25.19355",
     "geom:latitude":25.118325,
     "geom:longitude":51.595243,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Wakra Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.118582,
     "lbl:longitude":51.595812,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Wakra"
+    ],
     "name:fra_x_preferred":[
         "Al Wakrah"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"dd9899250251e04c99dab5f8d3a1dcc7",
+    "wof:geomhash":"ebd9fddf355b0a987f21548136514810",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108757953,
-    "wof:lastmodified":1642551794,
+    "wof:lastmodified":1694498182,
     "wof:name":"Al Wakra",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

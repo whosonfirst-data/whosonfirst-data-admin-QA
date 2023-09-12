@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.054274,
-    "geom:area_square_m":604108976.256092,
+    "geom:area_square_m":604109062.418544,
     "geom:bbox":"51.277833,25.713472,51.621163,25.958786",
     "geom:latitude":25.820005,
     "geom:longitude":51.458651,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Thakhira/Rass Laffan/Umm Birka Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.833383,
     "lbl:longitude":51.472531,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Thakhira/Rass Laffan/Umm Birka"
+    ],
     "name:fra_x_preferred":[
         "Dakhira/Rass Laffan/Umm Birka"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"43cb1084a21ba1726b974ed0965ce6ca",
+    "wof:geomhash":"bfb1bedc8a8393212bc5302e26c17390",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108757945,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694498070,
     "wof:name":"Al Thakhira/Rass Laffan/Umm Birka",
     "wof:parent_id":85676767,
     "wof:placetype":"county",

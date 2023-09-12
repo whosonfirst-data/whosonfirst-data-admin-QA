@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003862,
-    "geom:area_square_m":43133011.278346,
+    "geom:area_square_m":43132993.20628,
     "geom:bbox":"51.47767,25.379265,51.575417,25.471195",
     "geom:latitude":25.424672,
     "geom:longitude":51.510554,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.425269,
     "lbl:longitude":51.509609,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat"
+    ],
     "name:fra_x_preferred":[
         "Umm Birka/Al Kharayej/Lusail/Al Egla/Wadi Al Banat"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"0aa1fb5b614fc2c60553472f9eaa09e5",
+    "wof:geomhash":"04412bc4809cab2bb428a2fe48046aee",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108757963,
-    "wof:lastmodified":1642551817,
+    "wof:lastmodified":1694498184,
     "wof:name":"Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat",
     "wof:parent_id":85676781,
     "wof:placetype":"county",

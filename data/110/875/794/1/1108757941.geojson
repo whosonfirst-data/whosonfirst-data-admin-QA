@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.059589,
-    "geom:area_square_m":664947753.540943,
+    "geom:area_square_m":664948033.669605,
     "geom:bbox":"50.793619,25.426386,51.266442,25.653336",
     "geom:latitude":25.519369,
     "geom:longitude":51.045769,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Utouriya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.506512,
     "lbl:longitude":51.045799,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Utouriya"
+    ],
     "name:fra_x_preferred":[
         "Al Utouriya"
     ],
@@ -53,7 +62,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"850a0749d6c1605720cf187ee7e80fed",
+    "wof:geomhash":"3ef54f5639e200783a518918bf631f47",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -63,7 +72,7 @@
         }
     ],
     "wof:id":1108757941,
-    "wof:lastmodified":1628266618,
+    "wof:lastmodified":1694498070,
     "wof:name":"Al Utouriya",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

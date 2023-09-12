@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.071403,
-    "geom:area_square_m":801108259.673926,
+    "geom:area_square_m":801108051.973534,
     "geom:bbox":"50.795696,24.716145,51.118676,24.993756",
     "geom:latitude":24.858478,
     "geom:longitude":50.976053,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Abu Samra Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":24.855308,
     "lbl:longitude":50.976141,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Abu Samra"
+    ],
     "name:fra_x_preferred":[
         "Abu Samra"
     ],
@@ -50,7 +59,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"53c31ac6eb915627c73c7563614e153e",
+    "wof:geomhash":"372c6cf679d28d7e268fbd48b85834c4",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108757959,
-    "wof:lastmodified":1642551795,
+    "wof:lastmodified":1694498182,
     "wof:name":"Abu Samra",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",
