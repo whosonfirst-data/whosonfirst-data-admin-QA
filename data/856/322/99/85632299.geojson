@@ -1153,7 +1153,7 @@
     "src:geom_via":"us-dshiu",
     "src:lbl_centroid":"mapshaper",
     "src:population":"naturalearth",
-    "src:population_year":"2019",
+    "src:population_date":"2019",
     "statoids:dial":"974",
     "statoids:ds":"Q",
     "statoids:fifa":"QAT",
@@ -1227,7 +1227,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694492105,
+    "wof:lastmodified":1694639559,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",
