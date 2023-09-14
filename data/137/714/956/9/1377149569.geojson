@@ -7,11 +7,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"2014-01-01",
     "geom:area":0.296819,
-    "geom:area_square_m":3315270917.799527,
+    "geom:area_square_m":3315270917.799496,
     "geom:bbox":"50.750030995,25.0794802903,51.326304569,25.808429773",
     "geom:latitude":25.405512,
     "geom:longitude":51.031963,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al-Shahaniya\u200e Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "AS"
     ],
@@ -69,7 +75,7 @@
         "wk:page":"Al-Shahaniya"
     },
     "wof:country":"QA",
-    "wof:geomhash":"b57445368f82425423ff6e53ed26bda5",
+    "wof:geomhash":"54e7903855dbd3de1a1c60eae1a35a88",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -84,7 +90,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1566609703,
+    "wof:lastmodified":1694493129,
     "wof:name":"Al-Shahaniya",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

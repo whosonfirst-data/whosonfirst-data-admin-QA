@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.038562,
-    "geom:area_square_m":428671869.077556,
+    "geom:area_square_m":428671796.040333,
     "geom:bbox":"50.958843,25.844616,51.217064,26.136967",
     "geom:latitude":25.972772,
     "geom:longitude":51.100406,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Abu Dhalouf/Al Zubara Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.988472,
     "lbl:longitude":51.087839,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Abu Dhalouf/Al Zubara"
+    ],
     "name:fra_x_preferred":[
         "Abu az Zuluf/Al Zubara"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e8ea8a3e16ecc680284b9f49c46df030",
+    "wof:geomhash":"acc4e076b6dbc0654ec624bcc6ea1b94",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108757947,
-    "wof:lastmodified":1628266614,
+    "wof:lastmodified":1694498069,
     "wof:name":"Abu Dhalouf/Al Zubara",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

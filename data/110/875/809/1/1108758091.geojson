@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.018271,
-    "geom:area_square_m":204534724.787898,
+    "geom:area_square_m":204534939.071496,
     "geom:bbox":"51.383491,25.047132,51.592806,25.215866",
     "geom:latitude":25.130682,
     "geom:longitude":51.499645,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Thumama / Al Wukair / Al Mashaf Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.132451,
     "lbl:longitude":51.508355,
     "lbl:max_zoom":10.0,
@@ -43,7 +49,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308723,
-    "wof:geomhash":"da810c7669c61e5d886ce90797e62967",
+    "wof:geomhash":"205b302f88f22ed0998d0f808bb16d6e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":1108758091,
-    "wof:lastmodified":1627522525,
+    "wof:lastmodified":1694498067,
     "wof:name":"Al Thumama / Al Wukair / Al Mashaf",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005235,
-    "geom:area_square_m":58566058.680757,
+    "geom:area_square_m":58565995.273851,
     "geom:bbox":"51.433566,25.167586,51.537781,25.251866",
     "geom:latitude":25.212324,
     "geom:longitude":51.486371,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "New Al Khulaifat/Al Maamoura/Mesaimeer/Ain Khaled Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.206449,
     "lbl:longitude":51.485377,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "New Al Khulaifat/Al Maamoura/Mesaimeer/Ain Khaled"
+    ],
     "name:fra_x_preferred":[
         "Al Khulaifat / Al Maamoura / Mesaimeer / Ain Khaled"
     ],
@@ -40,7 +49,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308712,
-    "wof:geomhash":"5850567940224f159a8dc00e2998e01f",
+    "wof:geomhash":"277bc61f068181298c29e1f74f618c36",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -50,7 +59,7 @@
         }
     ],
     "wof:id":1108758071,
-    "wof:lastmodified":1628266691,
+    "wof:lastmodified":1694498074,
     "wof:name":"New Al Khulaifat/Al Maamoura/Mesaimeer/Ain Khaled",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

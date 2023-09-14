@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.218646,
-    "geom:area_square_m":2451715241.227042,
+    "geom:area_square_m":2451715305.872419,
     "geom:bbox":"50.795507,24.471118,51.537781,25.389369",
     "geom:latitude":24.92767,
     "geom:longitude":51.08136,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Rayyan Municipality"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "municipality"
+    ],
     "label:eng_x_preferred_shortcode":[
         "RY"
     ],
@@ -256,7 +262,7 @@
         "wd:id":"Q311272"
     },
     "wof:country":"QA",
-    "wof:geomhash":"8c99094b213fa0cc07236778110e49c3",
+    "wof:geomhash":"7af2ecac9b68ad1c039046ac0530f96d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -271,7 +277,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857376,
+    "wof:lastmodified":1694493179,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

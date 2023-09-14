@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.040654,
-    "geom:area_square_m":454795884.956606,
+    "geom:area_square_m":454795509.263856,
     "geom:bbox":"51.016713,25.110685,51.326305,25.304006",
     "geom:latitude":25.215387,
     "geom:longitude":51.174503,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Rawdat Rashed Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.21152,
     "lbl:longitude":51.189968,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Rawdat Rashed"
+    ],
     "name:fra_x_preferred":[
         "Rawdat Rasid"
     ],
@@ -43,7 +52,7 @@
     "wof:concordances":{},
     "wof:country":"QA",
     "wof:created":1481308737,
-    "wof:geomhash":"3105568336eb6bc05b822736c52ea067",
+    "wof:geomhash":"63ed22372520ec33a3aea35f60fa364e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -53,7 +62,7 @@
         }
     ],
     "wof:id":1108758117,
-    "wof:lastmodified":1628266707,
+    "wof:lastmodified":1694498075,
     "wof:name":"Rawdat Rashed",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

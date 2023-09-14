@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.032688,
-    "geom:area_square_m":365200920.390144,
+    "geom:area_square_m":365200920.390278,
     "geom:bbox":"50.750030995,25.2618569289,50.9187979572,25.531450479",
     "geom:latitude":25.3724,
     "geom:longitude":50.832365,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Dukhan Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.366219,
     "lbl:longitude":50.83923,
     "lbl:max_zoom":10.0,
@@ -31,6 +37,9 @@
     ],
     "name:ceb_x_preferred":[
         "Dukh\u0101n"
+    ],
+    "name:eng_x_preferred":[
+        "Dukhan"
     ],
     "name:fas_x_preferred":[
         "\u062f\u062e\u0627\u0646"
@@ -83,7 +92,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"e4f5813a1c01aa4b42455fc04b7e4ed8",
+    "wof:geomhash":"bd9da3c1c9a5a1a269044a4c634f43e6",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -93,7 +102,7 @@
         }
     ],
     "wof:id":1108757951,
-    "wof:lastmodified":1582360331,
+    "wof:lastmodified":1694497897,
     "wof:name":"Dukhan",
     "wof:parent_id":1377149569,
     "wof:placetype":"county",

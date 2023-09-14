@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.05687,
-    "geom:area_square_m":632965736.655555,
+    "geom:area_square_m":632965716.725649,
     "geom:bbox":"50.9556,25.703025,51.350482,25.966227",
     "geom:latitude":25.826606,
     "geom:longitude":51.187597,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Ghuwairiya Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.813219,
     "lbl:longitude":51.206887,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Ghuwairiya"
+    ],
     "name:fra_x_preferred":[
         "Al Ghuwariyah"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"add6a88e5ebda57a6ec5409b936e022e",
+    "wof:geomhash":"53b534a8d8397ad6a3efa95c2584944d",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108758083,
-    "wof:lastmodified":1628266617,
+    "wof:lastmodified":1694498069,
     "wof:name":"Al Ghuwairiya",
     "wof:parent_id":85676767,
     "wof:placetype":"county",

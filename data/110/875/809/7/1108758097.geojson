@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.050646,
-    "geom:area_square_m":569328327.061175,
+    "geom:area_square_m":569328235.265126,
     "geom:bbox":"50.830157,24.471118,51.118511,24.722728",
     "geom:latitude":24.61811,
     "geom:longitude":51.005826,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Sawda Natheel Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":24.615898,
     "lbl:longitude":51.008017,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Sawda Natheel"
+    ],
     "name:fra_x_preferred":[
         "Sawda Natheel"
     ],
@@ -50,7 +59,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"ec373347e659d29ba78b04658f8689a3",
+    "wof:geomhash":"d5f1f25d6da8f1b3b6cb2752cf41659e",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108758097,
-    "wof:lastmodified":1628266713,
+    "wof:lastmodified":1694498075,
     "wof:name":"Sawda Natheel",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

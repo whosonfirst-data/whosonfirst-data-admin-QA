@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.049628,
-    "geom:area_square_m":555912818.721818,
+    "geom:area_square_m":555913100.558119,
     "geom:bbox":"50.795507,24.986053,51.217667,25.170882",
     "geom:latitude":25.056482,
     "geom:longitude":51.03165,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Karaana Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.074999,
     "lbl:longitude":51.090896,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Karaana"
+    ],
     "name:fra_x_preferred":[
         "Al-Kiranah"
     ],
@@ -50,7 +59,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"17d208e685b910d91403a9d9715fe3db",
+    "wof:geomhash":"795210fabd33dcebf6614cdf120bbc89",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +69,7 @@
         }
     ],
     "wof:id":1108758089,
-    "wof:lastmodified":1642551740,
+    "wof:lastmodified":1694498180,
     "wof:name":"Al Karaana",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

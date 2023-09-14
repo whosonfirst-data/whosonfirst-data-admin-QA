@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.062767,
-    "geom:area_square_m":705468704.568651,
+    "geom:area_square_m":705468958.504023,
     "geom:bbox":"51.116187,24.473662,51.61264,24.768166",
     "geom:latitude":24.637855,
     "geom:longitude":51.264373,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Adaid Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":24.563097,
     "lbl:longitude":51.185393,
     "lbl:max_zoom":10.0,
@@ -26,6 +32,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":6.0,
+    "name:eng_x_preferred":[
+        "Al Adaid"
+    ],
     "name:fra_x_preferred":[
         "Al Adaid"
     ],
@@ -47,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"59d819c3a67f18274382e889e0820692",
+    "wof:geomhash":"759467cf66083317b225f18fefd5fc8c",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -57,7 +66,7 @@
         }
     ],
     "wof:id":1108758111,
-    "wof:lastmodified":1642551752,
+    "wof:lastmodified":1694498181,
     "wof:name":"Al Adaid",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

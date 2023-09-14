@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.014861,
-    "geom:area_square_m":165029382.721094,
+    "geom:area_square_m":165029371.392015,
     "geom:bbox":"51.183932,26.038876,51.366353,26.157882",
     "geom:latitude":26.091053,
     "geom:longitude":51.276185,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Al Ruwais / Madinat Al Shamal Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":26.091165,
     "lbl:longitude":51.276223,
     "lbl:max_zoom":10.0,
@@ -50,7 +56,7 @@
     "wof:geom_alt":[
         "meso"
     ],
-    "wof:geomhash":"139b8c14053be262c9979b21716fd9ea",
+    "wof:geomhash":"923038bca715152fc722e277072f7c5f",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -60,7 +66,7 @@
         }
     ],
     "wof:id":1108758109,
-    "wof:lastmodified":1627522525,
+    "wof:lastmodified":1694498067,
     "wof:name":"Al Ruwais / Madinat Al Shamal",
     "wof:parent_id":85676773,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019547,
-    "geom:area_square_m":218562355.175326,
+    "geom:area_square_m":218562148.714642,
     "geom:bbox":"51.397751,25.151949,51.647362,25.396163",
     "geom:latitude":25.275372,
     "geom:longitude":51.520838,
@@ -13,6 +13,12 @@
     "gn:fcode":"PPLC",
     "gn:population":344939,
     "iso:country":"QA",
+    "label:eng_x_preferred_longname":[
+        "Doha Zone"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "zone"
+    ],
     "lbl:latitude":25.251557,
     "lbl:longitude":51.564826,
     "lbl:max_zoom":10.0,
@@ -678,7 +684,7 @@
     ],
     "wof:country":"QA",
     "wof:created":1459009655,
-    "wof:geomhash":"d9a79b5a60694aff8023955acdf639b0",
+    "wof:geomhash":"a08c9a10020e487380e4a51733b272f3",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -688,7 +694,7 @@
         }
     ],
     "wof:id":1377149699,
-    "wof:lastmodified":1690857377,
+    "wof:lastmodified":1694497833,
     "wof:name":"Doha",
     "wof:parent_id":85676749,
     "wof:placetype":"county",
