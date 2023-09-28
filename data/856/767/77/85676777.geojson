@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.028423,
-    "geom:area_square_m":317300386.159834,
+    "geom:area_square_m":317300275.114509,
     "geom:bbox":"51.260323,25.352175,51.446444,25.589874",
     "geom:latitude":25.469499,
     "geom:longitude":51.343868,
@@ -291,16 +291,18 @@
         "gn:id":389467,
         "gp:id":20070007,
         "hasc:id":"QA.SL",
+        "iso:code":"QA-US",
         "iso:id":"QA-US",
         "qs_pg:id":364434,
         "wd:id":"Q990414"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"b01721eb2a961fab21ba1bfebc2d6f36",
+    "wof:geomhash":"12b8b3840bee999311c7edfa4542a862",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -315,7 +317,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857375,
+    "wof:lastmodified":1695884951,
     "wof:name":"Umm Salal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

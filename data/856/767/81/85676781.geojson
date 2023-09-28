@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.025638,
-    "geom:area_square_m":286109594.46716,
+    "geom:area_square_m":286109751.911256,
     "geom:bbox":"51.403799,25.368321,51.575417,25.653665",
     "geom:latitude":25.510707,
     "geom:longitude":51.464667,
@@ -322,15 +322,17 @@
         "gn:id":8030540,
         "gp:id":-20070007,
         "hasc:id":"QA.DY",
+        "iso:code":"QA-ZA",
         "iso:id":"QA-ZA",
         "wd:id":"Q990414"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"bab9c9e9887df87cee6791d0012fea4c",
+    "wof:geomhash":"9021cf4dac181ef057e3927235b36d0a",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -345,7 +347,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857375,
+    "wof:lastmodified":1695884951,
     "wof:name":"Al Daayen",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

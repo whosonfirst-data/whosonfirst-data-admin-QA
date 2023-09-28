@@ -256,11 +256,13 @@
         "gn:id":389469,
         "gp:id":20070010,
         "hasc:id":"QA.RY",
+        "iso:code":"QA-RA",
         "iso:id":"QA-RA",
         "qs_pg:id":355519,
         "unlc:id":"QA-RA",
         "wd:id":"Q311272"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geomhash":"7af2ecac9b68ad1c039046ac0530f96d",
     "wof:hierarchy":[
@@ -277,7 +279,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493179,
+    "wof:lastmodified":1695884552,
     "wof:name":"Ar Rayyan",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

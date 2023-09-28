@@ -72,8 +72,10 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gn:id":289877,
+        "iso:code":"QA-SH",
         "wk:page":"Al-Shahaniya"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geomhash":"54e7903855dbd3de1a1c60eae1a35a88",
     "wof:hierarchy":[
@@ -90,7 +92,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694493129,
+    "wof:lastmodified":1695884325,
     "wof:name":"Al-Shahaniya",
     "wof:parent_id":85632299,
     "wof:placetype":"region",
