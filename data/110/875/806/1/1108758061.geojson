@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"52"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308707,
     "wof:geomhash":"803bbbbf08f31098f2c55e828b0f3228",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758061,
-    "wof:lastmodified":1694498069,
+    "wof:lastmodified":1695886247,
     "wof:name":"Al Luqta/Old Al Rayyan/Al Zaeem District",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

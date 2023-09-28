@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"55"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308711,
     "wof:geomhash":"2f43c2977736e804a722e98e055f5dd1",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758067,
-    "wof:lastmodified":1694498070,
+    "wof:lastmodified":1695886248,
     "wof:name":"Al Soudan South/Al Waab/Al Aziziya",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

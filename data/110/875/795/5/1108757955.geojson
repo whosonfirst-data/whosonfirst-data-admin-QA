@@ -50,7 +50,10 @@
         85676759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"92"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308645,
     "wof:geom_alt":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108757955,
-    "wof:lastmodified":1694498182,
+    "wof:lastmodified":1695886523,
     "wof:name":"Messaid",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

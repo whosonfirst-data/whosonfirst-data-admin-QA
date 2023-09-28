@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"81"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308721,
     "wof:geomhash":"ceea5985b0ffbb522f551234340e4e75",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758085,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886348,
     "wof:name":"Mebaireek/Bu Nakhla",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

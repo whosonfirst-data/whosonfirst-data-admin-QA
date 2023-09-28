@@ -50,7 +50,10 @@
         85676781
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"69"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308649,
     "wof:geom_alt":[
@@ -66,7 +69,7 @@
         }
     ],
     "wof:id":1108757963,
-    "wof:lastmodified":1694498184,
+    "wof:lastmodified":1695886532,
     "wof:name":"Jabal Thuaileb/Al Kharayej/Lusail/Al Egla/Wadi Al Banat",
     "wof:parent_id":85676781,
     "wof:placetype":"county",
