@@ -46,7 +46,10 @@
         85676759
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"91"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308723,
     "wof:geomhash":"205b302f88f22ed0998d0f808bb16d6e",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758091,
-    "wof:lastmodified":1694498067,
+    "wof:lastmodified":1695886174,
     "wof:name":"Al Thumama / Al Wukair / Al Mashaf",
     "wof:parent_id":85676759,
     "wof:placetype":"county",

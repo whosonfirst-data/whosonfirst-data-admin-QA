@@ -46,7 +46,10 @@
         85676777
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"71"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308729,
     "wof:geomhash":"12b8b3840bee999311c7edfa4542a862",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758101,
-    "wof:lastmodified":1694498069,
+    "wof:lastmodified":1695886247,
     "wof:name":"Al Kharaitiyat/Izghawa/Umm Slal/Umm Al Amad/Umm Obiri",
     "wof:parent_id":85676777,
     "wof:placetype":"county",

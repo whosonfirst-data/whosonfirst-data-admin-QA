@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.019547,
-    "geom:area_square_m":218562971.888009,
+    "geom:area_square_m":218562751.975359,
     "geom:bbox":"51.397751,25.151949,51.647362,25.396163",
     "geom:latitude":25.275372,
     "geom:longitude":51.520838,
@@ -626,11 +626,13 @@
         "gn:id":389470,
         "gp:id":20070008,
         "hasc:id":"QA.DA",
+        "iso:code":"QA-DA",
         "iso:id":"QA-DA",
         "qs_pg:id":355527,
         "unlc:id":"QA-DA",
         "wd:id":"Q3861"
     },
+    "wof:concordances_official":"iso:code",
     "wof:coterminous":[
         421190363,
         1377149699
@@ -640,7 +642,7 @@
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"2ddd2ab49a9aec75a5b1bd13aab2a10b",
+    "wof:geomhash":"ea68314885a56a14097fe464cd06e227",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -655,7 +657,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857376,
+    "wof:lastmodified":1695884405,
     "wof:name":"Ad Dawhah",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

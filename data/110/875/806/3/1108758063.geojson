@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"53"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308709,
     "wof:geomhash":"1763baec50f3e6dbfbf383cc33486d24",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758063,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886360,
     "wof:name":"New Al Rayyan/Muaither North/Al Wajba",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

@@ -1191,6 +1191,7 @@
         "hasc:id":"QA",
         "icao:code":"A7",
         "ioc:id":"QAT",
+        "iso:code":"QA",
         "itu:id":"QAT",
         "loc:id":"n79077269",
         "m49:code":"634",
@@ -1205,6 +1206,7 @@
         "wk:page":"Qatar",
         "wmo:id":"QT"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:country_alpha3":"QAT",
     "wof:geom_alt":[
@@ -1227,7 +1229,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1694639559,
+    "wof:lastmodified":1695881217,
     "wof:name":"Qatar",
     "wof:parent_id":102191569,
     "wof:placetype":"country",

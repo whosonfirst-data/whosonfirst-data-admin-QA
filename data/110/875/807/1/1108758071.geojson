@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"56"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308712,
     "wof:geomhash":"277bc61f068181298c29e1f74f618c36",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758071,
-    "wof:lastmodified":1694498074,
+    "wof:lastmodified":1695886360,
     "wof:name":"New Al Khulaifat/Al Maamoura/Mesaimeer/Ain Khaled",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.144862,
-    "geom:area_square_m":1612905118.447492,
+    "geom:area_square_m":1612905092.843231,
     "geom:bbox":"50.9556,25.559185,51.621163,25.966227",
     "geom:latitude":25.783895,
     "geom:longitude":51.335062,
@@ -296,16 +296,18 @@
         "gn:id":389465,
         "gp:id":20070006,
         "hasc:id":"QA.KR",
+        "iso:code":"QA-KH",
         "iso:id":"QA-KH",
         "qs_pg:id":425210,
         "wd:id":"Q1156471"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geom_alt":[
         "quattroshapes",
         "meso"
     ],
-    "wof:geomhash":"9b84fad35702903b895bd221547db946",
+    "wof:geomhash":"5a30c928b52ec9d9bc15a1d46abf2fe5",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -320,7 +322,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1690857375,
+    "wof:lastmodified":1695884374,
     "wof:name":"Al Khor",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.077422,
-    "geom:area_square_m":860482059.623897,
+    "geom:area_square_m":860482221.943265,
     "geom:bbox":"50.958843,25.844616,51.448446,26.184029",
     "geom:latitude":25.9952,
     "geom:longitude":51.20126,
@@ -156,16 +156,18 @@
         "gn:id":389462,
         "gp:id":20070005,
         "hasc:id":"QA.MS",
+        "iso:code":"QA-MS",
         "iso:id":"QA-MS",
         "qs_pg:id":220139,
         "unlc:id":"QA-MS"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"QA",
     "wof:geom_alt":[
         "meso",
         "quattroshapes"
     ],
-    "wof:geomhash":"8b2d92c9b3adfcdca37801a93ed02e89",
+    "wof:geomhash":"94e7d87a9dfee473092e742e36b25e01",
     "wof:hierarchy":[
         {
             "continent_id":102191569,
@@ -180,7 +182,7 @@
     "wof:lang_x_spoken":[
         "ara"
     ],
-    "wof:lastmodified":1636503123,
+    "wof:lastmodified":1695884951,
     "wof:name":"Madinat ach Shamal",
     "wof:parent_id":85632299,
     "wof:placetype":"region",

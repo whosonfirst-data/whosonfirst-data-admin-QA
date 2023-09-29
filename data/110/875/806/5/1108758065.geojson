@@ -46,7 +46,10 @@
         1377149573
     ],
     "wof:breaches":[],
-    "wof:concordances":{},
+    "wof:concordances":{
+        "meso:local_id":"54"
+    },
+    "wof:concordances_official":"meso:local_id",
     "wof:country":"QA",
     "wof:created":1481308710,
     "wof:geomhash":"38e268ccdc35923326762bab64485e1e",
@@ -59,7 +62,7 @@
         }
     ],
     "wof:id":1108758065,
-    "wof:lastmodified":1694498072,
+    "wof:lastmodified":1695886292,
     "wof:name":"Fereej Al Amir/Muraikh/Al Soudan North",
     "wof:parent_id":1377149573,
     "wof:placetype":"county",
